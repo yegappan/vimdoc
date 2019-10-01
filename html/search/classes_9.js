@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['iactiveime',['IActiveIME',['../interface_active_i_m_m_1_1_i_active_i_m_e.html',1,'ActiveIMM']]],
+  ['iactiveime2',['IActiveIME2',['../interface_active_i_m_m_1_1_i_active_i_m_e2.html',1,'ActiveIMM']]],
+  ['iactiveimmapp',['IActiveIMMApp',['../interface_active_i_m_m_1_1_i_active_i_m_m_app.html',1,'ActiveIMM']]],
+  ['iactiveimmime',['IActiveIMMIME',['../interface_active_i_m_m_1_1_i_active_i_m_m_i_m_e.html',1,'ActiveIMM']]],
+  ['iactiveimmmessagepumpowner',['IActiveIMMMessagePumpOwner',['../interface_active_i_m_m_1_1_i_active_i_m_m_message_pump_owner.html',1,'ActiveIMM']]],
+  ['iactiveimmregistrar',['IActiveIMMRegistrar',['../interface_active_i_m_m_1_1_i_active_i_m_m_registrar.html',1,'ActiveIMM']]],
+  ['icommands',['ICommands',['../interface_vis_vim_1_1_i_commands.html',1,'VisVim']]],
+  ['ienuminputcontext',['IEnumInputContext',['../interface_active_i_m_m_1_1_i_enum_input_context.html',1,'ActiveIMM']]],
+  ['ienumregisterworda',['IEnumRegisterWordA',['../interface_active_i_m_m_1_1_i_enum_register_word_a.html',1,'ActiveIMM']]],
+  ['ienumregisterwordw',['IEnumRegisterWordW',['../interface_active_i_m_m_1_1_i_enum_register_word_w.html',1,'ActiveIMM']]],
+  ['imeinfo',['IMEINFO',['../struct_active_i_m_m_1_1_i_m_e_i_n_f_o.html',1,'ActiveIMM']]],
+  ['imemenuiteminfoa',['IMEMENUITEMINFOA',['../struct_active_i_m_m_1_1_i_m_e_m_e_n_u_i_t_e_m_i_n_f_o_a.html',1,'ActiveIMM']]],
+  ['imemenuiteminfow',['IMEMENUITEMINFOW',['../struct_active_i_m_m_1_1_i_m_e_m_e_n_u_i_t_e_m_i_n_f_o_w.html',1,'ActiveIMM']]],
+  ['incsearch_5fstate_5ft',['incsearch_state_T',['../structincsearch__state___t.html',1,'']]],
+  ['info_5fpointer',['info_pointer',['../structinfo__pointer.html',1,'']]],
+  ['inputcontext',['INPUTCONTEXT',['../struct_active_i_m_m_1_1_i_n_p_u_t_c_o_n_t_e_x_t.html',1,'ActiveIMM']]],
+  ['interval',['interval',['../structinterval.html',1,'']]],
+  ['item',['Item',['../struct_font_cache_1_1_item.html',1,'FontCache']]],
+  ['item',['ITEM',['../struct_i_t_e_m.html',1,'']]],
+  ['iterobject',['IterObject',['../struct_iter_object.html',1,'']]],
+  ['itmlst1',['ITMLST1',['../struct_i_t_m_l_s_t1.html',1,'']]],
+  ['itmlst2',['ITMLST2',['../struct_i_t_m_l_s_t2.html',1,'']]],
+  ['ivim',['IVim',['../interface_i_vim.html',1,'']]],
+  ['ivimvtbl',['IVimVtbl',['../struct_i_vim_vtbl.html',1,'']]]
+];

@@ -1,0 +1,9 @@
+<map id="ses_win_rec" name="ses_win_rec">
+<area shape="rect" id="node2" href="$session_8c.html#a6c5464bab339d9acab2a07abae8584e9" title="ses_skipframe" alt="" coords="148,31,255,57"/>
+<area shape="rect" id="node7" href="$session_8c.html#aeb90db96aedc6a9d30927b9846e079fd" title="put_line" alt="" coords="168,81,235,108"/>
+<area shape="rect" id="node8" href="$session_8c.html#a47652016ae7d425ffcc64d8153ee2533" title="put_eol" alt="" coords="323,107,387,133"/>
+<area shape="rect" id="node3" href="$session_8c.html#a7f5a2078f96b942048e118bbc9232459" title="ses_do_frame" alt="" coords="303,31,407,57"/>
+<area shape="rect" id="node4" href="$session_8c.html#a52e97cb20267d2e1837baa2a185e8010" title="ses_do_win" alt="" coords="455,31,545,57"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#a75cd7a4d953773d99a198be478596f32" title="bt_nofilename" alt="" coords="593,5,696,32"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a27c41fee230cdb0331c24bffff1bd151" title="bt_help" alt="" coords="613,56,677,83"/>
+</map>

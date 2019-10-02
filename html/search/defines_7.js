@@ -14,7 +14,6 @@ var searchData=
   ['get_5fattr_5fstring',['GET_ATTR_STRING',['../if__python3_8c.html#a1e94b1b8f256883700a7cb0ab90ff4b1',1,'if_python3.c']]],
   ['get_5fchartab',['GET_CHARTAB',['../charset_8c.html#ae5a7ac3d74d578aec18355c0a35f3479',1,'charset.c']]],
   ['get_5floc_5flist',['GET_LOC_LIST',['../quickfix_8c.html#a9ed7d5e86774f3378d67a4d94d2a59b8',1,'quickfix.c']]],
-  ['get_5fspecial_5fpty_5ftype_5ffunction',['GET_SPECIAL_PTY_TYPE_FUNCTION',['../unicode_8c.html#a50bfbd854ea43f90f7e6a859cad4e982',1,'unicode.c']]],
   ['get_5fuint32',['GET_UINT32',['../sha256_8c.html#a544d14714aed6d150435336296c66061',1,'sha256.c']]],
   ['get_5fx_5fatom',['GET_X_ATOM',['../gui__gtk__x11_8c.html#a6b5f2f2b5b56675d3a6ec21c92d02693',1,'gui_gtk_x11.c']]],
   ['get_5fx_5flparam',['GET_X_LPARAM',['../gui__w32_8c.html#ab0f946f0bc1420f02a55bf85f6aff276',1,'gui_w32.c']]],

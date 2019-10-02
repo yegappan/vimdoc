@@ -1,0 +1,12 @@
+<map id="match_suffix" name="match_suffix">
+<area shape="rect" id="node2" href="$misc2_8c.html#a2c53531dd0451dcef1ae39403b49ee67" title="copy_option_part" alt="" coords="151,30,272,57"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="539,81,621,107"/>
+<area shape="rect" id="node8" href="$filepath_8c.html#a3a027a38b217222ac4d9ebe8ce5c1947" title="gettail" alt="" coords="183,131,240,158"/>
+<area shape="rect" id="node7" href="$misc1_8c.html#a5b68c35acc590eab437adf3fe74fa02d" title="skip_to_option_part" alt="" coords="332,30,467,57"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="681,55,772,82"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="681,106,772,133"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="820,55,903,82"/>
+<area shape="rect" id="node9" href="$filepath_8c.html#a722fc44c1b4c4f00e0a92cd2f50969a4" title="get_past_head" alt="" coords="346,131,453,158"/>
+<area shape="rect" id="node11" href="$filepath_8c.html#a00312a4bf9117289fcc81ae86b02cbc7" title="vim_ispathsep_nocolon" alt="" coords="320,182,479,209"/>
+<area shape="rect" id="node10" href="$filepath_8c.html#acb4aef03c801e568565f34c9e10d25cf" title="vim_ispathsep" alt="" coords="527,157,633,183"/>
+</map>

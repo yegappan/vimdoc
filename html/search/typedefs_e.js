@@ -5,7 +5,6 @@ var searchData=
   ['pfngetconsolescreenbufferinfoex',['PfnGetConsoleScreenBufferInfoEx',['../os__win32_8c.html#a1ae313a3aec3082389c48eb43d3652e0',1,'os_win32.c']]],
   ['pfnrtlgetversion',['PfnRtlGetVersion',['../os__win32_8c.html#ac5cf69e1cb4d0c4c218429d39eb3b68a',1,'os_win32.c']]],
   ['pfnsetconsolescreenbufferinfoex',['PfnSetConsoleScreenBufferInfoEx',['../os__win32_8c.html#ae7b5d79ccad9f1537e6b9dda6d3ced10',1,'os_win32.c']]],
-  ['pixel',['Pixel',['../xpm_8h.html#a6c848d6a09e985e41398c31052a6c6c6',1,'xpm.h']]],
   ['posmatch_5ft',['posmatch_T',['../structs_8h.html#ae36ebc3b22f4c1ab9af6e4e9daeafda1',1,'structs.h']]],
   ['proftime_5ft',['proftime_T',['../vim_8h.html#a983193bd908c7bc4bef972f6a15f8dab',1,'vim.h']]],
   ['proptype_5ft',['proptype_T',['../structs_8h.html#adbd75e6ec508f09ff2cbab5c8098624f',1,'structs.h']]],

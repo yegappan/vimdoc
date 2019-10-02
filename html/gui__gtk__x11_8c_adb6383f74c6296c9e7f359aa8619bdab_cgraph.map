@@ -1,0 +1,17 @@
+<map id="gui_mch_enable_menu" name="gui_mch_enable_menu">
+<area shape="rect" id="node2" href="$gui__gtk__x11_8c.html#a62baa5f8dee53bca96f6895a6f4735da" title="update_window_manager\l_hints" alt="" coords="208,175,377,217"/>
+<area shape="rect" id="node3" href="$gui_8c.html#a050c8717ae13e3097415b46ee697307a" title="gui_get_base_width" alt="" coords="431,5,569,32"/>
+<area shape="rect" id="node4" href="$gui_8c.html#a1b00fdf591add9f6dec9c9e41e72698d" title="gui_get_base_height" alt="" coords="429,56,571,83"/>
+<area shape="rect" id="node10" href="$window_8c.html#aeb34215e11d8d1ff9c8b896c64330ddc" title="tabline_height" alt="" coords="449,107,551,133"/>
+<area shape="rect" id="node11" href="$gui__gtk__x11_8c.html#a1164603a3ddf67f4b484a53e5a4d5224" title="get_menu_tool_width" alt="" coords="427,157,573,184"/>
+<area shape="rect" id="node13" href="$gui__gtk__x11_8c.html#afccb87e42a4184b18a6a7e5832b8caf9" title="get_menu_tool_height" alt="" coords="425,208,575,235"/>
+<area shape="rect" id="node14" href="$window_8c.html#a18a5017e016b3bdd246ccd079bce4915" title="tabpage_index" alt="" coords="447,259,553,285"/>
+<area shape="rect" id="node15" href="$window_8c.html#a6c55fcd8275b07558029a8d6d10ef0a5" title="tabpage_move" alt="" coords="447,309,553,336"/>
+<area shape="rect" id="node16" href="$gui__gtk__x11_8c.html#a4bb6ea64880092f3bde985271d6b225b" title="gui_mch_update" alt="" coords="441,360,559,387"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="665,40,748,67"/>
+<area shape="rect" id="node9" href="$gui__motif_8c.html#a3de166d55eabb3ce60af8d965e52641c" title="gui_mch_text_area_extra\l_height" alt="" coords="623,91,791,133"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="839,15,929,41"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="839,65,929,92"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="977,15,1060,41"/>
+<area shape="rect" id="node12" href="$gui__gtk__x11_8c.html#a2c1e275c0aa1ff3972a0f3f1710838e5" title="get_item_dimensions" alt="" coords="634,175,779,201"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="skip_comment" name="skip_comment">
+<area shape="rect" id="node2" href="$misc1_8c.html#a0f2b4b4ee7b603985ca07c2eae8439c6" title="get_last_leader_offset" alt="" coords="160,5,311,32"/>
+<area shape="rect" id="node9" href="$misc1_8c.html#aeda10f651e509459b8ec03fc482dbfe5" title="get_leader_len" alt="" coords="182,56,289,83"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a2c53531dd0451dcef1ae39403b49ee67" title="copy_option_part" alt="" coords="359,31,480,57"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="554,56,637,83"/>
+<area shape="rect" id="node8" href="$misc1_8c.html#a5b68c35acc590eab437adf3fe74fa02d" title="skip_to_option_part" alt="" coords="528,5,663,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="711,31,801,57"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="711,81,801,108"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="849,31,932,57"/>
+</map>

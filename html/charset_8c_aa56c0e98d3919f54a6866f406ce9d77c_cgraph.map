@@ -1,0 +1,25 @@
+<map id="win_lbr_chartabsize" name="win_lbr_chartabsize">
+<area shape="rect" id="node2" href="$charset_8c.html#acc297a6648ae32b3e616c5cbc7da5743" title="win_nolbr_chartabsize" alt="" coords="191,321,341,348"/>
+<area shape="rect" id="node12" href="$charset_8c.html#ad7f7aa8bd25e337c81915698bd816881" title="in_win_border" alt="" coords="390,360,493,387"/>
+<area shape="rect" id="node13" href="$move_8c.html#a7e10c7731310498cedeb0be4835d0b0d" title="win_col_off" alt="" coords="545,360,633,387"/>
+<area shape="rect" id="node16" href="$move_8c.html#ac17270abfc201c6f538f5bf0912970c3" title="win_col_off2" alt="" coords="542,284,637,311"/>
+<area shape="rect" id="node19" href="$charset_8c.html#a82925b7a6ef1b0c3042c5d18a7a00922" title="win_chartabsize" alt="" coords="208,473,324,500"/>
+<area shape="rect" id="node20" href="$charset_8c.html#a447c389a54f297c34048c23238d95fcd" title="vim_strsize" alt="" coords="397,5,486,32"/>
+<area shape="rect" id="node23" href="$misc1_8c.html#aca24a48840c36a6a7fb938a60d6f861e" title="get_breakindent_win" alt="" coords="195,195,337,221"/>
+<area shape="rect" id="node3" href="$charset_8c.html#af4f1908325e378232fe669cbba42f9a9" title="ptr2cells" alt="" coords="705,56,775,83"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#aa2b8417af4780857146a0c2791fcac66" title="utf_ptr2cells" alt="" coords="843,56,936,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="984,107,1075,133"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="988,157,1071,184"/>
+<area shape="rect" id="node7" href="$charset_8c.html#a12473ab1872440ac9585951bae14e8a9" title="char2cells" alt="" coords="989,56,1070,83"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#ac38b8ec71563a4bd534a6e45504dac29" title="utf_char2cells" alt="" coords="1123,31,1225,57"/>
+<area shape="rect" id="node9" href="$mbyte_8c.html#a8dbba5cc8e34186e23fdcfc8d0900fa1" title="utf_printable" alt="" coords="1413,31,1507,57"/>
+<area shape="rect" id="node10" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="1555,5,1615,32"/>
+<area shape="rect" id="node11" href="$charset_8c.html#aeb4141651c00c84f98b62da073716144" title="vim_isprintc" alt="" coords="1273,31,1365,57"/>
+<area shape="rect" id="node14" href="$screen_8c.html#a9c404f9aed34a4bdceb3df25c2d80d33" title="number_width" alt="" coords="689,284,791,311"/>
+<area shape="rect" id="node15" href="$option_8c.html#a17cda8b05ef3ab37c747137fa3bf23c1" title="signcolumn_on" alt="" coords="685,360,795,387"/>
+<area shape="rect" id="node17" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="699,157,781,184"/>
+<area shape="rect" id="node18" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="844,157,935,184"/>
+<area shape="rect" id="node21" href="$charset_8c.html#ac58f2b235192879e481787179b74cf00" title="vim_strnsize" alt="" coords="541,5,637,32"/>
+<area shape="rect" id="node22" href="$charset_8c.html#a8dd1205204179cb986f6127534c2e357" title="byte2cells" alt="" coords="699,5,781,32"/>
+<area shape="rect" id="node24" href="$misc1_8c.html#aacdf51e3b6fc6d2ccc37fa1d82080098" title="get_indent_str" alt="" coords="389,56,493,83"/>
+</map>

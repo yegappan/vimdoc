@@ -1,0 +1,21 @@
+<map id="termcap_mode_start" name="termcap_mode_start">
+<area shape="rect" id="node2" href="$os__win32_8c.html#a91140b3f382e1228e7a0bc80dae8dd7c" title="SaveConsoleBuffer" alt="" coords="216,107,351,133"/>
+<area shape="rect" id="node4" href="$os__win32_8c.html#ad1a3763afdd583cc86ffd315f6032afb" title="RestoreConsoleBuffer" alt="" coords="208,56,359,83"/>
+<area shape="rect" id="node5" href="$os__win32_8c.html#a25775f7171678154fb3277177077b5aa" title="ClearConsoleBuffer" alt="" coords="420,5,556,32"/>
+<area shape="rect" id="node7" href="$os__win32_8c.html#a6fbb703eab1eecaf6bb7dc5c48eab96d" title="reset_console_color_rgb" alt="" coords="202,157,365,184"/>
+<area shape="rect" id="node8" href="$os__win32_8c.html#a41eae2f165e424e1dc31fddc498a9a27" title="set_console_color_rgb" alt="" coords="207,259,359,285"/>
+<area shape="rect" id="node12" href="$os__win32_8c.html#aa9e3d0b2ceb089f8e43469805af0fa87" title="ResizeConBufAndWindow" alt="" coords="195,309,372,336"/>
+<area shape="rect" id="node15" href="$buffer_8c.html#a221cf536cec04557d6689df215eff35c" title="resettitle" alt="" coords="247,208,319,235"/>
+<area shape="rect" id="node17" href="$drawscreen_8c.html#a209da4f647d509e95e47cb83ffb0bef5" title="redraw_later_clear" alt="" coords="219,411,347,437"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="452,132,524,159"/>
+<area shape="rect" id="node6" href="$os__win32_8c.html#a589f1b07aa06f1f4e7ebda43e6f611cf" title="FitConsoleWindow" alt="" coords="422,56,554,83"/>
+<area shape="rect" id="node9" href="$highlight_8c.html#a81568cefb6df0f84da039d8a8faf5c8b" title="syn_name2id" alt="" coords="439,259,537,285"/>
+<area shape="rect" id="node10" href="$misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="617,284,711,311"/>
+<area shape="rect" id="node11" href="$misc2_8c.html#a38a525795766d9fe19bde7929cba110a" title="vim_strup" alt="" coords="625,233,703,260"/>
+<area shape="rect" id="node13" href="$os__win32_8c.html#a180b3e48020a67eb86d33c2779f8aba8" title="ResizeWindow" alt="" coords="433,360,543,387"/>
+<area shape="rect" id="node14" href="$os__win32_8c.html#abe5f144a145303967703f40fdcce6e04" title="ResizeConBuf" alt="" coords="435,309,541,336"/>
+<area shape="rect" id="node16" href="$os__amiga_8c.html#ad0a966eeace75f6aa690946f9746b2c9" title="mch_settitle" alt="" coords="441,208,535,235"/>
+<area shape="rect" id="node18" href="$drawscreen_8c.html#a6cfdbac5c3017ed3f6f8c70035ea3e5d" title="redraw_all_later" alt="" coords="431,461,545,488"/>
+<area shape="rect" id="node20" href="$screen_8c.html#a52381dbba1987c01ce703795bac34dfd" title="reset_screen_attr" alt="" coords="427,411,549,437"/>
+<area shape="rect" id="node19" href="$drawscreen_8c.html#a75f787af652221777afbee0bc84a9810" title="redraw_win_later" alt="" coords="604,461,724,488"/>
+</map>

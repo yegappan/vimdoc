@@ -1,0 +1,9 @@
+<map id="spell_cat_line" name="spell_cat_line">
+<area shape="rect" id="node2" href="$charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="165,5,242,32"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="162,56,245,83"/>
+<area shape="rect" id="node7" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="155,107,252,133"/>
+<area shape="rect" id="node8" href="$misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="157,157,250,184"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="300,31,391,57"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="300,81,391,108"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="439,31,521,57"/>
+</map>

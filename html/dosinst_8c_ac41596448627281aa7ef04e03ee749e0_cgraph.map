@@ -1,0 +1,12 @@
+<map id="install" name="install">
+<area shape="rect" id="node2" href="$dosinst_8c.html#abb0bbeb48d7452f2d9a1661a4507ba5a" title="install_registry" alt="" coords="125,107,232,133"/>
+<area shape="rect" id="node11" href="$dosinst_8c.html#af817494a18ef9eed19c128f78e409c3e" title="install_OLE_register" alt="" coords="109,157,248,184"/>
+<area shape="rect" id="node3" href="$dosinst_8h.html#a1cc0c57597db10a843e05d2267c3d504" title="is_64bit_os" alt="" coords="327,5,415,32"/>
+<area shape="rect" id="node4" href="$dosinst_8c.html#a2ef52bec176ed512c7eb2104831581d4" title="register_inproc_server" alt="" coords="296,56,447,83"/>
+<area shape="rect" id="node8" href="$dosinst_8c.html#a13f286a1c010384eca91dad39f6da46b" title="register_shellex" alt="" coords="315,107,428,133"/>
+<area shape="rect" id="node9" href="$dosinst_8c.html#a48dc6cc27ecdba84b0695dd1b6143184" title="register_openwith" alt="" coords="309,157,433,184"/>
+<area shape="rect" id="node10" href="$dosinst_8c.html#a741735a2c3faaf8b7c511103efb61130" title="register_uninstall" alt="" coords="311,208,431,235"/>
+<area shape="rect" id="node5" href="$dosinst_8c.html#aa1c8465d7a18e0f72d83c3de28ef19db" title="reg_create_key_and\l_value" alt="" coords="495,125,633,166"/>
+<area shape="rect" id="node6" href="$dosinst_8c.html#a83f3ef8cddf127b3ed9e367b6f4456e2" title="reg_create_key" alt="" coords="697,107,808,133"/>
+<area shape="rect" id="node7" href="$dosinst_8c.html#affb36fd60b5bf1bf39a3b4eb3b9188dc" title="reg_set_string_value" alt="" coords="681,157,824,184"/>
+</map>

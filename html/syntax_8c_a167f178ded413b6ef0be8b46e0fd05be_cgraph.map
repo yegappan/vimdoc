@@ -1,0 +1,7 @@
+<map id="invalidate_current_state" name="invalidate_current_state">
+<area shape="rect" id="node2" href="$syntax_8c.html#a53344c7b94730feafad2e3a9c85781f3" title="clear_current_state" alt="" coords="177,31,311,57"/>
+<area shape="rect" id="node3" href="$regexp_8c.html#a14a2522cb2782f01fde6ec96eb70e25a" title="unref_extmatch" alt="" coords="359,5,471,32"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="379,56,450,83"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="519,5,591,32"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="525,56,585,83"/>
+</map>

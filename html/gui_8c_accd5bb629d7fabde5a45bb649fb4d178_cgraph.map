@@ -1,0 +1,13 @@
+<map id="gui_mouse_focus" name="gui_mouse_focus">
+<area shape="rect" id="node2" href="$gui_8c.html#a2ceb0d60fa6540dcdf22df08a22cdb10" title="xy2win" alt="" coords="206,107,269,133"/>
+<area shape="rect" id="node11" href="$window_8c.html#aeb34215e11d8d1ff9c8b896c64330ddc" title="tabline_height" alt="" coords="186,157,289,184"/>
+<area shape="rect" id="node12" href="$gui_8c.html#a09686e21914deee28d9c501c10417a1d" title="fill_mouse_coord" alt="" coords="177,208,297,235"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#a972a19a6f8d4db198569218a2cbd1c5f" title="mouse_find_win" alt="" coords="345,81,461,108"/>
+<area shape="rect" id="node10" href="$screen_8c.html#a8a284f0cd2834bf8bc7d5d383a8c5df6" title="stl_connected" alt="" coords="352,132,455,159"/>
+<area shape="rect" id="node4" href="$popupwin_8c.html#ad01a741bb6e23f8ba2b79eacc6cf89f4" title="popup_reset_handled" alt="" coords="509,5,655,32"/>
+<area shape="rect" id="node5" href="$popupwin_8c.html#ad040dbf4572b46ed3375145d7dddfb18" title="find_next_popup" alt="" coords="523,56,641,83"/>
+<area shape="rect" id="node6" href="$popupwin_8c.html#a18bf324b937569a648012acc68065faf" title="popup_height" alt="" coords="533,107,631,133"/>
+<area shape="rect" id="node8" href="$popupwin_8c.html#a8fd1d7a2c52fca4786b21b2ea0f11447" title="popup_width" alt="" coords="535,157,629,184"/>
+<area shape="rect" id="node7" href="$popupwin_8c.html#af0a3e03ad3b51c9115b942834730fbc3" title="popup_top_extra" alt="" coords="709,107,827,133"/>
+<area shape="rect" id="node9" href="$popupwin_8c.html#a0df1567c4fafa82bc2f0a95526aff31e" title="popup_extra_width" alt="" coords="703,157,833,184"/>
+</map>

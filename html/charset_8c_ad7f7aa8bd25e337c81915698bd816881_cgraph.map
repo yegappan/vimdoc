@@ -1,0 +1,10 @@
+<map id="in_win_border" name="in_win_border">
+<area shape="rect" id="node2" href="$move_8c.html#a7e10c7731310498cedeb0be4835d0b0d" title="win_col_off" alt="" coords="159,31,247,57"/>
+<area shape="rect" id="node5" href="$move_8c.html#ac17270abfc201c6f538f5bf0912970c3" title="win_col_off2" alt="" coords="156,81,251,108"/>
+<area shape="rect" id="node3" href="$screen_8c.html#a9c404f9aed34a4bdceb3df25c2d80d33" title="number_width" alt="" coords="302,56,405,83"/>
+<area shape="rect" id="node4" href="$option_8c.html#a17cda8b05ef3ab37c747137fa3bf23c1" title="signcolumn_on" alt="" coords="299,5,408,32"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="312,107,395,133"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="456,81,547,108"/>
+<area shape="rect" id="node9" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="456,132,547,159"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="595,81,677,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="gui_mch_submenu_change" name="gui_mch_submenu_change">
+<area shape="rect" id="node2" href="$gui__athena_8c.html#aa2945085d0dda15307e2c7b2d71ac23e" title="gui_athena_menu_colors" alt="" coords="233,5,400,32"/>
+<area shape="rect" id="node3" href="$gui__athena_8c.html#a114ed0aa1e392cb73bd9da134a8c89b2" title="gui_athena_menu_font" alt="" coords="240,56,393,83"/>
+<area shape="rect" id="node4" href="$gui__athena_8c.html#a41530308c1bcf64081906689818d09b3" title="has_submenu" alt="" coords="448,56,551,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="gui_get_lightness" name="gui_get_lightness">
+<area shape="rect" id="node2" href="$gui__gtk__x11_8c.html#aa9a133d98b93f8784694eb12b85d1829" title="gui_mch_get_rgb" alt="" coords="191,5,313,32"/>
+<area shape="rect" id="node3" href="$gui__athena_8c.html#aefec47fec3e905cab4ae982572264941" title="gui_mch_set_scrollbar\l_colors" alt="" coords="176,57,328,98"/>
+<area shape="rect" id="node4" href="$gui__athena_8c.html#a228134b9ebc60ad4c90bf2e72e923669" title="gui_athena_scroll_colors" alt="" coords="376,64,541,91"/>
+</map>

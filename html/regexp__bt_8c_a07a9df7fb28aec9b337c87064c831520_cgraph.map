@@ -1,0 +1,7 @@
+<map id="coll_get_char" name="coll_get_char">
+<area shape="rect" id="node2" href="$regexp_8c.html#a47a18fefa87191bfee029a23df83dbca" title="getdecchrs" alt="" coords="152,5,239,32"/>
+<area shape="rect" id="node3" href="$regexp_8c.html#aa3dc7d1facc61311070e1b7ea61b0370" title="getoctchrs" alt="" coords="154,56,237,83"/>
+<area shape="rect" id="node6" href="$regexp_8c.html#ad672fa1734bd44058dd7af298e27d644" title="gethexchrs" alt="" coords="152,107,239,133"/>
+<area shape="rect" id="node4" href="$charset_8c.html#a58ed0722af2b6452235a9c269767aa0c" title="hex2nr" alt="" coords="287,56,348,83"/>
+<area shape="rect" id="node5" href="$charset_8c.html#a269e1797f0d8a95bd4cc2258588f8a63" title="vim_isxdigit" alt="" coords="396,81,487,108"/>
+</map>

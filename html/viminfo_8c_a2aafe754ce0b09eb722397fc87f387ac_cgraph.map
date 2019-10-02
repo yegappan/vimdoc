@@ -1,0 +1,12 @@
+<map id="write_viminfo_search_pattern" name="write_viminfo_search_pattern">
+<area shape="rect" id="node2" href="$viminfo_8c.html#abd8579be19f99b759c27e62dbb739ebf" title="get_viminfo_parameter" alt="" coords="199,31,353,57"/>
+<area shape="rect" id="node3" href="$viminfo_8c.html#a542133dc940d27373c238a6d81ce1828" title="find_viminfo_parameter" alt="" coords="401,31,559,57"/>
+<area shape="rect" id="node8" href="$viminfo_8c.html#aca8954e32c84cf53497e45e9103a998b" title="wvsp_one" alt="" coords="235,132,317,159"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="607,31,689,57"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="737,5,828,32"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="737,56,828,83"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="876,5,959,32"/>
+<area shape="rect" id="node9" href="$search_8c.html#a2c300bf0c1d46df99451a868e3923a60" title="get_spat" alt="" coords="444,81,516,108"/>
+<area shape="rect" id="node10" href="$search_8c.html#a4889b6fe3e3617c7c18c5ee73f41699b" title="get_spat_last_idx" alt="" coords="418,132,542,159"/>
+<area shape="rect" id="node11" href="$viminfo_8c.html#ad5d11aa1ffb4e445047cf3d51e67147a" title="viminfo_writestring" alt="" coords="415,183,545,209"/>
+</map>

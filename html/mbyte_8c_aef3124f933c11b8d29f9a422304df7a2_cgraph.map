@@ -1,0 +1,8 @@
+<map id="mb_get_class" name="mb_get_class">
+<area shape="rect" id="node2" href="$mbyte_8c.html#ae242a847bc7d90805007de2faec56759" title="mb_get_class_buf" alt="" coords="156,81,284,108"/>
+<area shape="rect" id="node3" href="$charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="332,56,452,83"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="506,5,594,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="500,56,600,83"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="347,157,437,184"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="648,56,708,83"/>
+</map>

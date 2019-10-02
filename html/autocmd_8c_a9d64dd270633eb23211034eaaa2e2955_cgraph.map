@@ -1,0 +1,5 @@
+<map id="trigger_cursorhold" name="trigger_cursorhold">
+<area shape="rect" id="node2" href="$autocmd_8c.html#abe8c0e87f72b84fc35786a61392a104d" title="has_cursorhold" alt="" coords="185,5,295,32"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#afe85edbc7e89028f3458139f134226aa" title="get_real_state" alt="" coords="349,31,453,57"/>
+<area shape="rect" id="node4" href="$insexpand_8c.html#ae6124ba853cb98a851dcf446a6239dbb" title="ins_compl_active" alt="" coords="179,107,301,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="activate_dialog_mnemonics" name="activate_dialog_mnemonics">
+<area shape="rect" id="node2" href="$gui__motif_8c.html#a945613695b3ec7b84d34f3ce5891fe93" title="mnemonic_event" alt="" coords="250,5,371,32"/>
+<area shape="rect" id="node5" href="$gui__motif_8c.html#a4122444eea489c9283b88b0a4bc118cb" title="add_mnemonic_grabs" alt="" coords="236,56,385,83"/>
+<area shape="rect" id="node3" href="$gui__motif_8c.html#a7392f877313308f8e616ee68d98902f7" title="do_mnemonic" alt="" coords="433,5,536,32"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="584,5,681,32"/>
+</map>

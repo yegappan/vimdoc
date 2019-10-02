@@ -1,0 +1,10 @@
+<map id="put_folds" name="put_folds">
+<area shape="rect" id="node2" href="$fold_8c.html#a33f813ab023dd9442780a9c1571d0a9f" title="foldmethodIsManual" alt="" coords="132,5,271,32"/>
+<area shape="rect" id="node3" href="$session_8c.html#aeb90db96aedc6a9d30927b9846e079fd" title="put_line" alt="" coords="360,107,427,133"/>
+<area shape="rect" id="node5" href="$fold_8c.html#a766b37973f28f45c07249f52fd578016" title="put_folds_recurse" alt="" coords="139,56,264,83"/>
+<area shape="rect" id="node6" href="$fold_8c.html#a770c28b80d35eb0a5602444dd5d1dc1a" title="put_foldopen_recurse" alt="" coords="128,157,275,184"/>
+<area shape="rect" id="node4" href="$session_8c.html#a47652016ae7d425ffcc64d8153ee2533" title="put_eol" alt="" coords="514,132,578,159"/>
+<area shape="rect" id="node7" href="$fold_8c.html#a32f01d23c146fcc01cfff1689c9cecfc" title="put_fold_open_close" alt="" coords="323,157,464,184"/>
+<area shape="rect" id="node8" href="$fold_8c.html#ae900db8e50204077ea1152e161da945c" title="foldLevelWin" alt="" coords="345,259,442,285"/>
+<area shape="rect" id="node9" href="$fold_8c.html#a9a8eed7fca893d2aeef7fe9b14a7267e" title="foldFind" alt="" coords="512,259,580,285"/>
+</map>

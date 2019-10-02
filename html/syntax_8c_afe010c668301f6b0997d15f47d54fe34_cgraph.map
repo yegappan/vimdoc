@@ -1,0 +1,16 @@
+<map id="syntax_sync_clear" name="syntax_sync_clear">
+<area shape="rect" id="node2" href="$syntax_8c.html#ae2c43f8a4004460e1a7e57b8054f2348" title="syn_remove_pattern" alt="" coords="184,56,324,83"/>
+<area shape="rect" id="node5" href="$regexp_8c.html#ae85d66ec0c262d0e6c22766cd75e0287" title="vim_regfree" alt="" coords="584,107,675,133"/>
+<area shape="rect" id="node8" href="$optionstr_8c.html#a240b18e25b182721c6fa5467413a5383" title="clear_string_option" alt="" coords="737,5,868,32"/>
+<area shape="rect" id="node9" href="$syntax_8c.html#ad5405954b6400bac1c01b5a4f4730bf8" title="syn_stack_free_all" alt="" coords="189,183,319,209"/>
+<area shape="rect" id="node3" href="$syntax_8c.html#af49d43dec342c2303e9d4dbae3f0b98f" title="syn_clear_pattern" alt="" coords="384,56,509,83"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="916,107,988,133"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="767,157,838,184"/>
+<area shape="rect" id="node7" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="922,157,982,184"/>
+<area shape="rect" id="node10" href="$syntax_8c.html#ad6d7716c4b7ce4e04a1afe160ae15f07" title="syn_stack_free_block" alt="" coords="372,157,521,184"/>
+<area shape="rect" id="node13" href="$fold_8c.html#a539d99b2dd98a786415811d79f72a02d" title="foldmethodIsSyntax" alt="" coords="377,208,516,235"/>
+<area shape="rect" id="node14" href="$fold_8c.html#a2e8c67487e90a1d4957853f4e328bbf9" title="foldUpdateAll" alt="" coords="397,259,497,285"/>
+<area shape="rect" id="node11" href="$syntax_8c.html#a7fdf40661bc7c470d6dd9250df3d2d21" title="clear_syn_state" alt="" coords="572,157,687,184"/>
+<area shape="rect" id="node12" href="$regexp_8c.html#a14a2522cb2782f01fde6ec96eb70e25a" title="unref_extmatch" alt="" coords="747,208,859,235"/>
+<area shape="rect" id="node15" href="$drawscreen_8c.html#a75f787af652221777afbee0bc84a9810" title="redraw_win_later" alt="" coords="569,259,689,285"/>
+</map>

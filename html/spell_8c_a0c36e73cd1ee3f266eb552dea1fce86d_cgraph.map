@@ -1,0 +1,10 @@
+<map id="make_case_word" name="make_case_word">
+<area shape="rect" id="node2" href="$spell_8c.html#aa027edb1b6551998884b7e9e84d69372" title="allcap_copy" alt="" coords="181,56,272,83"/>
+<area shape="rect" id="node8" href="$spell_8c.html#aa1a40bd942c4c476aac46aebd8e48287" title="onecap_copy" alt="" coords="177,107,276,133"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="324,56,453,83"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="519,5,601,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="515,56,605,83"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="501,107,619,133"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="667,107,727,133"/>
+<area shape="rect" id="node9" href="$misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="342,107,435,133"/>
+</map>

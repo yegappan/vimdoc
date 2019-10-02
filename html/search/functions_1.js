@@ -44,7 +44,6 @@ var searchData=
   ['add_5fto_5fshowcmd',['add_to_showcmd',['../normal_8c.html#a825cd0508141cd5e1b96e18db61afa7c',1,'normal.c']]],
   ['add_5fto_5fshowcmd_5fc',['add_to_showcmd_c',['../normal_8c.html#a9c0b881f5543eea98e58740e4bc31f0e',1,'normal.c']]],
   ['add_5fuser',['add_user',['../misc1_8c.html#a001cc4d48a73e36ec1163888be28fc38',1,'misc1.c']]],
-  ['addcommand',['AddCommand',['../class_c_d_s_add_in.html#a3a9d9b4f8893c9880c1b9bd2f6055f5f',1,'CDSAddIn']]],
   ['addfile',['addfile',['../filepath_8c.html#a3ba68e1f14551ad40298eb34ed42a4da',1,'filepath.c']]],
   ['addr_5ferror',['addr_error',['../ex__docmd_8c.html#a7d82f900840417d0ccd9220065f77185',1,'ex_docmd.c']]],
   ['addstar',['addstar',['../cmdexpand_8c.html#ada0f88e2b53b4e72a88d3151865725b5',1,'cmdexpand.c']]],
@@ -107,7 +106,6 @@ var searchData=
   ['append_5farg_5fnumber',['append_arg_number',['../buffer_8c.html#ab0f35d99c673c3a1dc23b83037db0fae',1,'buffer.c']]],
   ['append_5fcommand',['append_command',['../ex__docmd_8c.html#a1bca05a47b7a18c28597bd587245cf57',1,'ex_docmd.c']]],
   ['append_5fredir',['append_redir',['../ex__cmds_8c.html#a2082eaf74fbe9db7acaea063afb25b2f',1,'ex_cmds.c']]],
-  ['append_5fstrbuffer',['append_strbuffer',['../parser_8c.html#ad6c0cc477c493d2f7508912f21225476',1,'parser.c']]],
   ['appendchartoredobuff',['AppendCharToRedobuff',['../getchar_8c.html#a28ce387f3d104fad5b86abb68dd11a15',1,'getchar.c']]],
   ['appended_5flines',['appended_lines',['../change_8c.html#ad3b09c47fc9d987ca3d026f199168404',1,'change.c']]],
   ['appended_5flines_5fmark',['appended_lines_mark',['../change_8c.html#a48a4a58c8187614306bb16f0eee54e7f',1,'change.c']]],
@@ -138,7 +136,6 @@ var searchData=
   ['associatecontextex',['AssociateContextEx',['../interface_active_i_m_m_1_1_i_active_i_m_m_app.html#ac2187086bee95dafb676baafb9b848af',1,'ActiveIMM::IActiveIMMApp::AssociateContextEx()'],['../interface_active_i_m_m_1_1_i_active_i_m_m_i_m_e.html#a465f58040a36be7f5c6de679c4659ed6',1,'ActiveIMM::IActiveIMMIME::AssociateContextEx()']]],
   ['athena_5fcalculate_5fins_5fpos',['athena_calculate_ins_pos',['../gui__athena_8c.html#aeb97bf0b0a3eadfdcafad192e8f5dac1',1,'gui_athena.c']]],
   ['attention_5fmessage',['attention_message',['../memline_8c.html#a8a397be254bc1ea753c218ceb79b7812',1,'memline.c']]],
-  ['attrs_5fdiffer',['attrs_differ',['../termscreen_8c.html#a1fe4f2d7ff30d04e419f04bf95d1947d',1,'termscreen.c']]],
   ['au_5fcleanup',['au_cleanup',['../autocmd_8c.html#a9dd6b8ed902359a2982b7c9648173dfb',1,'autocmd.c']]],
   ['au_5fdel_5fcmd',['au_del_cmd',['../autocmd_8c.html#af879e0b8ba9e8efa8bdadc98b4bdf09e',1,'autocmd.c']]],
   ['au_5fdel_5fgroup',['au_del_group',['../autocmd_8c.html#ab9383d34b0f4152d3fedf321468c3885',1,'autocmd.c']]],
@@ -159,6 +156,5 @@ var searchData=
   ['autocmd_5fsupported',['autocmd_supported',['../autocmd_8c.html#a6448e38b95d6b59616461b8174aab200',1,'autocmd.c']]],
   ['autoload_5fname',['autoload_name',['../scriptfile_8c.html#a7a226c9f6bcbb7958b3636f3de15692b',1,'scriptfile.c']]],
   ['autowrite',['autowrite',['../ex__cmds2_8c.html#aa4369dbf4994968d541a9935452daa06',1,'ex_cmds2.c']]],
-  ['autowrite_5fall',['autowrite_all',['../ex__cmds2_8c.html#abff10e5df567e8aa6929c838f777466c',1,'ex_cmds2.c']]],
-  ['await_5fc1',['await_c1',['../vterm-ctrl_8c.html#a998d4659c609eeb1fa671094c79a3a01',1,'vterm-ctrl.c']]]
+  ['autowrite_5fall',['autowrite_all',['../ex__cmds2_8c.html#abff10e5df567e8aa6929c838f777466c',1,'ex_cmds2.c']]]
 ];

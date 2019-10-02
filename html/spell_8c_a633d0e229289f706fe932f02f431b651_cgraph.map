@@ -1,0 +1,7 @@
+<map id="spell_casefold" name="spell_casefold">
+<area shape="rect" id="node2" href="$mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="159,56,288,83"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="353,5,436,32"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="349,56,440,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="336,107,453,133"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="501,107,561,133"/>
+</map>

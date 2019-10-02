@@ -5,7 +5,6 @@ var searchData=
   ['dict_5ft',['dict_T',['../structs_8h.html#a9fbe6cdf6b0db166d2ef268621c16c4d',1,'structs.h']]],
   ['dictitem16_5ft',['dictitem16_T',['../structs_8h.html#a2a4758c888989eafaa9239b40693fca1',1,'structs.h']]],
   ['dictitem_5ft',['dictitem_T',['../structs_8h.html#a0fc26a29e71c9ae7f518765f7027cab0',1,'structs.h']]],
-  ['diffdata_5ft',['diffdata_t',['../xdiffi_8h.html#a9dfad1ff1dfa0894a81a962ea597f6fe',1,'xdiffi.h']]],
   ['digr_5ft',['digr_T',['../digraph_8c.html#ac3a1c9058c5eeef659ec6020bc2ec77d',1,'digraph.c']]],
   ['disptick_5ft',['disptick_T',['../vim_8h.html#a3461e66de04a53abfb938dfc163dc61b',1,'vim.h']]],
   ['dwritecontext',['DWriteContext',['../gui__dwrite_8h.html#ad566649495ff8e8a86b701d96aebb222',1,'gui_dwrite.h']]],

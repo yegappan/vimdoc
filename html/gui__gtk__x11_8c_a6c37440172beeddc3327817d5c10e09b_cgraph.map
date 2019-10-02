@@ -1,0 +1,6 @@
+<map id="gui_mch_get_screen_dimensions" name="gui_mch_get_screen_dimensions">
+<area shape="rect" id="node2" href="$gui__gtk__x11_8c.html#ae9cb2c9e527b7c6fe6fd1e981d7e8078" title="gui_gtk_get_screen\l_geom_of_win" alt="" coords="203,5,338,47"/>
+<area shape="rect" id="node3" href="$gui__gtk__x11_8c.html#a1164603a3ddf67f4b484a53e5a4d5224" title="get_menu_tool_width" alt="" coords="198,71,343,98"/>
+<area shape="rect" id="node5" href="$gui__gtk__x11_8c.html#afccb87e42a4184b18a6a7e5832b8caf9" title="get_menu_tool_height" alt="" coords="196,122,345,149"/>
+<area shape="rect" id="node4" href="$gui__gtk__x11_8c.html#a2c1e275c0aa1ff3972a0f3f1710838e5" title="get_item_dimensions" alt="" coords="393,97,539,123"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ff_clear" name="ff_clear">
+<area shape="rect" id="node2" href="$findfile_8c.html#a44ce9f1c6286484ef17a8ad3641a4ff0" title="ff_pop" alt="" coords="165,5,223,32"/>
+<area shape="rect" id="node3" href="$findfile_8c.html#a659a36cc679fe1fd4afc72c08a954463" title="ff_free_stack_element" alt="" coords="119,56,269,83"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="440,56,512,83"/>
+<area shape="rect" id="node5" href="$filepath_8c.html#a5086b658043e0a5bf23116fb75b8936e" title="FreeWild" alt="" coords="317,56,392,83"/>
+</map>

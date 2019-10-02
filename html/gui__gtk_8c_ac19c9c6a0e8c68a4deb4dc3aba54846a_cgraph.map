@@ -1,0 +1,5 @@
+<map id="gui_mch_set_scrollbar_pos" name="gui_mch_set_scrollbar_pos">
+<area shape="rect" id="node2" href="$gui__gtk__f_8c.html#a29f14eadb2c576a3a33b2ef21dbeebd9" title="gtk_form_move_resize" alt="" coords="233,5,388,32"/>
+<area shape="rect" id="node3" href="$gui__gtk__f_8c.html#ab62ea13fbd5ebd35114939476e7a839e" title="gtk_form_move" alt="" coords="436,5,548,32"/>
+<area shape="rect" id="node4" href="$gui__gtk__f_8c.html#a4785a377cc11fc5729676611dc387238" title="gtk_form_position_child" alt="" coords="596,5,755,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="clear_wininfo" name="clear_wininfo">
+<area shape="rect" id="node2" href="$option_8c.html#ab81236e31be94aeb7cde54aa0fab0326" title="clear_winopt" alt="" coords="170,5,265,32"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="509,56,581,83"/>
+<area shape="rect" id="node5" href="$fold_8c.html#a401a92ce51a919ee41a6f92c544890db" title="deleteFoldRecurse" alt="" coords="152,107,283,133"/>
+<area shape="rect" id="node3" href="$optionstr_8c.html#a240b18e25b182721c6fa5467413a5383" title="clear_string_option" alt="" coords="331,5,461,32"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="361,107,431,133"/>
+<area shape="rect" id="node7" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="515,107,575,133"/>
+</map>

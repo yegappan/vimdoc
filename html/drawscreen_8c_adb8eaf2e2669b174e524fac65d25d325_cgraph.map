@@ -1,0 +1,7 @@
+<map id="text_to_screenline" name="text_to_screenline">
+<area shape="rect" id="node2" href="$mbyte_8c.html#acbc6306128872ca8fb3e4c72c8986f3f" title="utfc_ptr2char" alt="" coords="181,56,280,83"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="341,5,432,32"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="345,56,428,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="328,107,445,133"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="493,107,553,133"/>
+</map>

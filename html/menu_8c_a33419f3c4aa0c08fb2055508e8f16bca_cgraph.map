@@ -1,0 +1,6 @@
+<map id="get_menu_name" name="get_menu_name">
+<area shape="rect" id="node2" href="$menu_8c.html#a83cc369563a7a1b6910eb10d49e32d5d" title="menu_is_hidden" alt="" coords="180,5,296,32"/>
+<area shape="rect" id="node4" href="$menu_8c.html#a3a95450fb1f7cb8b566b4cd5a7a6e919" title="menu_is_separator" alt="" coords="172,56,304,83"/>
+<area shape="rect" id="node5" href="$menu_8c.html#acbca70e8467e355a2e76a40ad153b59a" title="menu_is_tearoff" alt="" coords="181,107,295,133"/>
+<area shape="rect" id="node3" href="$menu_8c.html#a9680092d119a0103721d4557fd8a1ffd" title="menu_is_popup" alt="" coords="352,5,465,32"/>
+</map>

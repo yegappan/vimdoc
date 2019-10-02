@@ -1,0 +1,7 @@
+<map id="get_menu_names" name="get_menu_names">
+<area shape="rect" id="node2" href="$menu_8c.html#a83cc369563a7a1b6910eb10d49e32d5d" title="menu_is_hidden" alt="" coords="187,5,303,32"/>
+<area shape="rect" id="node4" href="$menu_8c.html#a3a95450fb1f7cb8b566b4cd5a7a6e919" title="menu_is_separator" alt="" coords="179,56,311,83"/>
+<area shape="rect" id="node5" href="$menu_8c.html#acbca70e8467e355a2e76a40ad153b59a" title="menu_is_tearoff" alt="" coords="187,107,302,133"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="198,157,291,184"/>
+<area shape="rect" id="node3" href="$menu_8c.html#a9680092d119a0103721d4557fd8a1ffd" title="menu_is_popup" alt="" coords="359,5,472,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="gettail_sep" name="gettail_sep">
+<area shape="rect" id="node2" href="$filepath_8c.html#a722fc44c1b4c4f00e0a92cd2f50969a4" title="get_past_head" alt="" coords="314,31,421,57"/>
+<area shape="rect" id="node8" href="$filepath_8c.html#a3a027a38b217222ac4d9ebe8ce5c1947" title="gettail" alt="" coords="161,81,218,108"/>
+<area shape="rect" id="node10" href="$misc2_8c.html#abdfcdf88256313698f6b7329ba22c5f3" title="after_pathsep" alt="" coords="139,132,240,159"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="507,31,589,57"/>
+<area shape="rect" id="node7" href="$filepath_8c.html#acb4aef03c801e568565f34c9e10d25cf" title="vim_ispathsep" alt="" coords="495,81,601,108"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="649,5,740,32"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="649,56,740,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="788,5,871,32"/>
+<area shape="rect" id="node9" href="$filepath_8c.html#a00312a4bf9117289fcc81ae86b02cbc7" title="vim_ispathsep_nocolon" alt="" coords="288,81,447,108"/>
+</map>

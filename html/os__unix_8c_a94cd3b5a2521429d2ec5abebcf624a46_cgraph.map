@@ -1,0 +1,5 @@
+<map id="WaitForChar" name="WaitForChar">
+<area shape="rect" id="node2" href="$os__unix_8c.html#a2039dde81a541063150fcd32709fdcdd" title="WaitForCharOrMouse" alt="" coords="149,31,299,57"/>
+<area shape="rect" id="node3" href="$os__unix_8c.html#ad512e8dc8639fb9c3cf455134b793821" title="mch_write" alt="" coords="347,5,429,32"/>
+<area shape="rect" id="node4" href="$os__unix_8c.html#a9388bec866c94932605ec6d5cfdb446a" title="RealWaitForChar" alt="" coords="477,31,600,57"/>
+</map>

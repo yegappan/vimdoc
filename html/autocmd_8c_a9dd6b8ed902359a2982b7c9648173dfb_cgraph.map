@@ -1,0 +1,7 @@
+<map id="au_cleanup" name="au_cleanup">
+<area shape="rect" id="node2" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="419,22,491,49"/>
+<area shape="rect" id="node3" href="$autocmd_8c.html#aaafed19fd8ea1897ab1ac8d43eb49d7e" title="au_remove_pat" alt="" coords="141,22,252,49"/>
+<area shape="rect" id="node4" href="$regexp_8c.html#ae85d66ec0c262d0e6c22766cd75e0287" title="vim_regfree" alt="" coords="151,73,242,99"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="300,73,371,99"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="425,73,485,99"/>
+</map>

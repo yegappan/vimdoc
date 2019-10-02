@@ -1,0 +1,6 @@
+<map id="undo_read_time" name="undo_read_time">
+<area shape="rect" id="node2" href="$undo_8c.html#ab0ed7eb35ab1b4f84cee3589a657fd3a" title="undo_read" alt="" coords="168,31,251,57"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#aef06d68332ab0222301906030a2ae65b" title="get8ctime" alt="" coords="170,81,249,108"/>
+<area shape="rect" id="node3" href="$crypt_8c.html#a030bf2af55ba450f83a172aa68f9434c" title="crypt_decode_inplace" alt="" coords="299,5,447,32"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="324,56,421,83"/>
+</map>

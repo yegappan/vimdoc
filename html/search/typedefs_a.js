@@ -11,8 +11,6 @@ var searchData=
   ['long_5flong_5ft',['long_long_T',['../vim_8h.html#a0951e7d3ff4c6d00e8a8f79a43633bce',1,'vim.h']]],
   ['long_5flong_5fu_5ft',['long_long_u_T',['../vim_8h.html#ad6e43bd359ac77d3032fe36b5c685574',1,'vim.h']]],
   ['long_5fu',['long_u',['../vim_8h.html#af61a821be0d5cd6dbf89685d34bb4d39',1,'vim.h']]],
-  ['lpcshellext',['LPCSHELLEXT',['../gvimext_8h.html#a3fde33e7814ad5a190d059d8b4e3c19f',1,'gvimext.h']]],
-  ['lpcshellextclassfactory',['LPCSHELLEXTCLASSFACTORY',['../gvimext_8h.html#a4e0391c164b5387e569704410e3dcb0a',1,'gvimext.h']]],
   ['lpfn_5fiswow64process',['LPFN_ISWOW64PROCESS',['../dosinst_8h.html#a7ccfc6f67ae73d777621ac2c5bfbb40e',1,'dosinst.h']]],
   ['lval_5ft',['lval_T',['../structs_8h.html#a341b160d5454fa73122c04b0fa57be68',1,'structs.h']]]
 ];

@@ -1,0 +1,4 @@
+<map id="remove_start_menu" name="remove_start_menu">
+<area shape="rect" id="node2" href="$dosinst_8h.html#a6290aea57e51c26636a0593e09bab0be" title="get_shell_folder_path" alt="" coords="191,5,336,32"/>
+<area shape="rect" id="node3" href="$uninstall_8c.html#ab59474c4b4f75032fe81a82780ef033d" title="remove_if_exists" alt="" coords="203,56,324,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="vim_iswordp" name="vim_iswordp">
+<area shape="rect" id="node2" href="$charset_8c.html#a6d4a73cbd9e435f15f8872328f04971f" title="vim_iswordp_buf" alt="" coords="148,56,268,83"/>
+<area shape="rect" id="node3" href="$charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="316,56,436,83"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="490,5,578,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="484,56,584,83"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="632,56,692,83"/>
+</map>

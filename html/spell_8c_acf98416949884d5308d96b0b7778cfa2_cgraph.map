@@ -1,0 +1,12 @@
+<map id="spell_iswordp_w" name="spell_iswordp_w">
+<area shape="rect" id="node2" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="209,43,292,69"/>
+<area shape="rect" id="node6" href="$spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="172,93,329,120"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#a4d7fb58aae46f9d8535ca1a260974be7" title="utf_class" alt="" coords="213,144,288,171"/>
+<area shape="rect" id="node10" href="$mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="693,169,781,196"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="382,5,473,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="382,56,473,83"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="544,5,627,32"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="377,132,477,159"/>
+<area shape="rect" id="node9" href="$charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="525,119,645,145"/>
+<area shape="rect" id="node11" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="555,169,615,196"/>
+</map>

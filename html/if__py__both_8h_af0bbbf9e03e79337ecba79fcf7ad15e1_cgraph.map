@@ -1,0 +1,6 @@
+<map id="writer" name="writer">
+<area shape="rect" id="node2" href="$if__py__both_8h.html#ac1f3640f4f39756c3c5b340b3f2ab3c6" title="PythonIO_Flush" alt="" coords="108,5,224,32"/>
+<area shape="rect" id="node3" href="$gui__xmdlg_8c.html#a4e65fba0f0f5d89ee71198c940392fc1" title="fn" alt="" coords="147,56,185,83"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="131,107,201,133"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="272,107,369,133"/>
+</map>

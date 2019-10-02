@@ -1,0 +1,7 @@
+<map id="mf_free" name="mf_free">
+<area shape="rect" id="node2" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="135,5,207,32"/>
+<area shape="rect" id="node3" href="$memfile_8c.html#a7478ec954fdf8ed27ffa14d896b4e2e4" title="mf_rem_hash" alt="" coords="120,56,221,83"/>
+<area shape="rect" id="node5" href="$memfile_8c.html#a1a462a5c7e40e94a86f75e06fb1f68e1" title="mf_rem_used" alt="" coords="120,107,221,133"/>
+<area shape="rect" id="node6" href="$memfile_8c.html#a01d68d494984805d658ef9fae263a49e" title="mf_ins_free" alt="" coords="125,157,216,184"/>
+<area shape="rect" id="node4" href="$memfile_8c.html#ab81dd399df927ede1d3593bbd262d72e" title="mf_hash_rem_item" alt="" coords="269,56,403,83"/>
+</map>

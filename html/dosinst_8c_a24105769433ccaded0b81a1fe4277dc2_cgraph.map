@@ -1,0 +1,9 @@
+<map id="init_startmenu_choice" name="init_startmenu_choice">
+<area shape="rect" id="node2" href="$dosinst_8c.html#a631ed01fe74ad0f6408aca6b36fffb2f" title="toggle_startmenu_choice" alt="" coords="203,107,369,133"/>
+<area shape="rect" id="node3" href="$dosinst_8c.html#a1cc1ca7df2baa3efcdbe6cbb8a50c452" title="install_start_menu" alt="" coords="417,107,545,133"/>
+<area shape="rect" id="node4" href="$dosinst_8c.html#a3d7a269571932a80250bc69382c7ab27" title="build_shortcut" alt="" coords="593,56,696,83"/>
+<area shape="rect" id="node6" href="$dosinst_8h.html#a6290aea57e51c26636a0593e09bab0be" title="get_shell_folder_path" alt="" coords="907,56,1052,83"/>
+<area shape="rect" id="node8" href="$dosinst_8h.html#adac8c1eac09ba72bf1e5704c203cda12" title="add_pathsep" alt="" coords="597,157,693,184"/>
+<area shape="rect" id="node5" href="$dosinst_8c.html#a1ce62941d10a70244da2353cb4167ee4" title="build_link_name" alt="" coords="744,5,859,32"/>
+<area shape="rect" id="node7" href="$dosinst_8c.html#a427f3bf8f1edbf3ed89764375e269d54" title="create_shortcut" alt="" coords="745,56,857,83"/>
+</map>

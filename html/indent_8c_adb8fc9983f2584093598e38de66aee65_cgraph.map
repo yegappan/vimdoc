@@ -1,0 +1,7 @@
+<map id="cin_iscase" name="cin_iscase">
+<area shape="rect" id="node2" href="$indent_8c.html#aa3550137d040c9ac6da547d92e48f846" title="cin_skipcomment" alt="" coords="296,5,420,32"/>
+<area shape="rect" id="node4" href="$indent_8c.html#aaf955f4d5dd1555f64f3c1ab8fc45372" title="cin_starts_with" alt="" coords="137,81,248,108"/>
+<area shape="rect" id="node6" href="$indent_8c.html#a270587b2a40229bde4fdf65867b4bcaa" title="cin_isdefault" alt="" coords="145,31,240,57"/>
+<area shape="rect" id="node3" href="$charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="468,5,545,32"/>
+<area shape="rect" id="node5" href="$charset_8c.html#af7cb7c923f313c7384ec8c61b26f6427" title="vim_isIDc" alt="" coords="317,81,399,108"/>
+</map>

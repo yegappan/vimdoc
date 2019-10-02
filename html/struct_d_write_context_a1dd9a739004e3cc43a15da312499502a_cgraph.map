@@ -1,0 +1,15 @@
+<map id="DWriteContext::SetRenderingParams" name="DWriteContext::SetRenderingParams">
+<area shape="rect" id="node2" href="$gui__dwrite_8cpp.html#a2bfdccb2c3e018b24e7eee040d1cfea5" title="ToPixelGeometry" alt="" coords="263,5,385,32"/>
+<area shape="rect" id="node3" href="$gui__dwrite_8cpp.html#a294b545c1239eaa354b2931d9fc9a674" title="ToRenderingMode" alt="" coords="260,56,388,83"/>
+<area shape="rect" id="node4" href="$gui__dwrite_8cpp.html#ada23d8a4e4b131ca70452c6a003bc4fd" title="ToTextAntialiasMode" alt="" coords="251,107,397,133"/>
+<area shape="rect" id="node5" href="$gui__dwrite_8cpp.html#addcff46553dcb0ebaef1aef403cdda0b" title="SafeRelease" alt="" coords="1181,216,1278,243"/>
+<area shape="rect" id="node6" href="$struct_d_write_context.html#af5a271feb5aa6b2335969f02cd829459" title="DWriteContext::Flush" alt="" coords="249,244,399,271"/>
+<area shape="rect" id="node7" href="$struct_d_write_context.html#a8f5351b9a5718d5618b35efc29264e64" title="DWriteContext::SetDrawingMode" alt="" coords="447,263,664,289"/>
+<area shape="rect" id="node8" href="$struct_d_write_context.html#a1ce5528a040328ce4365d2a1b6dfc744" title="DWriteContext::DiscardDevice\lResources" alt="" coords="712,209,915,250"/>
+<area shape="rect" id="node9" href="$struct_d_write_context.html#acdce395fa792637e0571401820cc6ab0" title="DWriteContext::CreateDevice\lResources" alt="" coords="715,274,912,315"/>
+<area shape="rect" id="node11" href="$gui__dwrite_8cpp.html#a209da4f647d509e95e47cb83ffb0bef5" title="redraw_later_clear" alt="" coords="749,340,877,367"/>
+<area shape="rect" id="node10" href="$struct_d_write_context.html#ac75586b7a3efc7fa1e0d49a5346808e0" title="DWriteContext::Rebind" alt="" coords="963,272,1121,299"/>
+<area shape="rect" id="node12" href="$drawscreen_8c.html#a6cfdbac5c3017ed3f6f8c70035ea3e5d" title="redraw_all_later" alt="" coords="985,333,1099,360"/>
+<area shape="rect" id="node14" href="$screen_8c.html#a52381dbba1987c01ce703795bac34dfd" title="reset_screen_attr" alt="" coords="981,384,1103,411"/>
+<area shape="rect" id="node13" href="$drawscreen_8c.html#a75f787af652221777afbee0bc84a9810" title="redraw_win_later" alt="" coords="1169,333,1289,360"/>
+</map>

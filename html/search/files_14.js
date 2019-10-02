@@ -1,19 +1,8 @@
 var searchData=
 [
-  ['tag_2ec',['tag.c',['../tag_8c.html',1,'']]],
-  ['tee_2ec',['tee.c',['../tee_8c.html',1,'']]],
-  ['term_2ec',['term.c',['../term_8c.html',1,'']]],
-  ['term_2eh',['term.h',['../term_8h.html',1,'']]],
-  ['terminal_2ec',['terminal.c',['../terminal_8c.html',1,'']]],
-  ['termlib_2ec',['termlib.c',['../termlib_8c.html',1,'']]],
-  ['termmouse_2ec',['termmouse.c',['../termmouse_8c.html',1,'']]],
-  ['termscreen_2ec',['termscreen.c',['../termscreen_8c.html',1,'']]],
-  ['test_5fchannel_2epy',['test_channel.py',['../test__channel_8py.html',1,'']]],
-  ['test_5fchannel_5fpipe_2epy',['test_channel_pipe.py',['../test__channel__pipe_8py.html',1,'']]],
-  ['test_5fchannel_5fwrite_2epy',['test_channel_write.py',['../test__channel__write_8py.html',1,'']]],
-  ['test_5fmakeencoding_2epy',['test_makeencoding.py',['../test__makeencoding_8py.html',1,'']]],
-  ['test_5fnetbeans_2epy',['test_netbeans.py',['../test__netbeans_8py.html',1,'']]],
-  ['test_5fshort_5fsleep_2epy',['test_short_sleep.py',['../test__short__sleep_8py.html',1,'']]],
-  ['testing_2ec',['testing.c',['../testing_8c.html',1,'']]],
-  ['textprop_2ec',['textprop.c',['../textprop_8c.html',1,'']]]
+  ['ui_2ec',['ui.c',['../ui_8c.html',1,'']]],
+  ['undo_2ec',['undo.c',['../undo_8c.html',1,'']]],
+  ['uninstall_2ec',['uninstall.c',['../uninstall_8c.html',1,'']]],
+  ['usercmd_2ec',['usercmd.c',['../usercmd_8c.html',1,'']]],
+  ['userfunc_2ec',['userfunc.c',['../userfunc_8c.html',1,'']]]
 ];

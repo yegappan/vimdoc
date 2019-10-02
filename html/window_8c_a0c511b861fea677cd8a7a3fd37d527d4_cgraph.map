@@ -1,0 +1,6 @@
+<map id="make_snapshot" name="make_snapshot">
+<area shape="rect" id="node2" href="$window_8c.html#ae7a42815eb81ddfb8d3b1af6d4c104d8" title="clear_snapshot" alt="" coords="182,5,293,32"/>
+<area shape="rect" id="node5" href="$window_8c.html#ae0e40efeefb5e073bb01df8fe7a5abdd" title="make_snapshot_rec" alt="" coords="168,56,307,83"/>
+<area shape="rect" id="node3" href="$window_8c.html#a45672fb8876e0d73976aa54bf002f5d3" title="clear_snapshot_rec" alt="" coords="355,5,489,32"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="537,5,609,32"/>
+</map>

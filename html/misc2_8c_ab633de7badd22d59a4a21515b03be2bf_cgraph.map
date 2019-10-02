@@ -1,0 +1,12 @@
+<map id="get_special_key_name" name="get_special_key_name">
+<area shape="rect" id="node2" href="$misc2_8c.html#a31219f4336b3339ffddf141f0c5fa4dc" title="find_special_key_in\l_table" alt="" coords="208,5,344,47"/>
+<area shape="rect" id="node3" href="$charset_8c.html#aeb4141651c00c84f98b62da073716144" title="vim_isprintc" alt="" coords="411,71,503,98"/>
+<area shape="rect" id="node6" href="$charset_8c.html#a5a523b7cb242e6806569ff08138ac16e" title="transchar" alt="" coords="238,122,314,149"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#a8dbba5cc8e34186e23fdcfc8d0900fa1" title="utf_printable" alt="" coords="575,97,668,123"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="722,97,782,123"/>
+<area shape="rect" id="node7" href="$charset_8c.html#a10773c4204db22b5934f25799fc0026b" title="vim_isprintc_strict" alt="" coords="393,122,521,149"/>
+<area shape="rect" id="node8" href="$charset_8c.html#a9e509b73b4ded6e2f9192cfed60cfc76" title="transchar_nonprint" alt="" coords="392,173,521,199"/>
+<area shape="rect" id="node9" href="$misc2_8c.html#a767812b118182564891e6c771b3a0da0" title="get_fileformat" alt="" coords="571,147,672,174"/>
+<area shape="rect" id="node10" href="$charset_8c.html#a7bbdf2a298f87a04771a2425306604e3" title="transchar_hex" alt="" coords="569,198,673,225"/>
+<area shape="rect" id="node11" href="$charset_8c.html#a044645438bff6b41c089e939593883b9" title="nr2hex" alt="" coords="721,198,783,225"/>
+</map>

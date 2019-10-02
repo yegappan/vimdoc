@@ -1,0 +1,6 @@
+<map id="new_script_vars" name="new_script_vars">
+<area shape="rect" id="node2" href="$misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="313,5,383,32"/>
+<area shape="rect" id="node4" href="$evalvars_8c.html#ab3b2e9de18d3cf1c9632dcdcb491bae7" title="init_var_dict" alt="" coords="171,56,263,83"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="433,31,531,57"/>
+<area shape="rect" id="node5" href="$hashtab_8c.html#a1e75fcb634cc34f2a968e47d1b37381a" title="hash_init" alt="" coords="311,56,385,83"/>
+</map>

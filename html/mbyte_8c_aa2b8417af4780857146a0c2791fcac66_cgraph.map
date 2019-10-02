@@ -1,0 +1,9 @@
+<map id="utf_ptr2cells" name="utf_ptr2cells">
+<area shape="rect" id="node2" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="147,5,237,32"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="151,56,233,83"/>
+<area shape="rect" id="node4" href="$charset_8c.html#a12473ab1872440ac9585951bae14e8a9" title="char2cells" alt="" coords="151,107,233,133"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#ac38b8ec71563a4bd534a6e45504dac29" title="utf_char2cells" alt="" coords="285,132,388,159"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#a8dbba5cc8e34186e23fdcfc8d0900fa1" title="utf_printable" alt="" coords="576,132,669,159"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="717,157,777,184"/>
+<area shape="rect" id="node8" href="$charset_8c.html#aeb4141651c00c84f98b62da073716144" title="vim_isprintc" alt="" coords="436,132,528,159"/>
+</map>

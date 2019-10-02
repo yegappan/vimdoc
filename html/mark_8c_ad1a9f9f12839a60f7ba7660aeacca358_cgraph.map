@@ -1,0 +1,9 @@
+<map id="setmark_pos" name="setmark_pos">
+<area shape="rect" id="node2" href="$mark_8c.html#a70431d6be4f5bdfe83649a25858ea891" title="setpcmark" alt="" coords="157,5,240,32"/>
+<area shape="rect" id="node4" href="$ex__cmds_8c.html#aed3c3bab6136e0e05a04347b7e0d4930" title="vim_time" alt="" coords="297,56,371,83"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#ae1c125b4d8b13929d8a54a2466570c62" title="buflist_findnr" alt="" coords="151,107,247,133"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="298,5,370,32"/>
+<area shape="rect" id="node6" href="$hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="295,107,373,133"/>
+<area shape="rect" id="node7" href="$hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="421,81,516,108"/>
+<area shape="rect" id="node8" href="$hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="426,132,511,159"/>
+</map>

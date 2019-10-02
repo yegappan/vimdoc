@@ -1,0 +1,10 @@
+<map id="vim_findfile_cleanup" name="vim_findfile_cleanup">
+<area shape="rect" id="node2" href="$findfile_8c.html#a5ac5c3499d28a5a853477ea7c40d7ab4" title="vim_findfile_free_visited" alt="" coords="193,56,356,83"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="815,132,887,159"/>
+<area shape="rect" id="node6" href="$findfile_8c.html#ac29e852c24cdc7b5a108b350da2bcd49" title="ff_clear" alt="" coords="242,183,307,209"/>
+<area shape="rect" id="node3" href="$findfile_8c.html#a989b8b911db5f27c50ef1d3d180db5d5" title="vim_findfile_free_visited_list" alt="" coords="404,56,591,83"/>
+<area shape="rect" id="node4" href="$findfile_8c.html#adad30a7b41b36526584c3225633fd09f" title="ff_free_visited_list" alt="" coords="639,5,767,32"/>
+<area shape="rect" id="node7" href="$findfile_8c.html#a44ce9f1c6286484ef17a8ad3641a4ff0" title="ff_pop" alt="" coords="468,208,527,235"/>
+<area shape="rect" id="node8" href="$findfile_8c.html#a659a36cc679fe1fd4afc72c08a954463" title="ff_free_stack_element" alt="" coords="422,259,573,285"/>
+<area shape="rect" id="node9" href="$filepath_8c.html#a5086b658043e0a5bf23116fb75b8936e" title="FreeWild" alt="" coords="665,259,740,285"/>
+</map>

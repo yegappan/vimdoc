@@ -1,0 +1,10 @@
+<map id="getargopt" name="getargopt">
+<area shape="rect" id="node2" href="$ex__docmd_8c.html#a63af5709853d73aead14d174f904fed8" title="checkforcmd" alt="" coords="136,5,233,32"/>
+<area shape="rect" id="node3" href="$charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="313,31,391,57"/>
+<area shape="rect" id="node4" href="$ex__docmd_8c.html#a7777ba8c45fdf4310a4d1f948666cee4" title="skip_cmd_arg" alt="" coords="133,107,236,133"/>
+<area shape="rect" id="node6" href="$optionstr_8c.html#a38e0af811cd044b29ea57ae14f33462e" title="check_ff_value" alt="" coords="129,157,240,184"/>
+<area shape="rect" id="node9" href="$ex__docmd_8c.html#a141364da1a4343b2281a1b70cc349677" title="get_bad_opt" alt="" coords="138,208,231,235"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#a97d626835820e00937aa5be4cb4cf177" title="vim_isspace" alt="" coords="305,107,399,133"/>
+<area shape="rect" id="node7" href="$optionstr_8c.html#afb960a7c1295db9fe095420cdd1fd865" title="check_opt_strings" alt="" coords="288,157,416,184"/>
+<area shape="rect" id="node8" href="$optionstr_8c.html#a1dcb10132a417a78b8741123d25dc4fe" title="opt_strings_flags" alt="" coords="464,157,585,184"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="store_current_state" name="store_current_state">
+<area shape="rect" id="node2" href="$syntax_8c.html#a7e64240db6cf69a72b58b844f3bcca55" title="syn_stack_find_entry" alt="" coords="188,5,335,32"/>
+<area shape="rect" id="node3" href="$syntax_8c.html#ae254a780e6d739c9a7b9e63b3cf366af" title="syn_stack_free_entry" alt="" coords="383,107,529,133"/>
+<area shape="rect" id="node4" href="$syntax_8c.html#a7fdf40661bc7c470d6dd9250df3d2d21" title="clear_syn_state" alt="" coords="577,132,692,159"/>
+<area shape="rect" id="node9" href="$syntax_8c.html#a0e906bbcf0563c9634b4c1d34015993c" title="syn_stack_cleanup" alt="" coords="194,107,329,133"/>
+<area shape="rect" id="node10" href="$misc2_8c.html#a3026bad36de32ad700cd165789e53508" title="ga_init2" alt="" coords="601,208,668,235"/>
+<area shape="rect" id="node11" href="$misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="226,259,297,285"/>
+<area shape="rect" id="node13" href="$regexp_8c.html#ab783824ead78e71dcc8db7a031c300dc" title="ref_extmatch" alt="" coords="212,309,311,336"/>
+<area shape="rect" id="node5" href="$regexp_8c.html#a14a2522cb2782f01fde6ec96eb70e25a" title="unref_extmatch" alt="" coords="740,107,852,133"/>
+<area shape="rect" id="node7" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="761,157,831,184"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="900,132,972,159"/>
+<area shape="rect" id="node8" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="906,183,966,209"/>
+<area shape="rect" id="node12" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="407,259,505,285"/>
+</map>

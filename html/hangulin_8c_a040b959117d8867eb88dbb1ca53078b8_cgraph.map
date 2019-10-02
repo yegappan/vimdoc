@@ -1,0 +1,7 @@
+<map id="hangul_automata3" name="hangul_automata3">
+<area shape="rect" id="node2" href="$hangulin_8c.html#a2503a7d2b5f0960957e5f0b991f10bea" title="hangul_input_clear" alt="" coords="181,5,312,32"/>
+<area shape="rect" id="node3" href="$hangulin_8c.html#a8b3e638c8800068bfdb6af10deae491e" title="comfcon3" alt="" coords="207,56,286,83"/>
+<area shape="rect" id="node4" href="$hangulin_8c.html#af9bcb641f9bd46e0ed92b888ca060391" title="comvow3" alt="" coords="207,107,286,133"/>
+<area shape="rect" id="node5" href="$hangulin_8c.html#a7e10649830dca05972e90d769ec79a8f" title="comcon3" alt="" coords="209,157,284,184"/>
+<area shape="rect" id="node6" href="$hangulin_8c.html#a15e597b467b17dcfa3169ecbf8582680" title="convert_ks_to_3" alt="" coords="187,208,306,235"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="write_viminfo_history" name="write_viminfo_history">
+<area shape="rect" id="node2" href="$cmdhist_8c.html#a3b9830ecbd98de7ce0be571922d58286" title="init_history" alt="" coords="233,5,319,32"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="444,56,516,83"/>
+<area shape="rect" id="node5" href="$cmdhist_8c.html#aac9e89c9640097066fe77f1b0a6e3144" title="get_hislen" alt="" coords="235,107,317,133"/>
+<area shape="rect" id="node6" href="$cmdhist_8c.html#a52700d0f201a6d5483396155083293ef" title="get_histentry" alt="" coords="227,157,325,184"/>
+<area shape="rect" id="node7" href="$cmdhist_8c.html#ad01d050cc73bab9377c2caf82e3a3dff" title="get_hisidx" alt="" coords="235,208,317,235"/>
+<area shape="rect" id="node8" href="$viminfo_8c.html#abd8579be19f99b759c27e62dbb739ebf" title="get_viminfo_parameter" alt="" coords="199,259,353,285"/>
+<area shape="rect" id="node14" href="$viminfo_8c.html#aee39ec347af9b34470af8ab79fca3e74" title="hist_type2char" alt="" coords="223,309,329,336"/>
+<area shape="rect" id="node15" href="$viminfo_8c.html#ad5d11aa1ffb4e445047cf3d51e67147a" title="viminfo_writestring" alt="" coords="211,360,341,387"/>
+<area shape="rect" id="node16" href="$viminfo_8c.html#af324ae42760a05c3b2a22113a27982c2" title="barline_writestring" alt="" coords="213,411,339,437"/>
+<area shape="rect" id="node3" href="$cmdhist_8c.html#a796138275f407eba043be4b766b413e6" title="clear_hist_entry" alt="" coords="423,5,537,32"/>
+<area shape="rect" id="node9" href="$viminfo_8c.html#a542133dc940d27373c238a6d81ce1828" title="find_viminfo_parameter" alt="" coords="401,259,559,285"/>
+<area shape="rect" id="node10" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="607,259,689,285"/>
+<area shape="rect" id="node11" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="737,233,828,260"/>
+<area shape="rect" id="node13" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="737,284,828,311"/>
+<area shape="rect" id="node12" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="876,233,959,260"/>
+</map>

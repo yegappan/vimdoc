@@ -1,0 +1,4 @@
+<map id="status_redraw_curbuf" name="status_redraw_curbuf">
+<area shape="rect" id="node2" href="$drawscreen_8c.html#aaa48e8afa3ee70c690d5ed45b018d0a0" title="redraw_later" alt="" coords="200,5,293,32"/>
+<area shape="rect" id="node3" href="$drawscreen_8c.html#a75f787af652221777afbee0bc84a9810" title="redraw_win_later" alt="" coords="341,5,461,32"/>
+</map>

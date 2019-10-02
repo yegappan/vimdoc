@@ -1,0 +1,11 @@
+<map id="spell_soundfold_sofo" name="spell_soundfold_sofo">
+<area shape="rect" id="node2" href="$mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="197,69,327,96"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#a4d7fb58aae46f9d8535ca1a260974be7" title="utf_class" alt="" coords="225,132,299,159"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="392,5,475,32"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="388,56,479,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="375,107,492,133"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="570,107,630,133"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="383,157,483,184"/>
+<area shape="rect" id="node9" href="$charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="540,157,660,184"/>
+<area shape="rect" id="node10" href="$mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="708,157,796,184"/>
+</map>

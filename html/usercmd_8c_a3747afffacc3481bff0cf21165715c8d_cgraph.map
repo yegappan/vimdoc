@@ -1,0 +1,5 @@
+<map id="get_user_command_name" name="get_user_command_name">
+<area shape="rect" id="node2" href="$usercmd_8c.html#ade5f247ee0a3a84730d1a084ab1a8457" title="get_user_commands" alt="" coords="228,5,371,32"/>
+<area shape="rect" id="node3" href="$ex__getln_8c.html#aaf2f16443a9d0a6c6dcfcbb939cc7ff7" title="get_cmdline_type" alt="" coords="419,5,543,32"/>
+<area shape="rect" id="node4" href="$ex__getln_8c.html#a18122456464db9bafa74c6f4a4a58b6e" title="get_ccline_ptr" alt="" coords="591,5,693,32"/>
+</map>

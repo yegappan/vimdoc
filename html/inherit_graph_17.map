@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$interface_active_i_m_m_1_1_i_active_i_m_e.html" title="ActiveIMM::IActiveIME" alt="" coords="162,5,321,32"/>
+<area shape="rect" id="node4" href="$interface_active_i_m_m_1_1_i_active_i_m_m_app.html" title="ActiveIMM::IActiveIMMApp" alt="" coords="150,56,333,83"/>
+<area shape="rect" id="node5" href="$interface_active_i_m_m_1_1_i_active_i_m_m_i_m_e.html" title="ActiveIMM::IActiveIMMIME" alt="" coords="149,107,333,133"/>
+<area shape="rect" id="node6" href="$interface_active_i_m_m_1_1_i_active_i_m_m_message_pump_owner.html" title="ActiveIMM::IActiveIMMMessage\lPumpOwner" alt="" coords="135,158,348,199"/>
+<area shape="rect" id="node7" href="$interface_active_i_m_m_1_1_i_active_i_m_m_registrar.html" title="ActiveIMM::IActiveIMMRegistrar" alt="" coords="135,224,348,251"/>
+<area shape="rect" id="node8" href="$interface_active_i_m_m_1_1_i_enum_input_context.html" title="ActiveIMM::IEnumInputContext" alt="" coords="138,275,345,301"/>
+<area shape="rect" id="node9" href="$interface_active_i_m_m_1_1_i_enum_register_word_a.html" title="ActiveIMM::IEnumRegister\lWordA" alt="" coords="151,326,331,367"/>
+<area shape="rect" id="node10" href="$interface_active_i_m_m_1_1_i_enum_register_word_w.html" title="ActiveIMM::IEnumRegister\lWordW" alt="" coords="151,391,331,433"/>
+<area shape="rect" id="node3" href="$interface_active_i_m_m_1_1_i_active_i_m_e2.html" title="ActiveIMM::IActiveIME2" alt="" coords="396,5,561,32"/>
+</map>

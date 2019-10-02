@@ -1,0 +1,8 @@
+<map id="BufferGetattr" name="BufferGetattr">
+<area shape="rect" id="node2" href="$if__py__both_8h.html#aed642b1be2105c18eddee19255bc3c63" title="BufferAttrValid" alt="" coords="151,5,257,32"/>
+<area shape="rect" id="node3" href="$if__py__both_8h.html#a867d33488f05b5ed2126e3115013a1ef" title="CheckBuffer" alt="" coords="305,56,400,83"/>
+<area shape="rect" id="node4" href="$if__py__both_8h.html#a4f2bfc3ad77c867b595046ca592e064a" title="BufferAttr" alt="" coords="165,107,243,133"/>
+<area shape="rect" id="node5" href="$if__py__both_8h.html#afd6ec0805685ecc1f9c57455029ced2c" title="OptionsNew" alt="" coords="305,107,400,133"/>
+<area shape="rect" id="node6" href="$if__py__both_8h.html#ae830e9a7462d081282b48d619b1af781" title="ObjectDir" alt="" coords="314,157,391,184"/>
+<area shape="rect" id="node7" href="$if__py__both_8h.html#ad7feb5e646c579f8b95ef54bd640aa8e" title="add_string" alt="" coords="448,157,531,184"/>
+</map>

@@ -1,13 +1,11 @@
 var searchData=
 [
-  ['_5f_5fp',['__P',['../xxd_8c.html#a117e39e34f1943f877971726960dba15',1,'__P((void)):&#160;xxd.c'],['../xxd_8c.html#afe9ebe6e632512b8856dce2bf5954dd8',1,'__P((int)):&#160;xxd.c'],['../xxd_8c.html#ac55faefe292527cf784bb869778dd1fb',1,'__P((FILE *, FILE *, FILE *, int, int, long)):&#160;xxd.c'],['../xxd_8c.html#af7098eac5a356273b5fe882dcef2d74a',1,'__P((FILE *, char *, int)):&#160;xxd.c']]],
   ['_5faddfmt',['_addfmt',['../termlib_8c.html#a59e564bc5850c4e2635d6baef3b21279',1,'termlib.c']]],
   ['_5fansi_5fargs_5f',['_ANSI_ARGS_',['../if__tcl_8c.html#a6ed76910712529fb759e74522691458b',1,'_ANSI_ARGS_((Tcl_Interp *interp, buf_T *buf)):&#160;if_tcl.c'],['../if__tcl_8c.html#a6f14f32cdc6e3718f80eaa4b084ccaf1',1,'_ANSI_ARGS_((Tcl_Interp *interp, win_T *win)):&#160;if_tcl.c'],['../if__tcl_8c.html#acc40ac1738c21a3c8af0cb2c9ab0b455',1,'_ANSI_ARGS_((Tcl_Interp *interp, struct ref *reflist, void *vimobj, Tcl_Obj *delcmd)):&#160;if_tcl.c'],['../if__tcl_8c.html#a4fd7e7908fd5a372597bad79703db735',1,'_ANSI_ARGS_((Tcl_Interp *interp, Tcl_Obj *obj, int *valueP, buf_T *buf)):&#160;if_tcl.c'],['../if__tcl_8c.html#a3fa0ce079f901a331a156ec829ef5fe7',1,'_ANSI_ARGS_((buf_T *buf)):&#160;if_tcl.c'],['../if__tcl_8c.html#ad2d8511eea8cfcbc6f4b94b3b55a4bfe',1,'_ANSI_ARGS_((Tcl_Interp *interp, int objc, Tcl_Obj *CONST objv[], int objn)):&#160;if_tcl.c'],['../if__tcl_8c.html#ac60132c7799d66d954315dd06ba6b2f6',1,'_ANSI_ARGS_((void)):&#160;if_tcl.c'],['../if__tcl_8c.html#a926b99a6d7fbef90881fa200883b09b0',1,'_ANSI_ARGS_((Tcl_Interp *interp)):&#160;if_tcl.c'],['../if__tcl_8c.html#a504546a44c46b1376d9ccf01a0cb238e',1,'_ANSI_ARGS_((char *text)):&#160;if_tcl.c']]],
   ['_5fconvertfrompyobject',['_ConvertFromPyObject',['../if__py__both_8h.html#a4eb8d51f6b58073fe11712999968a6a1',1,'if_py_both.h']]],
   ['_5fdictionaryitem',['_DictionaryItem',['../if__py__both_8h.html#a9c7d0f86c4d7aa71b9f6199d6c3e14dd',1,'if_py_both.h']]],
   ['_5fduringsizing',['_DuringSizing',['../gui__w32_8c.html#a4d6022460f15269cf55edf1f51a80f27',1,'gui_w32.c']]],
   ['_5ffind',['_find',['../termlib_8c.html#af57f56e30c988c5c113c4a07c7a06a89',1,'termlib.c']]],
-  ['_5fget_5fchars',['_get_chars',['../termscreen_8c.html#a6175d76d37c887ae64d97169daf789eb',1,'termscreen.c']]],
   ['_5fmatch',['_match',['../termlib_8c.html#a4b6c74c7f5e2fd438f36269bafdefa6d',1,'termlib.c']]],
   ['_5fonactivateapp',['_OnActivateApp',['../gui__w32_8c.html#aafbffae75255619301d07601fe570729',1,'gui_w32.c']]],
   ['_5fonblinktimer',['_OnBlinkTimer',['../gui__w32_8c.html#a6d57aea2823d4a3716d941b78fd72331',1,'gui_w32.c']]],

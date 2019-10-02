@@ -55,7 +55,6 @@ var searchData=
   ['ui_5fwrite',['ui_write',['../ui_8c.html#a7ade14698e347cc5b0cb77461beeeda7',1,'ui.c']]],
   ['ulong',['ULONG',['../struct_i_vim_vtbl.html#a299807ff2ec6ba343a7598bc06aba143',1,'IVimVtbl::ULONG(STDMETHODCALLTYPE __RPC_FAR *AddRef)(IVim __RPC_FAR *This)'],['../struct_i_vim_vtbl.html#a19c6817d960fa42e49656775840f3a9b',1,'IVimVtbl::ULONG(STDMETHODCALLTYPE __RPC_FAR *Release)(IVim __RPC_FAR *This)']]],
   ['unadjust_5ffor_5fsel',['unadjust_for_sel',['../normal_8c.html#a001512389440f89a68c6589b84e7c695',1,'normal.c']]],
-  ['unadvisefromevents',['UnadviseFromEvents',['../class_c_commands.html#a6ba4c4630a5125460958cb3b152fb649',1,'CCommands']]],
   ['unblock_5fautocmds',['unblock_autocmds',['../autocmd_8c.html#a2e2dd688ce595d92b43473059d292768',1,'autocmd.c']]],
   ['unchanged',['unchanged',['../change_8c.html#aab9ddb1537af1a660acc9e409537938f',1,'change.c']]],
   ['undisplay_5fdollar',['undisplay_dollar',['../edit_8c.html#ac2ffd1154b944ad1663c84e409a0df06',1,'edit.c']]],
@@ -104,9 +103,8 @@ var searchData=
   ['update_5ftopline_5fcursor',['update_topline_cursor',['../ex__docmd_8c.html#ae5d49705c96f05d2a6e8fc61ed37bf44',1,'ex_docmd.c']]],
   ['update_5ftopline_5fredraw',['update_topline_redraw',['../move_8c.html#acf14a437f96953ccd978a72bbf06b465',1,'move.c']]],
   ['update_5fwindow_5fmanager_5fhints',['update_window_manager_hints',['../gui__gtk__x11_8c.html#a62baa5f8dee53bca96f6895a6f4735da',1,'gui_gtk_x11.c']]],
-  ['updatecursor',['updatecursor',['../state_8c.html#a8372aeb1033d0462d8c7aaddf3b283ae',1,'state.c']]],
   ['updatescript',['updatescript',['../getchar_8c.html#a3d2285c259b212c9039938c1c3b0540b',1,'getchar.c']]],
-  ['usage',['usage',['../vterm-ctrl_8c.html#a176e952be2dbd3dd70c504745246492a',1,'usage(int exitcode):&#160;vterm-ctrl.c'],['../main_8c.html#ad96d407a911fbb914fa8e4cfbf2faf0f',1,'usage(void):&#160;main.c'],['../tee_8c.html#ae8605e2b78cd4a81b6c6b5c30cb7366a',1,'usage(void):&#160;tee.c']]],
+  ['usage',['usage',['../main_8c.html#ad96d407a911fbb914fa8e4cfbf2faf0f',1,'main.c']]],
   ['use_5fmidword',['use_midword',['../spell_8c.html#ade9eb462f56a5904116c6c031c3862b9',1,'spell.c']]],
   ['use_5fmultibytecode',['use_multibytecode',['../regexp__bt_8c.html#a1ca86aa8543070c766b3f472dd969362',1,'regexp_bt.c']]],
   ['use_5fvtp',['use_vtp',['../os__win32_8c.html#aec0a27b2a5c140be7a48c8b737cbc16d',1,'os_win32.c']]],
@@ -116,7 +114,6 @@ var searchData=
   ['using_5fscript',['using_script',['../getchar_8c.html#ab29ff5db05498fa455d5b86e5688fd33',1,'getchar.c']]],
   ['utf16_5fto_5fenc',['utf16_to_enc',['../winclip_8c.html#aa7f7a6164e2e14ac9aba8d230931f4f2',1,'winclip.c']]],
   ['utf16_5fto_5futf8',['utf16_to_utf8',['../winclip_8c.html#a3b3e87ac4c3ec8112e2fd175b2103d5c',1,'winclip.c']]],
-  ['utf8_5fseqlen',['utf8_seqlen',['../utf8_8h.html#a769be5bce9199518d1207cd1d247757e',1,'utf8.h']]],
   ['utf8_5fto_5futf16',['utf8_to_utf16',['../winclip_8c.html#a22ee621c772b95b0460f8ea6b880a828',1,'winclip.c']]],
   ['utf_5fambiguous_5fwidth',['utf_ambiguous_width',['../mbyte_8c.html#a280a0a43e5f4744afae8587e0b75377d',1,'mbyte.c']]],
   ['utf_5fbyte2len',['utf_byte2len',['../mbyte_8c.html#a017670c8d005b2f38de65c666ca11c5f',1,'mbyte.c']]],
@@ -147,6 +144,5 @@ var searchData=
   ['utfc_5fptr2char',['utfc_ptr2char',['../mbyte_8c.html#acbc6306128872ca8fb3e4c72c8986f3f',1,'mbyte.c']]],
   ['utfc_5fptr2char_5flen',['utfc_ptr2char_len',['../mbyte_8c.html#ad848b13df7eccd908380325ccacf0d6d',1,'mbyte.c']]],
   ['utfc_5fptr2len',['utfc_ptr2len',['../mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce',1,'mbyte.c']]],
-  ['utfc_5fptr2len_5flen',['utfc_ptr2len_len',['../mbyte_8c.html#af1e8433cc93f8bae2c754c1b287c9bee',1,'mbyte.c']]],
-  ['uuid',['uuid',['../namespace_vis_vim.html#a2415d89f15fabc27b8dac0218da1a21f',1,'VisVim']]]
+  ['utfc_5fptr2len_5flen',['utfc_ptr2len_len',['../mbyte_8c.html#af1e8433cc93f8bae2c754c1b287c9bee',1,'mbyte.c']]]
 ];

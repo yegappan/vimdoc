@@ -1,11 +1,10 @@
 var searchData=
 [
-  ['_5f',['_',['../gvimext_8cpp.html#af20b8d139279b360b0fdeae71f8f43bc',1,'_():&#160;gvimext.cpp'],['../vim_8h.html#af20b8d139279b360b0fdeae71f8f43bc',1,'_():&#160;vim.h']]],
+  ['_5f',['_',['../vim_8h.html#af20b8d139279b360b0fdeae71f8f43bc',1,'vim.h']]],
   ['_5f_5fiid_5fdefined_5f_5f',['__IID_DEFINED__',['../iid__ole_8c.html#a7f5cd0c3db50bb23786ff5c28bd27f84',1,'iid_ole.c']]],
   ['_5f_5fivim_5ffwd_5fdefined_5f_5f',['__IVim_FWD_DEFINED__',['../if__ole_8h.html#a5367b8773dc8ff049ae30284d2dfb0aa',1,'if_ole.h']]],
   ['_5f_5fivim_5finterface_5fdefined_5f_5f',['__IVim_INTERFACE_DEFINED__',['../if__ole_8h.html#a18accb45ffdc32b1c2a2e39c64d18432',1,'if_ole.h']]],
   ['_5f_5fmidl_5fuser_5fallocate_5ffree_5fdefined_5f_5f',['__MIDL_user_allocate_free_DEFINED__',['../if__ole_8h.html#adf1dd6cfb3b57248a5af9423eb53a761',1,'if_ole.h']]],
-  ['_5f_5fp',['__P',['../xxd_8c.html#a2fabe745ffa87ad43aa51a940f8958fb',1,'xxd.c']]],
   ['_5f_5fvim_5ffwd_5fdefined_5f_5f',['__Vim_FWD_DEFINED__',['../if__ole_8h.html#adc96ff85641c42823751d0fb79a9623b',1,'if_ole.h']]],
   ['_5f_5fvim_5flibrary_5fdefined_5f_5f',['__Vim_LIBRARY_DEFINED__',['../if__ole_8h.html#a68ce9aa42c99360d098f07364a4a9313',1,'if_ole.h']]],
   ['_5f_5fw64',['__w64',['../vim_8h.html#a900f7799cb8607e12f65d4396151a3df',1,'vim.h']]],
@@ -47,7 +46,6 @@ var searchData=
   ['_5fxmtohorizontalpixels',['_XmToHorizontalPixels',['../gui__gtk__vms_8h.html#a828cc04620de9802d2ba0324b4140944',1,'gui_gtk_vms.h']]],
   ['_5fxmtopshadowcolordefault',['_XmTopShadowColorDefault',['../gui__gtk__vms_8h.html#ad71ff96e1815f5bd032aacca5b14daad',1,'gui_gtk_vms.h']]],
   ['_5fxmtoverticalpixels',['_XmToVerticalPixels',['../gui__gtk__vms_8h.html#a646ebbdcf44aba0ec9d0953c625d1b31',1,'gui_gtk_vms.h']]],
-  ['_5fxopen_5fsource',['_XOPEN_SOURCE',['../vterm-ctrl_8c.html#a78c99ffd76a7bb3c8c74db76207e9ab4',1,'_XOPEN_SOURCE():&#160;vterm-ctrl.c'],['../vterm-dump_8c.html#a78c99ffd76a7bb3c8c74db76207e9ab4',1,'_XOPEN_SOURCE():&#160;vterm-dump.c']]],
   ['_5fxregisterfilterbytype',['_XRegisterFilterByType',['../gui__gtk__vms_8h.html#a9fec44f42b930825e56349fca7376c07',1,'gui_gtk_vms.h']]],
   ['_5fxtchecksubclassflag',['_XtCheckSubclassFlag',['../gui__gtk__vms_8h.html#a3da043428401f1ba1e6a2b6f0f4c717b',1,'gui_gtk_vms.h']]],
   ['_5fxtinherit',['_XtInherit',['../gui__gtk__vms_8h.html#a4ff98626755f81f45e53948df26d929b',1,'gui_gtk_vms.h']]],

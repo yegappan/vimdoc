@@ -1,0 +1,7 @@
+<map id="spell_free_aff" name="spell_free_aff">
+<area shape="rect" id="node2" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="425,81,497,108"/>
+<area shape="rect" id="node3" href="$regexp_8c.html#ae85d66ec0c262d0e6c22766cd75e0287" title="vim_regfree" alt="" coords="153,107,244,133"/>
+<area shape="rect" id="node6" href="$hashtab_8c.html#a82320ef8ee0783629a0cab3a74586b75" title="hash_clear" alt="" coords="292,5,377,32"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="299,157,370,184"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="431,157,491,184"/>
+</map>

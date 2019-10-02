@@ -1,0 +1,17 @@
+<map id="gui_mch_add_menu_item" name="gui_mch_add_menu_item">
+<area shape="rect" id="node2" href="$mouse_8c.html#a8883983b6b7fe9a47a7ff20bae6b4969" title="mouse_model_popup" alt="" coords="231,5,377,32"/>
+<area shape="rect" id="node3" href="$menu_8c.html#adb1981fe01640c7e1680562a4b0620d7" title="menu_is_toolbar" alt="" coords="245,56,363,83"/>
+<area shape="rect" id="node4" href="$menu_8c.html#a3a95450fb1f7cb8b566b4cd5a7a6e919" title="menu_is_separator" alt="" coords="238,107,370,133"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="263,157,345,184"/>
+<area shape="rect" id="node9" href="$gui__x11_8c.html#a9e8e889e7965df02fa527c5b8b4c0ddd" title="gui_x11_menu_cb" alt="" coords="241,208,367,235"/>
+<area shape="rect" id="node11" href="$gui__motif_8c.html#af17e71a9a5ad4024c2d611b1265cfc0f" title="gui_motif_menu_colors" alt="" coords="839,284,995,311"/>
+<area shape="rect" id="node12" href="$gui__motif_8c.html#a55165b143b84d1d464c1e7d770261940" title="gui_motif_menu_fontlist" alt="" coords="224,309,384,336"/>
+<area shape="rect" id="node14" href="$gui__motif_8c.html#a64c0fc3239c7c574568f1edc6799c36e" title="gui_motif_add_actext" alt="" coords="644,411,791,437"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="469,157,559,184"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="469,107,559,133"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="676,157,759,184"/>
+<area shape="rect" id="node10" href="$gui_8c.html#adc9d4fd22c474f9ad2d437a37e34d447" title="gui_menu_cb" alt="" coords="465,208,563,235"/>
+<area shape="rect" id="node13" href="$gui__motif_8c.html#a41d56936537955558ac9d885e34bc73e" title="gui_motif_create_fontlist" alt="" coords="432,360,596,387"/>
+<area shape="rect" id="node15" href="$gui__motif_8c.html#ab0d36c6ec7e4decf3e2b808076ae1e58" title="submenu_change" alt="" coords="655,309,779,336"/>
+<area shape="rect" id="node16" href="$gui__motif_8c.html#aa105f052e10db8dbd4140246742bdc17" title="do_set_mnemonics" alt="" coords="650,360,785,387"/>
+</map>

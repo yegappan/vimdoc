@@ -1,10 +1,5 @@
 var searchData=
 [
-  ['c1_5fcsi',['C1_CSI',['../vterm__internal_8h.html#adb49720dc49f7d4e4cf9adbf2948e409a903c47ec7a649d8924920513ea6640bd',1,'vterm_internal.h']]],
-  ['c1_5fdcs',['C1_DCS',['../vterm__internal_8h.html#adb49720dc49f7d4e4cf9adbf2948e409aa0d9e9ce827ee2d39903f89d678c6314',1,'vterm_internal.h']]],
-  ['c1_5fosc',['C1_OSC',['../vterm__internal_8h.html#adb49720dc49f7d4e4cf9adbf2948e409ac40e978377e37383c75d724e8c9178d5',1,'vterm_internal.h']]],
-  ['c1_5fss3',['C1_SS3',['../vterm__internal_8h.html#adb49720dc49f7d4e4cf9adbf2948e409acd1894f5ecaa09b4a5210be3ccf47b82',1,'vterm_internal.h']]],
-  ['c1_5fst',['C1_ST',['../vterm__internal_8h.html#adb49720dc49f7d4e4cf9adbf2948e409afa85d16a73fa025913ae478bb096dc9f',1,'vterm_internal.h']]],
   ['cdscope_5fglobal',['CDSCOPE_GLOBAL',['../structs_8h.html#aa725194ddac77581c1ccbc18aa15e3a8abab2ccae9e415611e692703f1b129a24',1,'structs.h']]],
   ['cdscope_5ftabpage',['CDSCOPE_TABPAGE',['../structs_8h.html#aa725194ddac77581c1ccbc18aa15e3a8a3d281db1203f81f04a8db414bda599e6',1,'structs.h']]],
   ['cdscope_5fwindow',['CDSCOPE_WINDOW',['../structs_8h.html#aa725194ddac77581c1ccbc18aa15e3a8a6460842468b28c4b3d8ea7db33af591a',1,'structs.h']]],
@@ -14,8 +9,5 @@ var searchData=
   ['compat_5fall_5fenhancements',['compat_all_enhancements',['../dosinst_8c.html#adf764cbdea00d65edcd07bb9953ad2b7ad7430263f8486ebac8450495f0c7ca6d',1,'dosinst.c']]],
   ['compat_5fsome_5fenhancements',['compat_some_enhancements',['../dosinst_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a4c08a93b113b1d88b7804cd3b7a030a1',1,'dosinst.c']]],
   ['compat_5fvi',['compat_vi',['../dosinst_8c.html#adf764cbdea00d65edcd07bb9953ad2b7adc9c2cbf25a67d173017ab5c688788d2',1,'dosinst.c']]],
-  ['compat_5fvim',['compat_vim',['../dosinst_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a86e806b2b3d9bbe39e9782a02082ce06',1,'dosinst.c']]],
-  ['csi_5fargs',['CSI_ARGS',['../struct_v_term.html#ab63b12db32b0e51b3683699f757f028a',1,'VTerm']]],
-  ['csi_5fintermed',['CSI_INTERMED',['../struct_v_term.html#a2804a68802191b4717c605442d290030',1,'VTerm']]],
-  ['csi_5fleader',['CSI_LEADER',['../struct_v_term.html#aaf598727b90acab8937960ddd7931fa2',1,'VTerm']]]
+  ['compat_5fvim',['compat_vim',['../dosinst_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a86e806b2b3d9bbe39e9782a02082ce06',1,'dosinst.c']]]
 ];

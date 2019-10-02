@@ -1,0 +1,10 @@
+<map id="shorten_dir" name="shorten_dir">
+<area shape="rect" id="node2" href="$filepath_8c.html#a3a027a38b217222ac4d9ebe8ce5c1947" title="gettail" alt="" coords="140,81,197,108"/>
+<area shape="rect" id="node8" href="$filepath_8c.html#acb4aef03c801e568565f34c9e10d25cf" title="vim_ispathsep" alt="" coords="452,81,559,108"/>
+<area shape="rect" id="node3" href="$filepath_8c.html#a722fc44c1b4c4f00e0a92cd2f50969a4" title="get_past_head" alt="" coords="271,31,378,57"/>
+<area shape="rect" id="node9" href="$filepath_8c.html#a00312a4bf9117289fcc81ae86b02cbc7" title="vim_ispathsep_nocolon" alt="" coords="245,81,404,108"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="464,31,547,57"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="607,5,697,32"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="607,56,697,83"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="745,5,828,32"/>
+</map>

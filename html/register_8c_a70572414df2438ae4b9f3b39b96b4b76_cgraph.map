@@ -1,0 +1,8 @@
+<map id="yank_register_mline" name="yank_register_mline">
+<area shape="rect" id="node2" href="$register_8c.html#af73679bf07f697c770be32ea2f4b9d56" title="valid_yank_reg" alt="" coords="200,31,309,57"/>
+<area shape="rect" id="node7" href="$register_8c.html#a924ba783dd69de5d309f2ed81490a14e" title="get_yank_register" alt="" coords="192,81,317,108"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="365,31,448,57"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="496,5,587,32"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="496,56,587,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="635,5,717,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ui_char_avail" name="ui_char_avail">
+<area shape="rect" id="node2" href="$gui__gtk__x11_8c.html#a4bb6ea64880092f3bde985271d6b225b" title="gui_mch_update" alt="" coords="152,5,269,32"/>
+<area shape="rect" id="node3" href="$os__amiga_8c.html#ad68e2dfc77af14a1b8cee1e8f07ad3c2" title="mch_char_avail" alt="" coords="154,56,267,83"/>
+<area shape="rect" id="node4" href="$os__unix_8c.html#a94cd3b5a2521429d2ec5abebcf624a46" title="WaitForChar" alt="" coords="317,56,413,83"/>
+<area shape="rect" id="node5" href="$os__unix_8c.html#a2039dde81a541063150fcd32709fdcdd" title="WaitForCharOrMouse" alt="" coords="461,56,611,83"/>
+<area shape="rect" id="node6" href="$os__unix_8c.html#ad512e8dc8639fb9c3cf455134b793821" title="mch_write" alt="" coords="659,31,741,57"/>
+<area shape="rect" id="node7" href="$os__unix_8c.html#a9388bec866c94932605ec6d5cfdb446a" title="RealWaitForChar" alt="" coords="789,56,912,83"/>
+</map>

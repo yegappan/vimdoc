@@ -1,0 +1,7 @@
+<map id="free_menu" name="free_menu">
+<area shape="rect" id="node2" href="$gui__athena_8c.html#afa6d367cd880c18c2998e4936dab71cc" title="gui_mch_destroy_menu" alt="" coords="136,13,296,39"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="384,93,456,119"/>
+<area shape="rect" id="node6" href="$menu_8c.html#ada50113f1afa88666c735a30cb0fb33d" title="free_menu_string" alt="" coords="155,114,277,141"/>
+<area shape="rect" id="node3" href="$gui__athena_8c.html#a8e4a8dfd1ce81535476baa6009a61f3e" title="gui_athena_menu_has\l_submenus" alt="" coords="344,5,496,47"/>
+<area shape="rect" id="node4" href="$gui__athena_8c.html#a41530308c1bcf64081906689818d09b3" title="has_submenu" alt="" coords="544,13,647,39"/>
+</map>

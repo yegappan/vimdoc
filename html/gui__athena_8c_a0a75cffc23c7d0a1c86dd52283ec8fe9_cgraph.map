@@ -1,0 +1,5 @@
+<map id="gui_mch_set_scrollbar_thumb" name="gui_mch_set_scrollbar_thumb">
+<area shape="rect" id="node2" href="$gui__at__sb_8c.html#a45ad03fa9ed5d39673c444a125f28d5d" title="vim_XawScrollbarSetThumb" alt="" coords="205,13,392,39"/>
+<area shape="rect" id="node3" href="$gui__at__sb_8c.html#a2f661f36625b4e35e34bd5b94e7f3773" title="PaintThumb" alt="" coords="440,13,532,39"/>
+<area shape="rect" id="node4" href="$gui__at__sb_8c.html#a9fa9bab86353274a0ffd686dffe02dd7" title="FillArea" alt="" coords="580,13,647,39"/>
+</map>

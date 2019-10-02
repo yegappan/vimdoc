@@ -1,0 +1,7 @@
+<map id="unserialize_pos" name="unserialize_pos">
+<area shape="rect" id="node2" href="$undo_8c.html#a40146532b1793fd97c2f40a027957a81" title="undo_read_4c" alt="" coords="165,56,268,83"/>
+<area shape="rect" id="node3" href="$undo_8c.html#ab0ed7eb35ab1b4f84cee3589a657fd3a" title="undo_read" alt="" coords="316,31,399,57"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#a07ffcf1b24d54d0108a56d8cd9c57471" title="get4c" alt="" coords="330,81,385,108"/>
+<area shape="rect" id="node4" href="$crypt_8c.html#a030bf2af55ba450f83a172aa68f9434c" title="crypt_decode_inplace" alt="" coords="447,5,595,32"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="472,56,569,83"/>
+</map>

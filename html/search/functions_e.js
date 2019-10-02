@@ -12,11 +12,9 @@ var searchData=
   ['new_5ffnames_5ffrom_5faedesc',['new_fnames_from_AEDesc',['../gui__mac_8c.html#a3b1f656174d89968fbaaeb07f959c65f',1,'gui_mac.c']]],
   ['new_5fframe',['new_frame',['../window_8c.html#a8bd0b1f56deb00c722c877dece542a93',1,'window.c']]],
   ['new_5fscript_5fvars',['new_script_vars',['../evalvars_8c.html#a2b22fc5f41ac9ec101640a921606425c',1,'evalvars.c']]],
-  ['newdocument',['NewDocument',['../class_c_commands_1_1_x_application_events.html#a3cf6ebf5760a92f0d05e21e5513535c0',1,'CCommands::XApplicationEvents']]],
   ['newenv',['newenv',['../misc2_8c.html#a0ba9a8643e7f19e714265fff85a2436a',1,'misc2.c']]],
   ['newfoldlevel',['newFoldLevel',['../fold_8c.html#adf649223de7112834ced20486baa6e94',1,'fold.c']]],
   ['newfoldlevelwin',['newFoldLevelWin',['../fold_8c.html#ae9416ee57af15e7f41e28fe081042d56',1,'fold.c']]],
-  ['newworkspace',['NewWorkspace',['../class_c_commands_1_1_x_application_events.html#ae77e045c67c584a4d28835dd77bf3cb0',1,'CCommands::XApplicationEvents']]],
   ['next',['Next',['../interface_active_i_m_m_1_1_i_enum_register_word_a.html#ac4b58edddafb857abaa6b9ff8112aa25',1,'ActiveIMM::IEnumRegisterWordA::Next()'],['../interface_active_i_m_m_1_1_i_enum_register_word_w.html#a28fdbe3d18e920c9d4503866766973fb',1,'ActiveIMM::IEnumRegisterWordW::Next()'],['../interface_active_i_m_m_1_1_i_enum_input_context.html#adeced14b3080e9f28fca1cc8d924eb45',1,'ActiveIMM::IEnumInputContext::Next()']]],
   ['next_5ffenc',['next_fenc',['../fileio_8c.html#a8fadec2d36a68d619b88ddbea35e3587',1,'fileio.c']]],
   ['next_5ffor_5fitem',['next_for_item',['../eval_8c.html#a746d5ae753281ad13e1227a917f72018',1,'eval.c']]],
@@ -148,5 +146,5 @@ var searchData=
   ['nv_5fvreplace',['nv_vreplace',['../normal_8c.html#a501ff7a0c80ca153d7b88b65d811225e',1,'normal.c']]],
   ['nv_5fwindow',['nv_window',['../normal_8c.html#a14024fd88d48e3d0f68e136ddc12041b',1,'normal.c']]],
   ['nv_5fwordcmd',['nv_wordcmd',['../normal_8c.html#a795a5045f09cd4f7bd296feb82f58008',1,'normal.c']]],
-  ['nv_5fzet',['nv_zet',['../normal_8c.html#a3753fa9320e3dd9139699fc640894e04',1,'nv_zet(cmdarg_T *cap):&#160;normal.c'],['../normal_8c.html#a203ce4a1d6a74f5f66dc3848a807673f',1,'nv_Zet(cmdarg_T *cap):&#160;normal.c']]]
+  ['nv_5fzet',['nv_Zet',['../normal_8c.html#a203ce4a1d6a74f5f66dc3848a807673f',1,'nv_Zet(cmdarg_T *cap):&#160;normal.c'],['../normal_8c.html#a3753fa9320e3dd9139699fc640894e04',1,'nv_zet(cmdarg_T *cap):&#160;normal.c']]]
 ];

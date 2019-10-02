@@ -1,0 +1,7 @@
+<map id="control_console_color_rgb" name="control_console_color_rgb">
+<area shape="rect" id="node2" href="$os__win32_8c.html#a41eae2f165e424e1dc31fddc498a9a27" title="set_console_color_rgb" alt="" coords="232,31,384,57"/>
+<area shape="rect" id="node6" href="$os__win32_8c.html#a6fbb703eab1eecaf6bb7dc5c48eab96d" title="reset_console_color_rgb" alt="" coords="227,81,389,108"/>
+<area shape="rect" id="node3" href="$highlight_8c.html#a81568cefb6df0f84da039d8a8faf5c8b" title="syn_name2id" alt="" coords="437,31,536,57"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="584,5,677,32"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#a38a525795766d9fe19bde7929cba110a" title="vim_strup" alt="" coords="591,56,670,83"/>
+</map>

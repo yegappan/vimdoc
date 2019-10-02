@@ -1,0 +1,7 @@
+<map id="submenu_change" name="submenu_change">
+<area shape="rect" id="node2" href="$gui__motif_8c.html#af17e71a9a5ad4024c2d611b1265cfc0f" title="gui_motif_menu_colors" alt="" coords="179,5,335,32"/>
+<area shape="rect" id="node3" href="$gui__motif_8c.html#a55165b143b84d1d464c1e7d770261940" title="gui_motif_menu_fontlist" alt="" coords="177,56,337,83"/>
+<area shape="rect" id="node4" href="$gui__motif_8c.html#a41d56936537955558ac9d885e34bc73e" title="gui_motif_create_fontlist" alt="" coords="385,81,549,108"/>
+<area shape="rect" id="node5" href="$gui__motif_8c.html#a64c0fc3239c7c574568f1edc6799c36e" title="gui_motif_add_actext" alt="" coords="597,56,744,83"/>
+<area shape="rect" id="node6" href="$gui__motif_8c.html#aa105f052e10db8dbd4140246742bdc17" title="do_set_mnemonics" alt="" coords="603,107,738,133"/>
+</map>

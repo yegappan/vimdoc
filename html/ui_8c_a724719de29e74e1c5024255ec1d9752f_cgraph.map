@@ -1,0 +1,8 @@
+<map id="ui_new_shellsize" name="ui_new_shellsize">
+<area shape="rect" id="node2" href="$gui_8c.html#a6d5271bb1f44cf9b4939da2b91505eeb" title="gui_new_shellsize" alt="" coords="183,5,311,32"/>
+<area shape="rect" id="node4" href="$os__amiga_8c.html#ae8e99a1f2082c603e8ee0c80dfdd9a1c" title="mch_new_shellsize" alt="" coords="179,56,315,83"/>
+<area shape="rect" id="node5" href="$gui__gtk__x11_8c.html#a6fe89d738b11e5e26a1f5e39dac8e1c7" title="gui_mch_get_winpos" alt="" coords="175,107,319,133"/>
+<area shape="rect" id="node6" href="$os__mswin_8c.html#a70d39bab8949ed40bc2d179d59dc709b" title="mch_get_winpos" alt="" coords="187,157,307,184"/>
+<area shape="rect" id="node3" href="$gui_8c.html#a5bf170d35ef8d5952eded23622bbc112" title="gui_reset_scroll_region" alt="" coords="367,5,521,32"/>
+<area shape="rect" id="node7" href="$os__mswin_8c.html#accb843a7e03d60406697eb416691f65f" title="GetConsoleHwnd" alt="" coords="381,157,507,184"/>
+</map>

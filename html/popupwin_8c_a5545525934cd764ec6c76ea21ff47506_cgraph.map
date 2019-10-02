@@ -1,0 +1,10 @@
+<map id="filter_handle_drag" name="filter_handle_drag">
+<area shape="rect" id="node2" href="$mouse_8c.html#a2ffe0587106d5145d9944d8227b38456" title="is_mouse_key" alt="" coords="182,31,289,57"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#a972a19a6f8d4db198569218a2cbd1c5f" title="mouse_find_win" alt="" coords="177,81,293,108"/>
+<area shape="rect" id="node4" href="$popupwin_8c.html#ad01a741bb6e23f8ba2b79eacc6cf89f4" title="popup_reset_handled" alt="" coords="341,5,487,32"/>
+<area shape="rect" id="node5" href="$popupwin_8c.html#ad040dbf4572b46ed3375145d7dddfb18" title="find_next_popup" alt="" coords="355,56,473,83"/>
+<area shape="rect" id="node6" href="$popupwin_8c.html#a18bf324b937569a648012acc68065faf" title="popup_height" alt="" coords="365,107,463,133"/>
+<area shape="rect" id="node8" href="$popupwin_8c.html#a8fd1d7a2c52fca4786b21b2ea0f11447" title="popup_width" alt="" coords="367,157,461,184"/>
+<area shape="rect" id="node7" href="$popupwin_8c.html#af0a3e03ad3b51c9115b942834730fbc3" title="popup_top_extra" alt="" coords="541,107,659,133"/>
+<area shape="rect" id="node9" href="$popupwin_8c.html#a0df1567c4fafa82bc2f0a95526aff31e" title="popup_extra_width" alt="" coords="535,157,665,184"/>
+</map>

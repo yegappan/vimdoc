@@ -1,0 +1,7 @@
+<map id="serialize_visualinfo" name="serialize_visualinfo">
+<area shape="rect" id="node2" href="$undo_8c.html#aaac1d4f61a5b092fdc974e07ed302606" title="serialize_pos" alt="" coords="185,5,284,32"/>
+<area shape="rect" id="node3" href="$undo_8c.html#aa497da00669aedcb00c5f0bffe1f12b2" title="undo_write_bytes" alt="" coords="332,31,456,57"/>
+<area shape="rect" id="node4" href="$undo_8c.html#a1c8e457327e93f5e893f1142f69ed82a" title="undo_write" alt="" coords="504,31,589,57"/>
+<area shape="rect" id="node5" href="$undo_8c.html#ae9a07aa5ab4821919e2cd2f69e2a3d35" title="undo_flush" alt="" coords="637,31,723,57"/>
+<area shape="rect" id="node6" href="$crypt_8c.html#a24e93f82dc1e967eaade3e937957c619" title="crypt_encode_inplace" alt="" coords="771,31,919,57"/>
+</map>

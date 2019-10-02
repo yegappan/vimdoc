@@ -2,13 +2,11 @@ var searchData=
 [
   ['rangeobject',['RangeObject',['../struct_range_object.html',1,'']]],
   ['readq_5fs',['readq_S',['../structreadq___s.html',1,'']]],
-  ['record',['record',['../structhistindex_1_1record.html',1,'histindex']]],
   ['ref',['ref',['../structref.html',1,'']]],
   ['reg_5fextmatch_5ft',['reg_extmatch_T',['../structreg__extmatch___t.html',1,'']]],
   ['regbehind_5fs',['regbehind_S',['../structregbehind___s.html',1,'']]],
   ['regengine',['regengine',['../structregengine.html',1,'']]],
   ['regexec_5ft',['regexec_T',['../structregexec___t.html',1,'']]],
-  ['region',['region',['../structregion.html',1,'']]],
   ['registerworda',['REGISTERWORDA',['../struct_active_i_m_m_1_1_r_e_g_i_s_t_e_r_w_o_r_d_a.html',1,'ActiveIMM']]],
   ['registerwordw',['REGISTERWORDW',['../struct_active_i_m_m_1_1_r_e_g_i_s_t_e_r_w_o_r_d_w.html',1,'ActiveIMM']]],
   ['regitem_5fs',['regitem_S',['../structregitem___s.html',1,'']]],

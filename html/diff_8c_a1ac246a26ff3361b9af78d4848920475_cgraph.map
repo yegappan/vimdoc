@@ -1,0 +1,7 @@
+<map id="diff_cmp" name="diff_cmp">
+<area shape="rect" id="node2" href="$charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="142,5,219,32"/>
+<area shape="rect" id="node3" href="$diff_8c.html#a5e29bbd0e15bc17bda4b8a0d770cc1d0" title="diff_equal_char" alt="" coords="125,56,236,83"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#ae1a4569df11b81f0d22bec5d04822e46" title="utf_fold" alt="" coords="297,31,362,57"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="284,81,375,108"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a28df56c5dfc069e9c6703bc44ac83133" title="utf_convert" alt="" coords="423,31,509,57"/>
+</map>

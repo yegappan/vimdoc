@@ -1,0 +1,5 @@
+<map id="decode_key_event" name="decode_key_event">
+<area shape="rect" id="node2" href="$os__win32_8c.html#a9fa6c41c6556bc0eed8343b3a83c3556" title="win32_kbd_patch_key" alt="" coords="184,5,335,32"/>
+<area shape="rect" id="node4" href="$os__win32_8c.html#a2b17c39343f7b2e59b379a63a9720692" title="mch_setmouse" alt="" coords="204,56,315,83"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="383,5,480,32"/>
+</map>

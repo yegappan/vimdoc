@@ -1,0 +1,9 @@
+<map id="find_builtin_term" name="find_builtin_term">
+<area shape="rect" id="node2" href="$os__unix_8c.html#a4fb4b96385325c71e1da673be6dade88" title="vim_is_iris" alt="" coords="179,5,263,32"/>
+<area shape="rect" id="node3" href="$os__unix_8c.html#a202b393af4b1f192b537c0230983b33c" title="vim_is_xterm" alt="" coords="171,56,271,83"/>
+<area shape="rect" id="node4" href="$os__unix_8c.html#aece4885f22edf29a7c0e901bd9d432e0" title="vim_is_vt300" alt="" coords="171,107,270,133"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="319,107,401,133"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="449,81,540,108"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="449,132,540,159"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="588,81,671,108"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="DWriteContext_SetFont" name="DWriteContext_SetFont">
+<area shape="rect" id="node2" href="$struct_d_write_context.html#a2aee479f1aa056500b5a2d7afac11f2b" title="DWriteContext::SetFont" alt="" coords="216,85,379,112"/>
+<area shape="rect" id="node3" href="$class_font_cache.html#a43a1a3aafe1ab704a8e1ab43aa048497" title="FontCache::get" alt="" coords="460,5,572,32"/>
+<area shape="rect" id="node4" href="$gui__dwrite_8cpp.html#addcff46553dcb0ebaef1aef403cdda0b" title="SafeRelease" alt="" coords="884,136,981,163"/>
+<area shape="rect" id="node5" href="$struct_d_write_context.html#a276dfd6df5721a98494faf0a1b4f019e" title="DWriteContext::SetFontBy\lLOGFONT" alt="" coords="427,107,605,149"/>
+<area shape="rect" id="node7" href="$class_font_cache.html#a1c8fd5f25c1b9481462ecdc01766794d" title="FontCache::put" alt="" coords="689,224,801,251"/>
+<area shape="rect" id="node6" href="$struct_d_write_context.html#aad83db3691a130be46192820b6ffbf06" title="DWriteContext::CreateText\lFormatFromLOGFONT" alt="" coords="653,158,836,199"/>
+</map>

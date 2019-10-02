@@ -1,0 +1,6 @@
+<map id="popup_hide_info" name="popup_hide_info">
+<area shape="rect" id="node2" href="$popupwin_8c.html#ab66e6f02c451f104ae6f5ffda6740ab0" title="popup_find_info_window" alt="" coords="169,5,333,32"/>
+<area shape="rect" id="node3" href="$popupwin_8c.html#a23844fe8acc1027f55a1f714224376d2" title="popup_hide" alt="" coords="207,56,295,83"/>
+<area shape="rect" id="node4" href="$drawscreen_8c.html#a6cfdbac5c3017ed3f6f8c70035ea3e5d" title="redraw_all_later" alt="" coords="381,56,495,83"/>
+<area shape="rect" id="node5" href="$drawscreen_8c.html#a75f787af652221777afbee0bc84a9810" title="redraw_win_later" alt="" coords="543,56,663,83"/>
+</map>

@@ -6,7 +6,6 @@ var searchData=
   ['iactiveimmime',['IActiveIMMIME',['../interface_active_i_m_m_1_1_i_active_i_m_m_i_m_e.html',1,'ActiveIMM']]],
   ['iactiveimmmessagepumpowner',['IActiveIMMMessagePumpOwner',['../interface_active_i_m_m_1_1_i_active_i_m_m_message_pump_owner.html',1,'ActiveIMM']]],
   ['iactiveimmregistrar',['IActiveIMMRegistrar',['../interface_active_i_m_m_1_1_i_active_i_m_m_registrar.html',1,'ActiveIMM']]],
-  ['icommands',['ICommands',['../interface_vis_vim_1_1_i_commands.html',1,'VisVim']]],
   ['ienuminputcontext',['IEnumInputContext',['../interface_active_i_m_m_1_1_i_enum_input_context.html',1,'ActiveIMM']]],
   ['ienumregisterworda',['IEnumRegisterWordA',['../interface_active_i_m_m_1_1_i_enum_register_word_a.html',1,'ActiveIMM']]],
   ['ienumregisterwordw',['IEnumRegisterWordW',['../interface_active_i_m_m_1_1_i_enum_register_word_w.html',1,'ActiveIMM']]],

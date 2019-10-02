@@ -1,0 +1,8 @@
+<map id="ex_tabmove" name="ex_tabmove">
+<area shape="rect" id="node2" href="$ex__docmd_8c.html#afe192c62206cf32f38fd1b7631addb76" title="get_tabpage_arg" alt="" coords="147,56,265,83"/>
+<area shape="rect" id="node7" href="$window_8c.html#a6c55fcd8275b07558029a8d6d10ef0a5" title="tabpage_move" alt="" coords="153,107,259,133"/>
+<area shape="rect" id="node3" href="$charset_8c.html#ad81a749470a4c63eab4e9dea315f2819" title="getdigits" alt="" coords="331,5,402,32"/>
+<area shape="rect" id="node5" href="$window_8c.html#a18a5017e016b3bdd246ccd079bce4915" title="tabpage_index" alt="" coords="313,56,420,83"/>
+<area shape="rect" id="node6" href="$charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="328,107,405,133"/>
+<area shape="rect" id="node4" href="$charset_8c.html#a3b21cf6150be4559ab6fd90593f300c0" title="skipdigits" alt="" coords="468,5,545,32"/>
+</map>

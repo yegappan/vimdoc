@@ -1,0 +1,7 @@
+<map id="prepare_viminfo_history" name="prepare_viminfo_history">
+<area shape="rect" id="node2" href="$cmdhist_8c.html#a3b9830ecbd98de7ce0be571922d58286" title="init_history" alt="" coords="219,31,305,57"/>
+<area shape="rect" id="node5" href="$cmdhist_8c.html#aac9e89c9640097066fe77f1b0a6e3144" title="get_hislen" alt="" coords="221,81,303,108"/>
+<area shape="rect" id="node6" href="$cmdhist_8c.html#a52700d0f201a6d5483396155083293ef" title="get_histentry" alt="" coords="213,132,311,159"/>
+<area shape="rect" id="node3" href="$cmdhist_8c.html#a796138275f407eba043be4b766b413e6" title="clear_hist_entry" alt="" coords="359,5,473,32"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="380,56,452,83"/>
+</map>

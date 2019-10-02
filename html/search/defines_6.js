@@ -9,7 +9,7 @@ var searchData=
   ['f_5fm',['F_M',['../hangulin_8c.html#a3cddca3555ad8d4ae74fd33dc92025b6',1,'hangulin.c']]],
   ['f_5fnull',['F_NULL',['../hangulin_8c.html#a9aad39f73191d076ef21a97c2702a7d4',1,'hangulin.c']]],
   ['fail',['FAIL',['../dosinst_8h.html#abb508ea8227673f419e9fe3a86c30d8e',1,'FAIL():&#160;dosinst.h'],['../vim_8h.html#abb508ea8227673f419e9fe3a86c30d8e',1,'FAIL():&#160;vim.h']]],
-  ['false',['FALSE',['../dosinst_8h.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;dosinst.h'],['../vterm-ctrl_8c.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;vterm-ctrl.c'],['../vterm_8h.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;vterm.h'],['../os__amiga_8c.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;os_amiga.c'],['../vim_8h.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;vim.h']]],
+  ['false',['FALSE',['../dosinst_8h.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;dosinst.h'],['../os__amiga_8c.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;os_amiga.c'],['../vim_8h.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;vim.h']]],
   ['fc_5fabort',['FC_ABORT',['../userfunc_8c.html#a109b01dc6a7e77cc1bccd22e4603114d',1,'userfunc.c']]],
   ['fc_5fclosure',['FC_CLOSURE',['../userfunc_8c.html#a37172d5e777d7aee1dc8bd97db8a1074',1,'userfunc.c']]],
   ['fc_5fdeleted',['FC_DELETED',['../userfunc_8c.html#acafb35f0e3b7932a9f35fa07c3a50bdb',1,'userfunc.c']]],
@@ -172,7 +172,6 @@ var searchData=
   ['for_5fall_5fwindows',['FOR_ALL_WINDOWS',['../globals_8h.html#ace47feb394b092f7e9f5e736b86ae91b',1,'globals.h']]],
   ['for_5fall_5fwindows_5fin_5ftab',['FOR_ALL_WINDOWS_IN_TAB',['../globals_8h.html#ac095406bd24728b466157ded36f8c23c',1,'globals.h']]],
   ['for_5fmsw',['FOR_MSW',['../xpm__w32_8c.html#aa621c47843e23e766434ec63de4cd176',1,'xpm_w32.c']]],
-  ['force',['FORCE',['../state_8c.html#a88e090a808630e22e34d9f69c0be9c66',1,'state.c']]],
   ['force_5fbin',['FORCE_BIN',['../ex__cmds_8h.html#adade35874286a0d3adf67ddd3bf8c4bc',1,'ex_cmds.h']]],
   ['force_5fnobin',['FORCE_NOBIN',['../ex__cmds_8h.html#a0c3a0b0c5323f8880858f0e5d844b9cf',1,'ex_cmds.h']]],
   ['foreground',['FOREGROUND',['../gui__x11__pm_8h.html#a2a375179c125d0867430c6778c343b6f',1,'gui_x11_pm.h']]],
@@ -188,11 +187,8 @@ var searchData=
   ['fr_5frow',['FR_ROW',['../structs_8h.html#a4203c43eb48048906224be516709dd9f',1,'structs.h']]],
   ['fraction_5fmult',['FRACTION_MULT',['../window_8c.html#a87c1b9c54b8e3f8fdd05845adb56dc2b',1,'window.c']]],
   ['free_5ffib',['free_fib',['../os__amiga_8c.html#aff099d14da662e696ef9332183e7a177',1,'os_amiga.c']]],
-  ['from_5fole_5fstr',['FROM_OLE_STR',['../_ole_aut_8h.html#aa954b198b87b8e7ed9821b76ebb0c971',1,'OleAut.h']]],
-  ['from_5fole_5fstr_5fbuf',['FROM_OLE_STR_BUF',['../_ole_aut_8h.html#a9aba30961456cce3ea315eed9451fd90',1,'OleAut.h']]],
   ['ftoff_5ffile',['FTOFF_FILE',['../os__amiga_8h.html#a115097f9836492df9622bc45a541b423',1,'FTOFF_FILE():&#160;os_amiga.h'],['../os__dos_8h.html#a115097f9836492df9622bc45a541b423',1,'FTOFF_FILE():&#160;os_dos.h'],['../os__mac_8h.html#a115097f9836492df9622bc45a541b423',1,'FTOFF_FILE():&#160;os_mac.h'],['../os__unix_8h.html#a115097f9836492df9622bc45a541b423',1,'FTOFF_FILE():&#160;os_unix.h']]],
   ['ftplugin_5ffile',['FTPLUGIN_FILE',['../os__amiga_8h.html#a8674cbf2a284dd4a0e23d0b19acc844e',1,'FTPLUGIN_FILE():&#160;os_amiga.h'],['../os__dos_8h.html#a8674cbf2a284dd4a0e23d0b19acc844e',1,'FTPLUGIN_FILE():&#160;os_dos.h'],['../os__mac_8h.html#a8674cbf2a284dd4a0e23d0b19acc844e',1,'FTPLUGIN_FILE():&#160;os_mac.h'],['../os__unix_8h.html#a8674cbf2a284dd4a0e23d0b19acc844e',1,'FTPLUGIN_FILE():&#160;os_unix.h']]],
   ['ftplugof_5ffile',['FTPLUGOF_FILE',['../os__amiga_8h.html#aa751ba58534eae9ebf45d9ddf0625c17',1,'FTPLUGOF_FILE():&#160;os_amiga.h'],['../os__dos_8h.html#aa751ba58534eae9ebf45d9ddf0625c17',1,'FTPLUGOF_FILE():&#160;os_dos.h'],['../os__mac_8h.html#aa751ba58534eae9ebf45d9ddf0625c17',1,'FTPLUGOF_FILE():&#160;os_mac.h'],['../os__unix_8h.html#aa751ba58534eae9ebf45d9ddf0625c17',1,'FTPLUGOF_FILE():&#160;os_unix.h']]],
-  ['func',['FUNC',['../xpm_8h.html#a4bea672d5e5abfed5cbb87b133d7f7f6',1,'xpm.h']]],
   ['funcarg',['FUNCARG',['../userfunc_8c.html#a54d1ae1fe9626de10e655ae7709a9699',1,'userfunc.c']]]
 ];

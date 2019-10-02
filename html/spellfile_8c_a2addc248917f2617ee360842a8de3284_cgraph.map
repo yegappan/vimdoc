@@ -1,0 +1,10 @@
+<map id="get_affix_flags" name="get_affix_flags">
+<area shape="rect" id="node2" href="$spellfile_8c.html#aceae4a7adbe08030ae01f7346c8c73b9" title="flag_in_afflist" alt="" coords="160,81,259,108"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="327,31,409,57"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#a505073bff7332ecc1f0c8c21d190264c" title="mb_ptr2char_adv" alt="" coords="307,81,429,108"/>
+<area shape="rect" id="node8" href="$charset_8c.html#ad81a749470a4c63eab4e9dea315f2819" title="getdigits" alt="" coords="333,132,403,159"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="477,5,568,32"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="477,56,568,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="616,5,699,32"/>
+<area shape="rect" id="node9" href="$charset_8c.html#a3b21cf6150be4559ab6fd90593f300c0" title="skipdigits" alt="" coords="484,132,561,159"/>
+</map>

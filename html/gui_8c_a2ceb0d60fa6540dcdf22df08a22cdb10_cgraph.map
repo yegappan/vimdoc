@@ -1,0 +1,10 @@
+<map id="xy2win" name="xy2win">
+<area shape="rect" id="node2" href="$mouse_8c.html#a972a19a6f8d4db198569218a2cbd1c5f" title="mouse_find_win" alt="" coords="116,81,232,108"/>
+<area shape="rect" id="node9" href="$screen_8c.html#a8a284f0cd2834bf8bc7d5d383a8c5df6" title="stl_connected" alt="" coords="123,132,225,159"/>
+<area shape="rect" id="node3" href="$popupwin_8c.html#ad01a741bb6e23f8ba2b79eacc6cf89f4" title="popup_reset_handled" alt="" coords="280,5,425,32"/>
+<area shape="rect" id="node4" href="$popupwin_8c.html#ad040dbf4572b46ed3375145d7dddfb18" title="find_next_popup" alt="" coords="294,56,411,83"/>
+<area shape="rect" id="node5" href="$popupwin_8c.html#a18bf324b937569a648012acc68065faf" title="popup_height" alt="" coords="303,107,402,133"/>
+<area shape="rect" id="node7" href="$popupwin_8c.html#a8fd1d7a2c52fca4786b21b2ea0f11447" title="popup_width" alt="" coords="305,157,400,184"/>
+<area shape="rect" id="node6" href="$popupwin_8c.html#af0a3e03ad3b51c9115b942834730fbc3" title="popup_top_extra" alt="" coords="479,107,598,133"/>
+<area shape="rect" id="node8" href="$popupwin_8c.html#a0df1567c4fafa82bc2f0a95526aff31e" title="popup_extra_width" alt="" coords="473,157,604,184"/>
+</map>

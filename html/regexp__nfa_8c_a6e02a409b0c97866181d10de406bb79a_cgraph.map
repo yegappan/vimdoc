@@ -1,0 +1,10 @@
+<map id="skip_to_start" name="skip_to_start">
+<area shape="rect" id="node2" href="$misc2_8c.html#a5bac9de9f2baa43d0d575b9623dac947" title="vim_strbyte" alt="" coords="151,5,241,32"/>
+<area shape="rect" id="node3" href="$regexp_8c.html#a4b3e3bfff3b3a2cc8c09d7c0c53ee92a" title="cstrchr" alt="" coords="165,56,227,83"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="289,5,372,32"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="420,56,511,83"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#ae1a4569df11b81f0d22bec5d04822e46" title="utf_fold" alt="" coords="298,107,363,133"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="420,5,511,32"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="559,5,641,32"/>
+<area shape="rect" id="node9" href="$mbyte_8c.html#a28df56c5dfc069e9c6703bc44ac83133" title="utf_convert" alt="" coords="422,107,509,133"/>
+</map>

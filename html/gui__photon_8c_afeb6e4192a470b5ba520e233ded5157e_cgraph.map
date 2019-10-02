@@ -1,0 +1,11 @@
+<map id="gui_mch_add_menu" name="gui_mch_add_menu">
+<area shape="rect" id="node2" href="$menu_8c.html#acb5ff3e927a80c942fe99c777370b006" title="menu_is_menubar" alt="" coords="203,88,331,115"/>
+<area shape="rect" id="node3" href="$menu_8c.html#a9680092d119a0103721d4557fd8a1ffd" title="menu_is_popup" alt="" coords="393,5,506,32"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="226,151,309,177"/>
+<area shape="rect" id="node10" href="$gui__photon_8c.html#a96bb6ac5f397e62383f621dff854e635" title="gui_ph_position_menu" alt="" coords="192,201,343,228"/>
+<area shape="rect" id="node4" href="$menu_8c.html#adb1981fe01640c7e1680562a4b0620d7" title="menu_is_toolbar" alt="" coords="391,56,508,83"/>
+<area shape="rect" id="node5" href="$menu_8c.html#a0cacf85756258c38361edd92fdeb048b" title="menu_is_winbar" alt="" coords="391,107,507,133"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="404,157,495,184"/>
+<area shape="rect" id="node9" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="404,208,495,235"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="556,157,639,184"/>
+</map>

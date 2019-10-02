@@ -73,7 +73,6 @@ var searchData=
   ['arg_5fxrm',['ARG_XRM',['../gui__gtk__x11_8c.html#a0c5da0a2816ae9732a860173cbb7d38d',1,'gui_gtk_x11.c']]],
   ['argcount',['ARGCOUNT',['../structs_8h.html#a331aeae5f6aef36e5c79a58ba28e1d9c',1,'structs.h']]],
   ['arglist',['ARGLIST',['../structs_8h.html#a50e553bda8ce21293b2215184a449495',1,'structs.h']]],
-  ['argsrect',['ARGSrect',['../rect_8h.html#a2d9e916534ea42d0c09c8fa3be2bdf78',1,'rect.h']]],
   ['array_5flength',['ARRAY_LENGTH',['../blowfish_8c.html#a4a3e3578c77dd33ac2466a2c3a038fad',1,'ARRAY_LENGTH():&#160;blowfish.c'],['../gui__photon_8c.html#af954099677131c19989a18d9d0125269',1,'ARRAY_LENGTH():&#160;gui_photon.c']]],
   ['ascii_5fisalnum',['ASCII_ISALNUM',['../macros_8h.html#a2b4fb8de04317d3bccf5557e1fa72fc3',1,'macros.h']]],
   ['ascii_5fisalpha',['ASCII_ISALPHA',['../macros_8h.html#a91d2733ae4d7b126d9d545ff5315b50e',1,'macros.h']]],

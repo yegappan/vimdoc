@@ -1,0 +1,17 @@
+<map id="msg_may_trunc" name="msg_may_trunc">
+<area shape="rect" id="node2" href="$option_8c.html#af327ea763af32fab795ca7149d71b8b2" title="shortmess" alt="" coords="171,5,254,32"/>
+<area shape="rect" id="node7" href="$charset_8c.html#a447c389a54f297c34048c23238d95fcd" title="vim_strsize" alt="" coords="168,56,257,83"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="449,5,532,32"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="581,56,672,83"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="721,5,812,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="725,56,808,83"/>
+<area shape="rect" id="node8" href="$charset_8c.html#ac58f2b235192879e481787179b74cf00" title="vim_strnsize" alt="" coords="305,56,401,83"/>
+<area shape="rect" id="node9" href="$charset_8c.html#af4f1908325e378232fe669cbba42f9a9" title="ptr2cells" alt="" coords="455,107,526,133"/>
+<area shape="rect" id="node16" href="$charset_8c.html#a8dd1205204179cb986f6127534c2e357" title="byte2cells" alt="" coords="450,56,531,83"/>
+<area shape="rect" id="node10" href="$mbyte_8c.html#aa2b8417af4780857146a0c2791fcac66" title="utf_ptr2cells" alt="" coords="580,107,673,133"/>
+<area shape="rect" id="node11" href="$charset_8c.html#a12473ab1872440ac9585951bae14e8a9" title="char2cells" alt="" coords="726,157,807,184"/>
+<area shape="rect" id="node12" href="$mbyte_8c.html#ac38b8ec71563a4bd534a6e45504dac29" title="utf_char2cells" alt="" coords="860,132,963,159"/>
+<area shape="rect" id="node13" href="$mbyte_8c.html#a8dbba5cc8e34186e23fdcfc8d0900fa1" title="utf_printable" alt="" coords="1151,132,1244,159"/>
+<area shape="rect" id="node14" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="1292,107,1352,133"/>
+<area shape="rect" id="node15" href="$charset_8c.html#aeb4141651c00c84f98b62da073716144" title="vim_isprintc" alt="" coords="1011,132,1103,159"/>
+</map>

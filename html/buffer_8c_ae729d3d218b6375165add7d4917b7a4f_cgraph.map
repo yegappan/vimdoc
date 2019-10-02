@@ -1,0 +1,7 @@
+<map id="buf_spname" name="buf_spname">
+<area shape="rect" id="node2" href="$buffer_8c.html#a806bcef2a3de70b1ffbb6b8c7c2cc953" title="bt_quickfix" alt="" coords="171,5,256,32"/>
+<area shape="rect" id="node3" href="$quickfix_8c.html#a05ffdebfdba92b52126b4a414807208e" title="qf_stack_get_bufnr" alt="" coords="147,56,280,83"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a75cd7a4d953773d99a198be478596f32" title="bt_nofilename" alt="" coords="162,107,265,133"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#ae37ecf7d6c9c2ae42712833354a971a2" title="bt_prompt" alt="" coords="173,157,253,184"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a68d3fa67200e7c4602f847f3e0e6d1f4" title="bt_popup" alt="" coords="176,208,251,235"/>
+</map>

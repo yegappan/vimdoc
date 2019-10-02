@@ -1,0 +1,6 @@
+<map id="check_shellsize" name="check_shellsize">
+<area shape="rect" id="node2" href="$window_8c.html#af814a03bebf9d44bd78bf37f0a7332c9" title="min_rows" alt="" coords="190,31,269,57"/>
+<area shape="rect" id="node5" href="$term_8c.html#a28bf5d095bf3f881a9902cfdf4ad5def" title="limit_screen_size" alt="" coords="168,81,291,108"/>
+<area shape="rect" id="node3" href="$window_8c.html#a2937f9bf1b7399a3b4748ce53b52e500" title="frame_minheight" alt="" coords="339,5,457,32"/>
+<area shape="rect" id="node4" href="$window_8c.html#aeb34215e11d8d1ff9c8b896c64330ddc" title="tabline_height" alt="" coords="347,56,449,83"/>
+</map>

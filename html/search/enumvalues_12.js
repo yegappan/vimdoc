@@ -1,6 +1,24 @@
 var searchData=
 [
-  ['ub_5fcrypt',['UB_CRYPT',['../memline_8c.html#aeb2a08db86a3f3c959cc50de278339eda657b3ee32a0fea16c976931ef3bc9e27',1,'memline.c']]],
-  ['ub_5ffname',['UB_FNAME',['../memline_8c.html#aeb2a08db86a3f3c959cc50de278339edae07039e8880c427cedb331eac7444095',1,'memline.c']]],
-  ['ub_5fsame_5fdir',['UB_SAME_DIR',['../memline_8c.html#aeb2a08db86a3f3c959cc50de278339eda3e3c35facf7ed67537393dd40196c797',1,'memline.c']]]
+  ['var_5fblob',['VAR_BLOB',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76a985698eebe92f420b1d38a29c3534ae4',1,'structs.h']]],
+  ['var_5fchannel',['VAR_CHANNEL',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76a529633994c146dc2659a3566abedf455',1,'structs.h']]],
+  ['var_5fdict',['VAR_DICT',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76aa3a72813b2075b71a9a9789fa4252853',1,'structs.h']]],
+  ['var_5fflavour_5fdefault',['VAR_FLAVOUR_DEFAULT',['../structs_8h.html#a9537941b128f5ca71fa7fba7b4d4a156ac3f6f9e44a199b26a28a2940b36b36a5',1,'structs.h']]],
+  ['var_5fflavour_5fsession',['VAR_FLAVOUR_SESSION',['../structs_8h.html#a9537941b128f5ca71fa7fba7b4d4a156a4ab049667cea9da74a4915396e12c864',1,'structs.h']]],
+  ['var_5fflavour_5fviminfo',['VAR_FLAVOUR_VIMINFO',['../structs_8h.html#a9537941b128f5ca71fa7fba7b4d4a156a4ae6230200c4d3635561a49c32055322',1,'structs.h']]],
+  ['var_5ffloat',['VAR_FLOAT',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76aa25f96b33612e203167f219b79603545',1,'structs.h']]],
+  ['var_5ffunc',['VAR_FUNC',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76a5f8138ccb88702b5e64980f534312182',1,'structs.h']]],
+  ['var_5fjob',['VAR_JOB',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76aac62f72a7a3febbf22d9f54c580e833c',1,'structs.h']]],
+  ['var_5flist',['VAR_LIST',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76a0d3c7284227bb22719180d8096217d6a',1,'structs.h']]],
+  ['var_5fnumber',['VAR_NUMBER',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76ab52f7ef71ffc1d4c197a7422cedbaff2',1,'structs.h']]],
+  ['var_5fpartial',['VAR_PARTIAL',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76a2972867427c39b77c8e8a244be37c499',1,'structs.h']]],
+  ['var_5fspecial',['VAR_SPECIAL',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76a17c53c2e9774921f7390f91e2946c4da',1,'structs.h']]],
+  ['var_5fstring',['VAR_STRING',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76a9db9f9506f3e8660f6bd25e9c48745f1',1,'structs.h']]],
+  ['var_5funknown',['VAR_UNKNOWN',['../structs_8h.html#a2b5ff4af1dac681258949e5a522dca76a9aa3e1b5a84820042d52f746ac187309',1,'structs.h']]],
+  ['vimfiles_5fdir_5fhome',['vimfiles_dir_home',['../dosinst_8c.html#adc29c2ff13d900c2f185ee95427fb06ca10346af26247d76160e564d1dbc67f83',1,'dosinst.c']]],
+  ['vimfiles_5fdir_5fnone',['vimfiles_dir_none',['../dosinst_8c.html#adc29c2ff13d900c2f185ee95427fb06cad64d80e4257b11c73f80aad7e8902168',1,'dosinst.c']]],
+  ['vimfiles_5fdir_5fvim',['vimfiles_dir_vim',['../dosinst_8c.html#adc29c2ff13d900c2f185ee95427fb06ca16a69e7761c7129714655a26e793c83c',1,'dosinst.c']]],
+  ['vw_5fpos_5fcenter',['VW_POS_CENTER',['../gui_8h.html#aadb33b3c50358f65977aacf5d56bd9bea11442e980b6abfc206629993e4b12281',1,'gui.h']]],
+  ['vw_5fpos_5fmouse',['VW_POS_MOUSE',['../gui_8h.html#aadb33b3c50358f65977aacf5d56bd9beab1a8fe588151ecebc5ef70570aa7a4cc',1,'gui.h']]],
+  ['vw_5fpos_5ftop_5fcenter',['VW_POS_TOP_CENTER',['../gui_8h.html#aadb33b3c50358f65977aacf5d56bd9bead6fa8da3354f2a068e0d1415d1c95fec',1,'gui.h']]]
 ];

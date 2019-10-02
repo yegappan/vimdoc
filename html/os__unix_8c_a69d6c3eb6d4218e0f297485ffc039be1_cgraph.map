@@ -1,0 +1,5 @@
+<map id="mch_get_user_name" name="mch_get_user_name">
+<area shape="rect" id="node2" href="$misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="387,5,481,32"/>
+<area shape="rect" id="node3" href="$os__unix_8c.html#a64241cc23136bb6ab07b2d6b1fd826a0" title="mch_get_uname" alt="" coords="196,56,315,83"/>
+<area shape="rect" id="node4" href="$os__unix_8c.html#a6a38b6232ff7c7a63fb9e584947b369b" title="mch_get_host_name" alt="" coords="363,56,505,83"/>
+</map>

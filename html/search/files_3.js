@@ -1,12 +1,14 @@
 var searchData=
 [
-  ['change_2ec',['change.c',['../change_8c.html',1,'']]],
-  ['channel_2ec',['channel.c',['../channel_8c.html',1,'']]],
-  ['charset_2ec',['charset.c',['../charset_8c.html',1,'']]],
-  ['cmdexpand_2ec',['cmdexpand.c',['../cmdexpand_8c.html',1,'']]],
-  ['cmdhist_2ec',['cmdhist.c',['../cmdhist_8c.html',1,'']]],
-  ['commands_2ecpp',['Commands.cpp',['../_commands_8cpp.html',1,'']]],
-  ['commands_2eh',['Commands.h',['../_commands_8h.html',1,'']]],
-  ['crypt_2ec',['crypt.c',['../crypt_8c.html',1,'']]],
-  ['crypt_5fzip_2ec',['crypt_zip.c',['../crypt__zip_8c.html',1,'']]]
+  ['debugger_2ec',['debugger.c',['../debugger_8c.html',1,'']]],
+  ['dehqx_2epy',['dehqx.py',['../dehqx_8py.html',1,'']]],
+  ['dict_2ec',['dict.c',['../dict_8c.html',1,'']]],
+  ['diff_2ec',['diff.c',['../diff_8c.html',1,'']]],
+  ['digraph_2ec',['digraph.c',['../digraph_8c.html',1,'']]],
+  ['dimm_2eidl',['dimm.idl',['../dimm_8idl.html',1,'']]],
+  ['dlldata_2ec',['dlldata.c',['../dlldata_8c.html',1,'']]],
+  ['dosinst_2ec',['dosinst.c',['../dosinst_8c.html',1,'']]],
+  ['dosinst_2eh',['dosinst.h',['../dosinst_8h.html',1,'']]],
+  ['drawline_2ec',['drawline.c',['../drawline_8c.html',1,'']]],
+  ['drawscreen_2ec',['drawscreen.c',['../drawscreen_8c.html',1,'']]]
 ];

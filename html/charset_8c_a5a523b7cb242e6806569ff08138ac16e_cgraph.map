@@ -1,0 +1,9 @@
+<map id="transchar" name="transchar">
+<area shape="rect" id="node2" href="$charset_8c.html#a10773c4204db22b5934f25799fc0026b" title="vim_isprintc_strict" alt="" coords="130,5,258,32"/>
+<area shape="rect" id="node5" href="$charset_8c.html#a9e509b73b4ded6e2f9192cfed60cfc76" title="transchar_nonprint" alt="" coords="129,56,259,83"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#a8dbba5cc8e34186e23fdcfc8d0900fa1" title="utf_printable" alt="" coords="312,5,405,32"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="459,5,519,32"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#a767812b118182564891e6c771b3a0da0" title="get_fileformat" alt="" coords="308,56,409,83"/>
+<area shape="rect" id="node7" href="$charset_8c.html#a7bbdf2a298f87a04771a2425306604e3" title="transchar_hex" alt="" coords="307,107,411,133"/>
+<area shape="rect" id="node8" href="$charset_8c.html#a044645438bff6b41c089e939593883b9" title="nr2hex" alt="" coords="459,107,520,133"/>
+</map>

@@ -5,7 +5,6 @@ var searchData=
   ['affentry_5fs',['affentry_S',['../structaffentry___s.html',1,'']]],
   ['afffile_5fs',['afffile_S',['../structafffile___s.html',1,'']]],
   ['affheader_5fs',['affheader_S',['../structaffheader___s.html',1,'']]],
-  ['applicationevents',['ApplicationEvents',['../class_vis_vim_1_1_application_events.html',1,'VisVim']]],
   ['argentry',['argentry',['../structargentry.html',1,'']]],
   ['arglist',['arglist',['../structarglist.html',1,'']]],
   ['attr_5fentry',['attr_entry',['../structattr__entry.html',1,'']]],

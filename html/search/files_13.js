@@ -1,23 +1,10 @@
 var searchData=
 [
-  ['screen_2ec',['screen.c',['../screen_8c.html',1,'']]],
-  ['scriptfile_2ec',['scriptfile.c',['../scriptfile_8c.html',1,'']]],
-  ['search_2ec',['search.c',['../search_8c.html',1,'']]],
-  ['session_2ec',['session.c',['../session_8c.html',1,'']]],
-  ['sha256_2ec',['sha256.c',['../sha256_8c.html',1,'']]],
-  ['sign_2ec',['sign.c',['../sign_8c.html',1,'']]],
-  ['simx_2eh',['simx.h',['../simx_8h.html',1,'']]],
-  ['sjiscorr_2ec',['sjiscorr.c',['../sjiscorr_8c.html',1,'']]],
-  ['sound_2ec',['sound.c',['../sound_8c.html',1,'']]],
-  ['spell_2ec',['spell.c',['../spell_8c.html',1,'']]],
-  ['spell_2eh',['spell.h',['../spell_8h.html',1,'']]],
-  ['spellfile_2ec',['spellfile.c',['../spellfile_8c.html',1,'']]],
-  ['spellsuggest_2ec',['spellsuggest.c',['../spellsuggest_8c.html',1,'']]],
-  ['state_2ec',['state.c',['../state_8c.html',1,'']]],
-  ['stdafx_2ecpp',['StdAfx.cpp',['../_std_afx_8cpp.html',1,'']]],
-  ['stdafx_2eh',['StdAfx.h',['../_std_afx_8h.html',1,'']]],
-  ['stdbool_2eh',['stdbool.h',['../stdbool_8h.html',1,'']]],
-  ['structs_2eh',['structs.h',['../structs_8h.html',1,'']]],
-  ['subsubsubmodule_2epy',['subsubsubmodule.py',['../subsubsubmodule_8py.html',1,'']]],
-  ['syntax_2ec',['syntax.c',['../syntax_8c.html',1,'']]]
+  ['tag_2ec',['tag.c',['../tag_8c.html',1,'']]],
+  ['term_2ec',['term.c',['../term_8c.html',1,'']]],
+  ['term_2eh',['term.h',['../term_8h.html',1,'']]],
+  ['terminal_2ec',['terminal.c',['../terminal_8c.html',1,'']]],
+  ['termlib_2ec',['termlib.c',['../termlib_8c.html',1,'']]],
+  ['testing_2ec',['testing.c',['../testing_8c.html',1,'']]],
+  ['textprop_2ec',['textprop.c',['../textprop_8c.html',1,'']]]
 ];

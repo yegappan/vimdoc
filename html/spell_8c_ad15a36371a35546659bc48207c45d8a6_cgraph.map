@@ -1,0 +1,17 @@
+<map id="fold_more" name="fold_more">
+<area shape="rect" id="node2" href="$spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="134,141,235,168"/>
+<area shape="rect" id="node14" href="$spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="132,204,237,231"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="323,160,405,187"/>
+<area shape="rect" id="node7" href="$spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="285,59,443,85"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="313,109,415,136"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="510,195,601,221"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="683,144,773,171"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="687,195,769,221"/>
+<area shape="rect" id="node9" href="$mbyte_8c.html#ae242a847bc7d90805007de2faec56759" title="mb_get_class_buf" alt="" coords="491,93,619,120"/>
+<area shape="rect" id="node10" href="$charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="668,43,788,69"/>
+<area shape="rect" id="node11" href="$mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="851,5,939,32"/>
+<area shape="rect" id="node12" href="$mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="845,81,945,108"/>
+<area shape="rect" id="node13" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="1001,132,1061,159"/>
+<area shape="rect" id="node15" href="$mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="491,245,620,272"/>
+<area shape="rect" id="node16" href="$mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="836,183,953,209"/>
+</map>

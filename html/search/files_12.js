@@ -1,12 +1,16 @@
 var searchData=
 [
-  ['readme_2emd',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['rect_2eh',['rect.h',['../rect_8h.html',1,'']]],
-  ['reg_2ecpp',['Reg.cpp',['../_reg_8cpp.html',1,'']]],
-  ['regexp_2ec',['regexp.c',['../regexp_8c.html',1,'']]],
-  ['regexp_2eh',['regexp.h',['../regexp_8h.html',1,'']]],
-  ['regexp_5fbt_2ec',['regexp_bt.c',['../regexp__bt_8c.html',1,'']]],
-  ['regexp_5fnfa_2ec',['regexp_nfa.c',['../regexp__nfa_8c.html',1,'']]],
-  ['register_2ec',['register.c',['../register_8c.html',1,'']]],
-  ['resource_2eh',['resource.h',['../resource_8h.html',1,'(Global Namespace)'],['../_resource_8h.html',1,'(Global Namespace)']]]
+  ['screen_2ec',['screen.c',['../screen_8c.html',1,'']]],
+  ['scriptfile_2ec',['scriptfile.c',['../scriptfile_8c.html',1,'']]],
+  ['search_2ec',['search.c',['../search_8c.html',1,'']]],
+  ['session_2ec',['session.c',['../session_8c.html',1,'']]],
+  ['sha256_2ec',['sha256.c',['../sha256_8c.html',1,'']]],
+  ['sign_2ec',['sign.c',['../sign_8c.html',1,'']]],
+  ['sound_2ec',['sound.c',['../sound_8c.html',1,'']]],
+  ['spell_2ec',['spell.c',['../spell_8c.html',1,'']]],
+  ['spell_2eh',['spell.h',['../spell_8h.html',1,'']]],
+  ['spellfile_2ec',['spellfile.c',['../spellfile_8c.html',1,'']]],
+  ['spellsuggest_2ec',['spellsuggest.c',['../spellsuggest_8c.html',1,'']]],
+  ['structs_2eh',['structs.h',['../structs_8h.html',1,'']]],
+  ['syntax_2ec',['syntax.c',['../syntax_8c.html',1,'']]]
 ];

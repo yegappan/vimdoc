@@ -1,0 +1,6 @@
+<map id="reg_iswordc" name="reg_iswordc">
+<area shape="rect" id="node2" href="$charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="145,56,265,83"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="319,5,407,32"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="313,56,413,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="461,56,521,83"/>
+</map>

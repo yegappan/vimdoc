@@ -1,0 +1,11 @@
+<map id="syn_stack_free_all" name="syn_stack_free_all">
+<area shape="rect" id="node2" href="$syntax_8c.html#ad6d7716c4b7ce4e04a1afe160ae15f07" title="syn_stack_free_block" alt="" coords="184,31,333,57"/>
+<area shape="rect" id="node8" href="$fold_8c.html#a539d99b2dd98a786415811d79f72a02d" title="foldmethodIsSyntax" alt="" coords="189,81,328,108"/>
+<area shape="rect" id="node9" href="$fold_8c.html#a2e8c67487e90a1d4957853f4e328bbf9" title="foldUpdateAll" alt="" coords="209,132,309,159"/>
+<area shape="rect" id="node3" href="$syntax_8c.html#a7fdf40661bc7c470d6dd9250df3d2d21" title="clear_syn_state" alt="" coords="384,31,499,57"/>
+<area shape="rect" id="node4" href="$regexp_8c.html#a14a2522cb2782f01fde6ec96eb70e25a" title="unref_extmatch" alt="" coords="549,5,661,32"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="570,56,641,83"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="709,5,781,32"/>
+<area shape="rect" id="node7" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="715,56,775,83"/>
+<area shape="rect" id="node10" href="$drawscreen_8c.html#a75f787af652221777afbee0bc84a9810" title="redraw_win_later" alt="" coords="381,132,501,159"/>
+</map>

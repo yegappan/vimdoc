@@ -16,7 +16,6 @@ var searchData=
   ['frag',['Frag',['../struct_frag.html',1,'']]],
   ['frame_5fs',['frame_S',['../structframe___s.html',1,'']]],
   ['fromto_5fs',['fromto_S',['../structfromto___s.html',1,'']]],
-  ['func_5fline',['func_line',['../structfunc__line.html',1,'']]],
   ['funccal_5fentry_5ft',['funccal_entry_T',['../structfunccal__entry___t.html',1,'']]],
   ['funccall_5ft',['funccall_T',['../structfunccall___t.html',1,'']]],
   ['funcdict_5ft',['funcdict_T',['../structfuncdict___t.html',1,'']]],

@@ -1,0 +1,8 @@
+<map id="gui_mch_show_popupmenu" name="gui_mch_show_popupmenu">
+<area shape="rect" id="node2" href="$gui__mac_8c.html#a09c2254b8ac4d882ecc144ccc0ff3fbe" title="gui_mac_handle_menu" alt="" coords="236,69,391,96"/>
+<area shape="rect" id="node6" href="$gui__mac_8c.html#ac3c0aa567b31bb13f2a242e45998ddd6" title="GetFSSpecFromPath" alt="" coords="240,132,387,159"/>
+<area shape="rect" id="node3" href="$gui__mac_8c.html#a7050035c1b3775a3065853a570910ad1" title="gui_mch_beep" alt="" coords="467,5,573,32"/>
+<area shape="rect" id="node4" href="$gui__mac_8c.html#a3c9cd05d39b0e695fcc35ae9e3f9dc0c" title="gui_mac_get_vim_menu" alt="" coords="439,56,601,83"/>
+<area shape="rect" id="node5" href="$gui_8c.html#adc9d4fd22c474f9ad2d437a37e34d447" title="gui_menu_cb" alt="" coords="471,107,569,133"/>
+<area shape="rect" id="node7" href="$gui__mac_8c.html#a6cbd644bb0bf389aaf58869abf3e8e11" title="C2PascalString" alt="" coords="463,157,577,184"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="str_foldcase" name="str_foldcase">
+<area shape="rect" id="node2" href="$misc2_8c.html#a3026bad36de32ad700cd165789e53508" title="ga_init2" alt="" coords="167,5,234,32"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="165,56,236,83"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="155,107,246,133"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="159,157,242,184"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#a00855e24e463d1a623c45f5d3c152476" title="utf_tolower" alt="" coords="157,208,244,235"/>
+<area shape="rect" id="node10" href="$mbyte_8c.html#a460801e73032b9f0efbcfe4881d63f07" title="utf_char2len" alt="" coords="154,259,247,285"/>
+<area shape="rect" id="node11" href="$mbyte_8c.html#a7d36274c4fe31f3e8c447d33cfdbdb7a" title="utf_char2bytes" alt="" coords="147,309,255,336"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="331,5,391,32"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="313,56,410,83"/>
+<area shape="rect" id="node9" href="$mbyte_8c.html#a28df56c5dfc069e9c6703bc44ac83133" title="utf_convert" alt="" coords="318,208,405,235"/>
+<area shape="rect" id="node12" href="$mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="303,309,420,336"/>
+<area shape="rect" id="node13" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="468,309,528,336"/>
+</map>

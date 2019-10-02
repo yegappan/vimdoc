@@ -1,0 +1,10 @@
+<map id="foldMarkAdjustRecurse" name="foldMarkAdjustRecurse">
+<area shape="rect" id="node2" href="$fold_8c.html#a9a8eed7fca893d2aeef7fe9b14a7267e" title="foldFind" alt="" coords="235,5,303,32"/>
+<area shape="rect" id="node3" href="$fold_8c.html#a2aecfeabb44af0f791d64d2725af540d" title="deleteFoldEntry" alt="" coords="212,56,325,83"/>
+<area shape="rect" id="node4" href="$fold_8c.html#a401a92ce51a919ee41a6f92c544890db" title="deleteFoldRecurse" alt="" coords="373,5,504,32"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="697,56,769,83"/>
+<area shape="rect" id="node8" href="$misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="403,107,474,133"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="565,5,636,32"/>
+<area shape="rect" id="node7" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="703,5,763,32"/>
+<area shape="rect" id="node9" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="552,107,649,133"/>
+</map>

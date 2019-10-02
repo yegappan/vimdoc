@@ -1,0 +1,6 @@
+<map id="may_trigger_safestateagain" name="may_trigger_safestateagain">
+<area shape="rect" id="node2" href="$main_8c.html#abb9ab4ea77d7ee4354c541daf9fea505" title="is_safe_now" alt="" coords="247,5,342,32"/>
+<area shape="rect" id="node4" href="$autocmd_8c.html#a0239c7fe680501d4396b532abf3bd768" title="apply_autocmds" alt="" coords="236,56,353,83"/>
+<area shape="rect" id="node3" href="$getchar_8c.html#a6d7c0f02af260bd837793bdedd8ee299" title="stuff_empty" alt="" coords="434,5,525,32"/>
+<area shape="rect" id="node5" href="$autocmd_8c.html#aa3756a771fa94b80d255fa06cf41ef0a" title="apply_autocmds_group" alt="" coords="401,56,557,83"/>
+</map>

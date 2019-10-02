@@ -1,0 +1,5 @@
+<map id="gui_mch_menu_grey" name="gui_mch_menu_grey">
+<area shape="rect" id="node2" href="$menu_8c.html#a3a95450fb1f7cb8b566b4cd5a7a6e919" title="menu_is_separator" alt="" coords="207,5,339,32"/>
+<area shape="rect" id="node3" href="$gui__gtk__x11_8c.html#a9eede172a4e21f7fb896770e665e3e41" title="gui_mch_menu_hidden" alt="" coords="196,56,351,83"/>
+<area shape="rect" id="node4" href="$gui__gtk__x11_8c.html#a4bb6ea64880092f3bde985271d6b225b" title="gui_mch_update" alt="" coords="399,81,516,108"/>
+</map>

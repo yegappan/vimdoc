@@ -1,0 +1,6 @@
+<map id="char2cells" name="char2cells">
+<area shape="rect" id="node2" href="$mbyte_8c.html#ac38b8ec71563a4bd534a6e45504dac29" title="utf_char2cells" alt="" coords="135,21,237,48"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#a8dbba5cc8e34186e23fdcfc8d0900fa1" title="utf_printable" alt="" coords="425,21,519,48"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="567,47,627,73"/>
+<area shape="rect" id="node5" href="$charset_8c.html#aeb4141651c00c84f98b62da073716144" title="vim_isprintc" alt="" coords="285,21,377,48"/>
+</map>

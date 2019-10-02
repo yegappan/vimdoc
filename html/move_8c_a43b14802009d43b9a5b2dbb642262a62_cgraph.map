@@ -1,0 +1,5 @@
+<map id="redraw_for_cursorline" name="redraw_for_cursorline">
+<area shape="rect" id="node2" href="$popupmenu_8c.html#a92cea3c27a6962e1204a14822367375f" title="pum_visible" alt="" coords="207,5,297,32"/>
+<area shape="rect" id="node3" href="$drawscreen_8c.html#a75f787af652221777afbee0bc84a9810" title="redraw_win_later" alt="" coords="352,81,472,108"/>
+<area shape="rect" id="node4" href="$drawscreen_8c.html#a75b6f92469a6daad70e732d899834707" title="redrawWinline" alt="" coords="200,107,304,133"/>
+</map>

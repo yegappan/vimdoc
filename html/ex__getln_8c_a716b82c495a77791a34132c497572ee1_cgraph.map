@@ -1,0 +1,8 @@
+<map id="get_list_range" name="get_list_range">
+<area shape="rect" id="node2" href="$charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="159,5,237,32"/>
+<area shape="rect" id="node3" href="$charset_8c.html#a35845ed87dc61ea86eb2e2f2f2f477f3" title="vim_isdigit" alt="" coords="156,56,240,83"/>
+<area shape="rect" id="node4" href="$charset_8c.html#a57c848cb583e98bab3d611fc6208851d" title="vim_str2nr" alt="" coords="157,107,239,133"/>
+<area shape="rect" id="node5" href="$charset_8c.html#a269e1797f0d8a95bd4cc2258588f8a63" title="vim_isxdigit" alt="" coords="427,107,517,133"/>
+<area shape="rect" id="node6" href="$charset_8c.html#aaf9b570cf3ba192348f9b219aad0e21a" title="vim_isbdigit" alt="" coords="288,107,379,133"/>
+<area shape="rect" id="node7" href="$charset_8c.html#a58ed0722af2b6452235a9c269767aa0c" title="hex2nr" alt="" coords="303,157,364,184"/>
+</map>

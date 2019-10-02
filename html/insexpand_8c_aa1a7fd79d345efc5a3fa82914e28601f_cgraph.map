@@ -1,0 +1,12 @@
+<map id="ins_compl_accept_char" name="ins_compl_accept_char">
+<area shape="rect" id="node2" href="$charset_8c.html#af7cb7c923f313c7384ec8c61b26f6427" title="vim_isIDc" alt="" coords="225,5,306,32"/>
+<area shape="rect" id="node3" href="$charset_8c.html#a91048c88b6fa8fce6d8e22d1c9794c9a" title="vim_isfilec" alt="" coords="223,56,307,83"/>
+<area shape="rect" id="node4" href="$filepath_8c.html#acb4aef03c801e568565f34c9e10d25cf" title="vim_ispathsep" alt="" coords="212,107,319,133"/>
+<area shape="rect" id="node5" href="$charset_8c.html#aeb4141651c00c84f98b62da073716144" title="vim_isprintc" alt="" coords="219,157,311,184"/>
+<area shape="rect" id="node8" href="$charset_8c.html#a3c2bbe62f11a23ddd38c98c42d1f5fbf" title="vim_iswordc" alt="" coords="218,220,313,247"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#a8dbba5cc8e34186e23fdcfc8d0900fa1" title="utf_printable" alt="" coords="380,151,473,177"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="683,197,743,224"/>
+<area shape="rect" id="node9" href="$charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="367,245,487,272"/>
+<area shape="rect" id="node10" href="$mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="541,197,629,224"/>
+<area shape="rect" id="node11" href="$mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="535,248,635,275"/>
+</map>

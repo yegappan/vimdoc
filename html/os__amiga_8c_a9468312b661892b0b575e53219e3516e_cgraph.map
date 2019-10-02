@@ -1,0 +1,10 @@
+<map id="mch_dirname" name="mch_dirname">
+<area shape="rect" id="node2" href="$os__amiga_8c.html#a32c95fda9338785e8f0130d2d26a2a37" title="mch_FullName" alt="" coords="153,56,264,83"/>
+<area shape="rect" id="node3" href="$os__amiga_8c.html#a789e79debb79a3454cc0c155d79e649d" title="lock2name" alt="" coords="329,5,415,32"/>
+<area shape="rect" id="node4" href="$os__amiga_8c.html#a3ba7ec8a49f3d6aaaa6e426d6fdeabc6" title="mch_isFullName" alt="" coords="312,56,432,83"/>
+<area shape="rect" id="node9" href="$misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="325,107,419,133"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="480,56,563,83"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="611,31,701,57"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="611,81,701,108"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="749,31,832,57"/>
+</map>

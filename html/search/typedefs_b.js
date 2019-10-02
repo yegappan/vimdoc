@@ -8,7 +8,5 @@ var searchData=
   ['mf_5fhashitem_5ft',['mf_hashitem_T',['../structs_8h.html#a57fcfd72d801f7601b59ffbdc39dc546',1,'structs.h']]],
   ['mf_5fhashtab_5ft',['mf_hashtab_T',['../structs_8h.html#af8350e97bdfdc02e23b8b30d803d3e5b',1,'structs.h']]],
   ['minfo_5ft',['minfo_T',['../structs_8h.html#af545fc90ba94dbfa9e2b0d366df1b3c5',1,'structs.h']]],
-  ['mmbuffer_5ft',['mmbuffer_t',['../xdiff_8h.html#aacd00b277a226d4081b3c1245341d46e',1,'xdiff.h']]],
-  ['mmfile_5ft',['mmfile_t',['../xdiff_8h.html#a20ec6f19b6cf7ec9dca5afa819cc9b2e',1,'xdiff.h']]],
   ['msgchunk_5ft',['msgchunk_T',['../message_8c.html#ac6f4e6194294f05cfbe3336a372b2cd5',1,'message.c']]]
 ];

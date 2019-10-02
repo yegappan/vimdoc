@@ -1,0 +1,10 @@
+<map id="get_pfxlist" name="get_pfxlist">
+<area shape="rect" id="node2" href="$spellfile_8c.html#a8783003ee38560d23b64998b6a5f617b" title="get_affitem" alt="" coords="139,43,226,69"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="136,93,229,120"/>
+<area shape="rect" id="node7" href="$hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="143,144,222,171"/>
+<area shape="rect" id="node3" href="$charset_8c.html#ad81a749470a4c63eab4e9dea315f2819" title="getdigits" alt="" coords="303,5,374,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a505073bff7332ecc1f0c8c21d190264c" title="mb_ptr2char_adv" alt="" coords="277,56,400,83"/>
+<area shape="rect" id="node4" href="$charset_8c.html#a3b21cf6150be4559ab6fd90593f300c0" title="skipdigits" alt="" coords="448,5,525,32"/>
+<area shape="rect" id="node8" href="$hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="291,119,386,145"/>
+<area shape="rect" id="node9" href="$hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="296,169,381,196"/>
+</map>

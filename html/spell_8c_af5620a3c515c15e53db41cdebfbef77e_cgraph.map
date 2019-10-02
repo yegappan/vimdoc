@@ -1,0 +1,17 @@
+<map id="spell_soundfold_sal" name="spell_soundfold_sal">
+<area shape="rect" id="node2" href="$charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="219,5,296,32"/>
+<area shape="rect" id="node3" href="$spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="189,56,325,83"/>
+<area shape="rect" id="node12" href="$misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="211,208,304,235"/>
+<area shape="rect" id="node13" href="$spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="207,107,308,133"/>
+<area shape="rect" id="node14" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="411,157,493,184"/>
+<area shape="rect" id="node4" href="$spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="373,107,531,133"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="401,56,503,83"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#ae242a847bc7d90805007de2faec56759" title="mb_get_class_buf" alt="" coords="579,56,707,83"/>
+<area shape="rect" id="node7" href="$charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="755,31,875,57"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="929,81,1017,108"/>
+<area shape="rect" id="node9" href="$mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="923,31,1023,57"/>
+<area shape="rect" id="node11" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="769,132,860,159"/>
+<area shape="rect" id="node10" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="1071,31,1131,57"/>
+<area shape="rect" id="node15" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="597,183,688,209"/>
+<area shape="rect" id="node16" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="773,183,856,209"/>
+</map>

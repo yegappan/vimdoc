@@ -1,0 +1,7 @@
+<map id="syn_remove_pattern" name="syn_remove_pattern">
+<area shape="rect" id="node2" href="$syntax_8c.html#af49d43dec342c2303e9d4dbae3f0b98f" title="syn_clear_pattern" alt="" coords="193,5,319,32"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="624,31,696,57"/>
+<area shape="rect" id="node4" href="$regexp_8c.html#ae85d66ec0c262d0e6c22766cd75e0287" title="vim_regfree" alt="" coords="367,31,457,57"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="505,81,576,108"/>
+<area shape="rect" id="node6" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="630,81,690,108"/>
+</map>

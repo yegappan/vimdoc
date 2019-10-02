@@ -1,0 +1,12 @@
+<map id="vim_strnsize" name="vim_strnsize">
+<area shape="rect" id="node2" href="$charset_8c.html#af4f1908325e378232fe669cbba42f9a9" title="ptr2cells" alt="" coords="155,81,225,108"/>
+<area shape="rect" id="node11" href="$charset_8c.html#a8dd1205204179cb986f6127534c2e357" title="byte2cells" alt="" coords="149,132,231,159"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#aa2b8417af4780857146a0c2791fcac66" title="utf_ptr2cells" alt="" coords="279,81,372,108"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="420,5,511,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="424,56,507,83"/>
+<area shape="rect" id="node6" href="$charset_8c.html#a12473ab1872440ac9585951bae14e8a9" title="char2cells" alt="" coords="425,107,506,133"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#ac38b8ec71563a4bd534a6e45504dac29" title="utf_char2cells" alt="" coords="559,132,661,159"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#a8dbba5cc8e34186e23fdcfc8d0900fa1" title="utf_printable" alt="" coords="849,132,943,159"/>
+<area shape="rect" id="node9" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="991,157,1051,184"/>
+<area shape="rect" id="node10" href="$charset_8c.html#aeb4141651c00c84f98b62da073716144" title="vim_isprintc" alt="" coords="709,132,801,159"/>
+</map>

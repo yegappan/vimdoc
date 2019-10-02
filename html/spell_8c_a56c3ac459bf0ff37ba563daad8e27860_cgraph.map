@@ -1,0 +1,11 @@
+<map id="init_syl_tab" name="init_syl_tab">
+<area shape="rect" id="node2" href="$misc2_8c.html#a3026bad36de32ad700cd165789e53508" title="ga_init2" alt="" coords="155,31,221,57"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="147,93,229,120"/>
+<area shape="rect" id="node8" href="$misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="153,144,223,171"/>
+<area shape="rect" id="node10" href="$misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="141,195,235,221"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="301,5,361,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="286,56,377,83"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="286,107,377,133"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="428,56,511,83"/>
+<area shape="rect" id="node9" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="283,157,380,184"/>
+</map>

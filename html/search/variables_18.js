@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['x',['x',['../struct___gtk_form_child.html#a308e20f859c50e6d22e654116d797354',1,'_GtkFormChild::x()'],['../struct___i_i_d.html#add28d3db785dd98f1178f7ea88f5495c',1,'_IID::x()'],['../struct_t_t___m_o_d_e.html#a51e799ce24718131e743e0289c375943',1,'TT_MODE::x()']]],
-  ['x_5fhotspot',['x_hotspot',['../struct_xpm_info.html#a28a7d10ad2bc66059d8f8b7916828152',1,'XpmInfo::x_hotspot()'],['../struct_xpm_attributes.html#a120eedb0f16eb6cfea3be30743923c02',1,'XpmAttributes::x_hotspot()']]],
-  ['xdf1',['xdf1',['../structs__xdfenv.html#a995b5a67cae76ab3a67448cdff15f311',1,'s_xdfenv']]],
-  ['xdf2',['xdf2',['../structs__xdfenv.html#ac0b13849ba79c5833f36347db7a35f39',1,'s_xdfenv']]],
+  ['x',['x',['../struct___gtk_form_child.html#a308e20f859c50e6d22e654116d797354',1,'_GtkFormChild::x()'],['../struct___i_i_d.html#add28d3db785dd98f1178f7ea88f5495c',1,'_IID::x()'],['../struct_t_t___m_o_d_e.html#a924bb8b742151fb4d1006b671c3ee826',1,'TT_MODE::x()']]],
   ['xmenhancedbuttonclassrec',['xmEnhancedButtonClassRec',['../gui__xmebwp_8h.html#a411dd331e1ef010dae6871dda84d21cb',1,'gui_xmebwp.h']]],
   ['xmenhancedbuttonwidgetclass',['xmEnhancedButtonWidgetClass',['../gui__xmebw_8h.html#a80c3c670f11ebc493360083b64d990b3',1,'gui_xmebw.h']]],
   ['xp_5fbackslash',['xp_backslash',['../structexpand.html#a3934ec9de8fd2fa12ad32d3e6d1b5f16',1,'expand']]],
@@ -15,6 +12,5 @@ var searchData=
   ['xp_5fpattern',['xp_pattern',['../structexpand.html#a9e1cd5d67a4beefbcb5c878466278b1a',1,'expand']]],
   ['xp_5fpattern_5flen',['xp_pattern_len',['../structexpand.html#a13d5591f12edbf617c54827d48bbb821',1,'expand']]],
   ['xp_5fshell',['xp_shell',['../structexpand.html#ad19ce9c71031f0fb4ba758758ba42013',1,'expand']]],
-  ['xpc',['xpc',['../structcmdline__info___t.html#aaa01346f50887dccf8a5c9b3df29d3d4',1,'cmdline_info_T']]],
-  ['xpp',['xpp',['../structs__xmparam.html#a23303534a5a89b4e652cd8b677566aaa',1,'s_xmparam::xpp()'],['../structhistindex.html#aae63c755f0bb4e3cc84652e56b39d978',1,'histindex::xpp()'],['../structhashmap.html#a8421b03838b4a1662bed48c980d4cc4f',1,'hashmap::xpp()']]]
+  ['xpc',['xpc',['../structcmdline__info___t.html#aaa01346f50887dccf8a5c9b3df29d3d4',1,'cmdline_info_T']]]
 ];

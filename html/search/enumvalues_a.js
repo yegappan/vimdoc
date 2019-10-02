@@ -15,9 +15,5 @@ var searchData=
   ['mode_5fraw',['MODE_RAW',['../structs_8h.html#a12c78b3c96bbf3e4e0f41585ff449836a46c9b8d7037b335865714af65d1d1283',1,'structs.h']]],
   ['mouse_5fdefault',['mouse_default',['../dosinst_8c.html#abc6126af1d45847bc59afa0aa3216b04a53c7bce023695467da0fa74cf8b1658d',1,'dosinst.c']]],
   ['mouse_5fmswin',['mouse_mswin',['../dosinst_8c.html#abc6126af1d45847bc59afa0aa3216b04ab56fb3eddcf960a67a45bc6e83af2faf',1,'dosinst.c']]],
-  ['mouse_5frxvt',['MOUSE_RXVT',['../struct_v_term_state.html#a84a5c254dc07bdfa699552ae03e7335ba843a925522083fd8ee194a370aa2898b',1,'VTermState']]],
-  ['mouse_5fsgr',['MOUSE_SGR',['../struct_v_term_state.html#a84a5c254dc07bdfa699552ae03e7335baa8b4042182e5299a6e5fb55f7a7c838e',1,'VTermState']]],
-  ['mouse_5futf8',['MOUSE_UTF8',['../struct_v_term_state.html#a84a5c254dc07bdfa699552ae03e7335bab53cbc8ee7bd38a53b45cf46bd96f9e5',1,'VTermState']]],
-  ['mouse_5fx10',['MOUSE_X10',['../struct_v_term_state.html#a84a5c254dc07bdfa699552ae03e7335bad03aba22b5c10a14b3fff852d12eed69',1,'VTermState']]],
   ['mouse_5fxterm',['mouse_xterm',['../dosinst_8c.html#abc6126af1d45847bc59afa0aa3216b04ac4db3b615f23558c8d49ad90d6320bce',1,'dosinst.c']]]
 ];

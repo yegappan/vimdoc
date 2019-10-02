@@ -1,0 +1,14 @@
+<map id="tagname_free" name="tagname_free">
+<area shape="rect" id="node2" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="964,195,1036,222"/>
+<area shape="rect" id="node3" href="$findfile_8c.html#a191b4c74df03558af4c7cd7926d5dda6" title="vim_findfile_cleanup" alt="" coords="155,119,295,146"/>
+<area shape="rect" id="node11" href="$misc2_8c.html#ae3d1e787ba523916ff6408d3eafd5e24" title="ga_clear_strings" alt="" coords="588,347,705,374"/>
+<area shape="rect" id="node4" href="$findfile_8c.html#a5ac5c3499d28a5a853477ea7c40d7ab4" title="vim_findfile_free_visited" alt="" coords="343,119,505,146"/>
+<area shape="rect" id="node7" href="$findfile_8c.html#ac29e852c24cdc7b5a108b350da2bcd49" title="ff_clear" alt="" coords="391,221,457,247"/>
+<area shape="rect" id="node5" href="$findfile_8c.html#a989b8b911db5f27c50ef1d3d180db5d5" title="vim_findfile_free_visited_list" alt="" coords="553,119,740,146"/>
+<area shape="rect" id="node6" href="$findfile_8c.html#adad30a7b41b36526584c3225633fd09f" title="ff_free_visited_list" alt="" coords="788,145,916,171"/>
+<area shape="rect" id="node8" href="$findfile_8c.html#a44ce9f1c6286484ef17a8ad3641a4ff0" title="ff_pop" alt="" coords="617,246,676,273"/>
+<area shape="rect" id="node9" href="$findfile_8c.html#a659a36cc679fe1fd4afc72c08a954463" title="ff_free_stack_element" alt="" coords="571,297,722,323"/>
+<area shape="rect" id="node10" href="$filepath_8c.html#a5086b658043e0a5bf23116fb75b8936e" title="FreeWild" alt="" coords="815,297,889,323"/>
+<area shape="rect" id="node12" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="817,398,887,425"/>
+<area shape="rect" id="node13" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="970,398,1030,425"/>
+</map>

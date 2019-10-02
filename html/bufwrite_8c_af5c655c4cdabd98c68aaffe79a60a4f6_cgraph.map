@@ -1,0 +1,10 @@
+<map id="buf_write_bytes" name="buf_write_bytes">
+<area shape="rect" id="node2" href="$mbyte_8c.html#a7d36274c4fe31f3e8c447d33cfdbdb7a" title="utf_char2bytes" alt="" coords="188,5,296,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a01690c0dd0915e9e27d1e0492af97d89" title="utf_ptr2len_len" alt="" coords="189,56,295,83"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="197,107,287,133"/>
+<area shape="rect" id="node7" href="$bufwrite_8c.html#a5ae947ff0377d0ec0c933a6d1c28b008" title="ucs2bytes" alt="" coords="201,157,283,184"/>
+<area shape="rect" id="node8" href="$crypt_8c.html#a24e93f82dc1e967eaade3e937957c619" title="crypt_encode_inplace" alt="" coords="168,208,316,235"/>
+<area shape="rect" id="node9" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="206,259,278,285"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="364,5,481,32"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="529,5,589,32"/>
+</map>

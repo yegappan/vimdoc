@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['dehqx',['dehqx',['../namespacedehqx.html',1,'']]]
+  ['vim',['Vim',['../namespace_vim.html',1,'']]]
 ];

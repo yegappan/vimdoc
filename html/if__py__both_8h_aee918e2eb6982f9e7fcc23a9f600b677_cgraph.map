@@ -1,0 +1,8 @@
+<map id="BufMapItem" name="BufMapItem">
+<area shape="rect" id="node2" href="$if__py__both_8h.html#a59203f27afc539750ffb6ef7cb549bbd" title="NumberToLong" alt="" coords="147,5,257,32"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#ae1c125b4d8b13929d8a54a2466570c62" title="buflist_findnr" alt="" coords="154,56,250,83"/>
+<area shape="rect" id="node7" href="$if__py__both_8h.html#ad7f5dba8d7f98e90e060a1a4d82efa52" title="BufferNew" alt="" coords="160,107,244,133"/>
+<area shape="rect" id="node4" href="$hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="305,56,384,83"/>
+<area shape="rect" id="node5" href="$hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="432,31,527,57"/>
+<area shape="rect" id="node6" href="$hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="437,81,522,108"/>
+</map>

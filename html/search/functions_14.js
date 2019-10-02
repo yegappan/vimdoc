@@ -1,7 +1,6 @@
 var searchData=
 [
   ['t_5fputs',['t_puts',['../message_8c.html#a6146674e0a82c002a425f5c3fd3514d9',1,'message.c']]],
-  ['tab',['tab',['../state_8c.html#a900058996b6adb44e2964cd7674768c8',1,'state.c']]],
   ['tabline_5fheight',['tabline_height',['../window_8c.html#aeb34215e11d8d1ff9c8b896c64330ddc',1,'window.c']]],
   ['tablistitem',['TabListItem',['../if__py__both_8h.html#a0ef9fc1408c828ab254900c73c892658',1,'if_py_both.h']]],
   ['tablistlength',['TabListLength',['../if__py__both_8h.html#a52d923f859adca0afe207cd8afd95537',1,'if_py_both.h']]],
@@ -133,7 +132,6 @@ var searchData=
   ['truncate_5ffold',['truncate_fold',['../fold_8c.html#a227f1d343a95d4f2b6e2efce60aaf7b9',1,'fold.c']]],
   ['truncate_5fline',['truncate_line',['../change_8c.html#a984f9cc930a20876725bc8ded66adc6d',1,'change.c']]],
   ['truncate_5fspaces',['truncate_spaces',['../edit_8c.html#a6f8bd267f6f8f04fc4f5c10f44422440',1,'edit.c']]],
-  ['try_5flcs',['try_lcs',['../xhistogram_8c.html#a7ba6901e46ad88ffc6faf7adcc6cc7c0',1,'xhistogram.c']]],
   ['ttest',['ttest',['../term_8c.html#aff00ff374e25d70090ae781753ab387a',1,'term.c']]],
   ['tv2string',['tv2string',['../eval_8c.html#ad551d955084281b32dfbdedb3aeaa42e',1,'eval.c']]],
   ['tv_5fcheck_5flock',['tv_check_lock',['../eval_8c.html#aa41aa57d1977240a770b945b7810d722',1,'eval.c']]],

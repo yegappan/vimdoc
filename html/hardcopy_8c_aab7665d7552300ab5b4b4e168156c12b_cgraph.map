@@ -1,0 +1,6 @@
+<map id="prt_next_dsc" name="prt_next_dsc">
+<area shape="rect" id="node2" href="$hardcopy_8c.html#af34502204930a514727624a35f001a2c" title="prt_resfile_next_line" alt="" coords="159,5,297,32"/>
+<area shape="rect" id="node3" href="$hardcopy_8c.html#a82f109491e6b2e7a480816d7f0ff2c4a" title="prt_resfile_strncmp" alt="" coords="161,56,295,83"/>
+<area shape="rect" id="node4" href="$hardcopy_8c.html#af84191500df96c6aa9f68535854a588c" title="prt_resfile_skip_nonws" alt="" coords="151,107,305,133"/>
+<area shape="rect" id="node5" href="$hardcopy_8c.html#acac22e81594287dc7b557dafcfb552e3" title="prt_resfile_skip_ws" alt="" coords="161,157,295,184"/>
+</map>

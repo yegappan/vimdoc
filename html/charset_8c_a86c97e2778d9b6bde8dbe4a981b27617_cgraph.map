@@ -1,0 +1,7 @@
+<map id="buf_init_chartab" name="buf_init_chartab">
+<area shape="rect" id="node2" href="$misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="187,5,284,32"/>
+<area shape="rect" id="node3" href="$charset_8c.html#ad81a749470a4c63eab4e9dea315f2819" title="getdigits" alt="" coords="200,56,271,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a505073bff7332ecc1f0c8c21d190264c" title="mb_ptr2char_adv" alt="" coords="174,107,297,133"/>
+<area shape="rect" id="node6" href="$misc1_8c.html#a5b68c35acc590eab437adf3fe74fa02d" title="skip_to_option_part" alt="" coords="168,157,303,184"/>
+<area shape="rect" id="node4" href="$charset_8c.html#a3b21cf6150be4559ab6fd90593f300c0" title="skipdigits" alt="" coords="351,56,428,83"/>
+</map>

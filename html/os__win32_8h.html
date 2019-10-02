@@ -100,6 +100,14 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <code>#include &lt;time.h&gt;</code><br />
 <code>#include &lt;sys/types.h&gt;</code><br />
 <code>#include &lt;windows.h&gt;</code><br />
+</div><div class="textblock"><div class="dynheader">
+Include dependency graph for os_win32.h:</div>
+<div class="dyncontent">
+<div class="center"><img src="os__win32_8h__incl.png" border="0" usemap="#_2home_2travis_2build_2yegappan_2vimdoc_2src_2os__win32_8h" alt=""/></div>
+<map name="_2home_2travis_2build_2yegappan_2vimdoc_2src_2os__win32_8h" id="_2home_2travis_2build_2yegappan_2vimdoc_2src_2os__win32_8h">
+<area shape="rect" id="node2" href="os__dos_8h.html" title="os_dos.h" alt="" coords="5,109,80,136"/>
+</map>
+</div>
 </div>
 <p><a href="os__win32_8h_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -187,9 +195,9 @@ Macros</h2></td></tr>
 <tr class="separator:a90d82e98fb793dd3d780cd114c10e5f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe893151b6e6e7ff4e4fdc9f17d8fd4a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="os__win32_8h.html#afe893151b6e6e7ff4e4fdc9f17d8fd4a">TRACE4</a>(sz,  p1,  p2,  p3,  p4)</td></tr>
 <tr class="separator:afe893151b6e6e7ff4e4fdc9f17d8fd4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae511b0136e125341ceb7f16d60c2261b"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="os__win32_8h.html#ae511b0136e125341ceb7f16d60c2261b">ASSERT_POINTER</a>(p,  <a class="el" href="encoding_8c.html#aac6165f7f96e86f98ebbdbcc43eda2ff">type</a>)&#160;&#160;&#160;<a class="el" href="os__win32_8h.html#a79da58dac9dcdbcd4005f1d440e363ba">ASSERT</a>(((p) != NULL)  &amp;&amp;  IsValidAddress((p), sizeof(<a class="el" href="encoding_8c.html#aac6165f7f96e86f98ebbdbcc43eda2ff">type</a>), <a class="el" href="vim_8h.html#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>))</td></tr>
+<tr class="memitem:ae511b0136e125341ceb7f16d60c2261b"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="os__win32_8h.html#ae511b0136e125341ceb7f16d60c2261b">ASSERT_POINTER</a>(p,  type)&#160;&#160;&#160;<a class="el" href="os__win32_8h.html#a79da58dac9dcdbcd4005f1d440e363ba">ASSERT</a>(((p) != NULL)  &amp;&amp;  IsValidAddress((p), sizeof(type), <a class="el" href="vim_8h.html#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>))</td></tr>
 <tr class="separator:ae511b0136e125341ceb7f16d60c2261b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec88d86a18c2f5a0697181a816393533"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="os__win32_8h.html#aec88d86a18c2f5a0697181a816393533">ASSERT_NULL_OR_POINTER</a>(p,  <a class="el" href="encoding_8c.html#aac6165f7f96e86f98ebbdbcc43eda2ff">type</a>)&#160;&#160;&#160;<a class="el" href="os__win32_8h.html#a79da58dac9dcdbcd4005f1d440e363ba">ASSERT</a>(((p) == NULL)  ||  IsValidAddress((p), sizeof(<a class="el" href="encoding_8c.html#aac6165f7f96e86f98ebbdbcc43eda2ff">type</a>), <a class="el" href="vim_8h.html#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>))</td></tr>
+<tr class="memitem:aec88d86a18c2f5a0697181a816393533"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="os__win32_8h.html#aec88d86a18c2f5a0697181a816393533">ASSERT_NULL_OR_POINTER</a>(p,  type)&#160;&#160;&#160;<a class="el" href="os__win32_8h.html#a79da58dac9dcdbcd4005f1d440e363ba">ASSERT</a>(((p) == NULL)  ||  IsValidAddress((p), sizeof(type), <a class="el" href="vim_8h.html#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>))</td></tr>
 <tr class="separator:aec88d86a18c2f5a0697181a816393533"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4d775103dbaf3364eaf0f99dd6c22cca"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="os__win32_8h.html#a4d775103dbaf3364eaf0f99dd6c22cca">HAVE_SETENV</a></td></tr>
 <tr class="separator:a4d775103dbaf3364eaf0f99dd6c22cca"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -239,12 +247,12 @@ Macros</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">&#160;</td>
-          <td class="paramname"><a class="el" href="encoding_8c.html#aac6165f7f96e86f98ebbdbcc43eda2ff">type</a>&#160;</td>
+          <td class="paramname">type&#160;</td>
         </tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="os__win32_8h.html#a79da58dac9dcdbcd4005f1d440e363ba">ASSERT</a>(((p) == NULL)  ||  IsValidAddress((p), sizeof(<a class="el" href="encoding_8c.html#aac6165f7f96e86f98ebbdbcc43eda2ff">type</a>), <a class="el" href="vim_8h.html#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>))</td>
+          <td></td><td>&#160;&#160;&#160;<a class="el" href="os__win32_8h.html#a79da58dac9dcdbcd4005f1d440e363ba">ASSERT</a>(((p) == NULL)  ||  IsValidAddress((p), sizeof(type), <a class="el" href="vim_8h.html#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>))</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -267,12 +275,12 @@ Macros</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">&#160;</td>
-          <td class="paramname"><a class="el" href="encoding_8c.html#aac6165f7f96e86f98ebbdbcc43eda2ff">type</a>&#160;</td>
+          <td class="paramname">type&#160;</td>
         </tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="os__win32_8h.html#a79da58dac9dcdbcd4005f1d440e363ba">ASSERT</a>(((p) != NULL)  &amp;&amp;  IsValidAddress((p), sizeof(<a class="el" href="encoding_8c.html#aac6165f7f96e86f98ebbdbcc43eda2ff">type</a>), <a class="el" href="vim_8h.html#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>))</td>
+          <td></td><td>&#160;&#160;&#160;<a class="el" href="os__win32_8h.html#a79da58dac9dcdbcd4005f1d440e363ba">ASSERT</a>(((p) != NULL)  &amp;&amp;  IsValidAddress((p), sizeof(type), <a class="el" href="vim_8h.html#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>))</td>
         </tr>
       </table>
 </div><div class="memdoc">

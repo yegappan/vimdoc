@@ -1,0 +1,12 @@
+<map id="DWriteContext::FillRect" name="DWriteContext::FillRect">
+<area shape="rect" id="node2" href="$struct_d_write_context.html#a8f5351b9a5718d5618b35efc29264e64" title="DWriteContext::SetDrawingMode" alt="" coords="216,78,433,105"/>
+<area shape="rect" id="node11" href="$struct_d_write_context.html#ac598cc8b7f01a07481fc332eb960228d" title="DWriteContext::SolidBrush" alt="" coords="235,129,415,155"/>
+<area shape="rect" id="node3" href="$struct_d_write_context.html#a1ce5528a040328ce4365d2a1b6dfc744" title="DWriteContext::DiscardDevice\lResources" alt="" coords="481,5,684,47"/>
+<area shape="rect" id="node5" href="$struct_d_write_context.html#acdce395fa792637e0571401820cc6ab0" title="DWriteContext::CreateDevice\lResources" alt="" coords="484,71,681,112"/>
+<area shape="rect" id="node7" href="$gui__dwrite_8cpp.html#a209da4f647d509e95e47cb83ffb0bef5" title="redraw_later_clear" alt="" coords="519,137,647,163"/>
+<area shape="rect" id="node4" href="$gui__dwrite_8cpp.html#addcff46553dcb0ebaef1aef403cdda0b" title="SafeRelease" alt="" coords="950,43,1047,70"/>
+<area shape="rect" id="node6" href="$struct_d_write_context.html#ac75586b7a3efc7fa1e0d49a5346808e0" title="DWriteContext::Rebind" alt="" coords="732,71,891,98"/>
+<area shape="rect" id="node8" href="$drawscreen_8c.html#a6cfdbac5c3017ed3f6f8c70035ea3e5d" title="redraw_all_later" alt="" coords="755,133,868,159"/>
+<area shape="rect" id="node10" href="$screen_8c.html#a52381dbba1987c01ce703795bac34dfd" title="reset_screen_attr" alt="" coords="750,183,873,210"/>
+<area shape="rect" id="node9" href="$drawscreen_8c.html#a75f787af652221777afbee0bc84a9810" title="redraw_win_later" alt="" coords="939,133,1059,159"/>
+</map>

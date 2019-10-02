@@ -1,0 +1,11 @@
+<map id="check_redraw" name="check_redraw">
+<area shape="rect" id="node2" href="$drawscreen_8c.html#a19617cd0e75d0a78c281c8c8d8772196" title="status_redraw_all" alt="" coords="178,56,302,83"/>
+<area shape="rect" id="node3" href="$drawscreen_8c.html#aaa48e8afa3ee70c690d5ed45b018d0a0" title="redraw_later" alt="" coords="423,107,516,133"/>
+<area shape="rect" id="node5" href="$move_8c.html#a26c84fa73c4dabab7cfdbc7183bcb35a" title="changed_window_setting" alt="" coords="156,5,324,32"/>
+<area shape="rect" id="node8" href="$drawscreen_8c.html#a8430c433761f5a1693d346d2abf1e6bb" title="redraw_curbuf_later" alt="" coords="172,208,308,235"/>
+<area shape="rect" id="node10" href="$drawscreen_8c.html#a6cfdbac5c3017ed3f6f8c70035ea3e5d" title="redraw_all_later" alt="" coords="413,157,526,184"/>
+<area shape="rect" id="node4" href="$drawscreen_8c.html#a75f787af652221777afbee0bc84a9810" title="redraw_win_later" alt="" coords="647,132,767,159"/>
+<area shape="rect" id="node6" href="$move_8c.html#af484f413aa65305bdedc03314afa1fd7" title="changed_window_setting_win" alt="" coords="372,31,567,57"/>
+<area shape="rect" id="node7" href="$move_8c.html#af24f9d10328a3319aaba19854e58bef3" title="changed_line_abv_curs_win" alt="" coords="615,31,800,57"/>
+<area shape="rect" id="node9" href="$drawscreen_8c.html#ad8e43d13fd6b1e3af27b349d1097eb97" title="redraw_buf_later" alt="" coords="410,208,529,235"/>
+</map>

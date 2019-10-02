@@ -1,0 +1,8 @@
+<map id="do_inits" name="do_inits">
+<area shape="rect" id="node2" href="$dosinst_8h.html#a0fe93bfb3d0cbfa59eefc0b107414c3e" title="my_fullpath" alt="" coords="120,5,209,32"/>
+<area shape="rect" id="node3" href="$dosinst_8h.html#a2f23854c3c82466ab3d75b1d047c13fe" title="myexit" alt="" coords="134,56,195,83"/>
+<area shape="rect" id="node4" href="$dosinst_8h.html#ae741b8eae86ab251c28696169a6c0276" title="remove_tail" alt="" coords="120,107,209,133"/>
+<area shape="rect" id="node5" href="$dosinst_8h.html#abe3f797986272b5d66df1fefdaf5859b" title="mch_chdir" alt="" coords="123,157,206,184"/>
+<area shape="rect" id="node6" href="$dosinst_8h.html#a373942b5b94fd20c9caefc711503d7cc" title="change_drive" alt="" coords="257,132,356,159"/>
+<area shape="rect" id="node7" href="$dosinst_8h.html#aa7a0c2663c1ab97fdff39e176599d906" title="mytoupper" alt="" coords="265,183,348,209"/>
+</map>

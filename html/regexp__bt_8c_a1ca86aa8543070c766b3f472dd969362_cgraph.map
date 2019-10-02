@@ -1,0 +1,13 @@
+<map id="use_multibytecode" name="use_multibytecode">
+<area shape="rect" id="node2" href="$regexp_8c.html#a9289fd60d49c1a7f8f18818cdffdf29d" title="re_multi_type" alt="" coords="193,56,293,83"/>
+<area shape="rect" id="node3" href="$regexp_8c.html#af04b6afd5f1cdbe72ed21aab6e503cd8" title="peekchr" alt="" coords="209,107,277,133"/>
+<area shape="rect" id="node11" href="$mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="184,183,301,209"/>
+<area shape="rect" id="node4" href="$regexp_8c.html#a742a7b81fb4074f0ec3ba585b6d6c550" title="no_Magic" alt="" coords="369,5,447,32"/>
+<area shape="rect" id="node5" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="367,56,449,83"/>
+<area shape="rect" id="node9" href="$regexp_8c.html#a5d689700d06c3e06008805c1551467ce" title="toggle_Magic" alt="" coords="359,107,457,133"/>
+<area shape="rect" id="node10" href="$regexp_8c.html#a5b439799fae05f45aca87aab1721a34a" title="backslash_trans" alt="" coords="349,157,467,184"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="515,31,605,57"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="515,81,605,108"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="653,31,736,57"/>
+<area shape="rect" id="node12" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="378,208,438,235"/>
+</map>

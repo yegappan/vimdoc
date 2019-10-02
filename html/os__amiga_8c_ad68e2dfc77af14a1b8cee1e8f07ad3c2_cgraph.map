@@ -1,0 +1,6 @@
+<map id="mch_char_avail" name="mch_char_avail">
+<area shape="rect" id="node2" href="$os__unix_8c.html#a94cd3b5a2521429d2ec5abebcf624a46" title="WaitForChar" alt="" coords="167,31,263,57"/>
+<area shape="rect" id="node3" href="$os__unix_8c.html#a2039dde81a541063150fcd32709fdcdd" title="WaitForCharOrMouse" alt="" coords="311,31,460,57"/>
+<area shape="rect" id="node4" href="$os__unix_8c.html#ad512e8dc8639fb9c3cf455134b793821" title="mch_write" alt="" coords="508,5,591,32"/>
+<area shape="rect" id="node5" href="$os__unix_8c.html#a9388bec866c94932605ec6d5cfdb446a" title="RealWaitForChar" alt="" coords="639,31,761,57"/>
+</map>

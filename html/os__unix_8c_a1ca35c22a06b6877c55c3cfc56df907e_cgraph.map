@@ -1,0 +1,8 @@
+<map id="mch_get_shellsize" name="mch_get_shellsize">
+<area shape="rect" id="node2" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="204,31,287,57"/>
+<area shape="rect" id="node6" href="$term_8c.html#a28bf5d095bf3f881a9902cfdf4ad5def" title="limit_screen_size" alt="" coords="184,81,307,108"/>
+<area shape="rect" id="node7" href="$os__unix_8c.html#a2677134697a26f53b448a40a217a8a16" title="get_tty_fd" alt="" coords="205,132,285,159"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="355,5,445,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="355,56,445,83"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="493,5,576,32"/>
+</map>

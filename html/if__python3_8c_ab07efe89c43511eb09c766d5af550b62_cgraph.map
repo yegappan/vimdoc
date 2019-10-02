@@ -1,0 +1,11 @@
+<map id="WindowGetattro" name="WindowGetattro">
+<area shape="rect" id="node2" href="$if__py__both_8h.html#a8f28692c127276af95c354728c5cecd6" title="WindowAttrValid" alt="" coords="169,5,288,32"/>
+<area shape="rect" id="node3" href="$if__py__both_8h.html#adeb586f4653b81c9dc011e19a7db8bda" title="CheckWindow" alt="" coords="336,31,443,57"/>
+<area shape="rect" id="node4" href="$if__py__both_8h.html#a6cb8747f7e37d90a97297894e86486f9" title="WindowAttr" alt="" coords="183,132,274,159"/>
+<area shape="rect" id="node5" href="$if__py__both_8h.html#ad7f5dba8d7f98e90e060a1a4d82efa52" title="BufferNew" alt="" coords="347,81,431,108"/>
+<area shape="rect" id="node6" href="$if__py__both_8h.html#afd6ec0805685ecc1f9c57455029ced2c" title="OptionsNew" alt="" coords="342,132,437,159"/>
+<area shape="rect" id="node7" href="$if__py__both_8h.html#adc9a47be661cdd6073c9650fdfc49eb0" title="CheckTabPage" alt="" coords="491,208,603,235"/>
+<area shape="rect" id="node8" href="$if__py__both_8h.html#afee762eb09bd3b4680132926bee1dea9" title="get_firstwin" alt="" coords="345,233,434,260"/>
+<area shape="rect" id="node9" href="$if__py__both_8h.html#ae830e9a7462d081282b48d619b1af781" title="ObjectDir" alt="" coords="351,284,428,311"/>
+<area shape="rect" id="node10" href="$if__py__both_8h.html#ad7feb5e646c579f8b95ef54bd640aa8e" title="add_string" alt="" coords="505,284,588,311"/>
+</map>

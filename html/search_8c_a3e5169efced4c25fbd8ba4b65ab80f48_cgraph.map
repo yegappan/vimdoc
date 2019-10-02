@@ -1,0 +1,8 @@
+<map id="ignorecase_opt" name="ignorecase_opt">
+<area shape="rect" id="node2" href="$insexpand_8c.html#aa2b4f1b2fabdf1400c1d1f0b1426786e" title="ctrl_x_mode_not_default" alt="" coords="164,5,328,32"/>
+<area shape="rect" id="node3" href="$search_8c.html#aa4d06a0e09bee3e1c458c8eb5959066b" title="pat_has_uppercase" alt="" coords="179,56,313,83"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#a06549e7f93ba65dd46e9bb456863b249" title="utf_isupper" alt="" coords="378,31,465,57"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="376,81,467,108"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#a00855e24e463d1a623c45f5d3c152476" title="utf_tolower" alt="" coords="515,31,601,57"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#a28df56c5dfc069e9c6703bc44ac83133" title="utf_convert" alt="" coords="649,31,736,57"/>
+</map>

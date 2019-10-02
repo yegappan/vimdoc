@@ -1,0 +1,6 @@
+<map id="alist_name" name="alist_name">
+<area shape="rect" id="node2" href="$buffer_8c.html#ae1c125b4d8b13929d8a54a2466570c62" title="buflist_findnr" alt="" coords="139,31,235,57"/>
+<area shape="rect" id="node3" href="$hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="283,31,361,57"/>
+<area shape="rect" id="node4" href="$hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="409,5,504,32"/>
+<area shape="rect" id="node5" href="$hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="414,56,499,83"/>
+</map>

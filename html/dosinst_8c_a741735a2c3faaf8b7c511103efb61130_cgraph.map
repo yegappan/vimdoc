@@ -1,0 +1,5 @@
+<map id="register_uninstall" name="register_uninstall">
+<area shape="rect" id="node2" href="$dosinst_8c.html#aa1c8465d7a18e0f72d83c3de28ef19db" title="reg_create_key_and\l_value" alt="" coords="173,23,312,65"/>
+<area shape="rect" id="node3" href="$dosinst_8c.html#a83f3ef8cddf127b3ed9e367b6f4456e2" title="reg_create_key" alt="" coords="376,5,487,32"/>
+<area shape="rect" id="node4" href="$dosinst_8c.html#affb36fd60b5bf1bf39a3b4eb3b9188dc" title="reg_set_string_value" alt="" coords="360,56,503,83"/>
+</map>

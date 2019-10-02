@@ -1,0 +1,7 @@
+<map id="gui_get_base_height" name="gui_get_base_height">
+<area shape="rect" id="node2" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="237,31,320,57"/>
+<area shape="rect" id="node6" href="$gui__motif_8c.html#a3de166d55eabb3ce60af8d965e52641c" title="gui_mch_text_area_extra\l_height" alt="" coords="195,82,363,123"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="411,5,501,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="411,56,501,83"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="549,5,632,32"/>
+</map>

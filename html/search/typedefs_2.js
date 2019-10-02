@@ -1,10 +1,7 @@
 var searchData=
 [
   ['cbq_5ft',['cbq_T',['../structs_8h.html#a815011cce42b84f6bb7f8496df549220',1,'structs.h']]],
-  ['ccommandsobj',['CCommandsObj',['../_commands_8h.html#a29732f97b4e9d571579b722102ffd7f2',1,'Commands.h']]],
   ['channel_5ft',['channel_T',['../structs_8h.html#ae63b07ce4933fb7eda0cd6fe98757245',1,'structs.h']]],
-  ['chanode_5ft',['chanode_t',['../xtypes_8h.html#a314d4bda563c8abf099dcf1981ed70bd',1,'xtypes.h']]],
-  ['chastore_5ft',['chastore_t',['../xtypes_8h.html#ae7bc16215073434a6f12a5a7867150c8',1,'xtypes.h']]],
   ['checkfun',['checkfun',['../if__py__both_8h.html#a7fc120c4c64d5aee7339385548ded9d1',1,'if_py_both.h']]],
   ['cleanup_5ft',['cleanup_T',['../structs_8h.html#aa8725d4382bfa11f23dec8ee14747f65',1,'structs.h']]],
   ['clearfun',['clearfun',['../if__py__both_8h.html#a6b09b206ba8f5e70fa12630c556761ce',1,'if_py_both.h']]],

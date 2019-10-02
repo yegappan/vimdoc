@@ -1,0 +1,4 @@
+<map id="mch_settmode" name="mch_settmode">
+<area shape="rect" id="node2" href="$os__unix_8c.html#afd929b26e1d6d20a54dbf4270fd67324" title="mch_tcgetattr" alt="" coords="161,5,264,32"/>
+<area shape="rect" id="node3" href="$os__unix_8c.html#a2677134697a26f53b448a40a217a8a16" title="get_tty_fd" alt="" coords="312,5,392,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="spell_find_cleanup" name="spell_find_cleanup">
+<area shape="rect" id="node2" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="469,56,541,83"/>
+<area shape="rect" id="node3" href="$misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="200,31,271,58"/>
+<area shape="rect" id="node5" href="$hashtab_8c.html#a796dd83f3a8c24f46b52fc4fc55f7c69" title="hash_clear_all" alt="" coords="183,107,288,134"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="349,56,409,83"/>
+<area shape="rect" id="node6" href="$hashtab_8c.html#a82320ef8ee0783629a0cab3a74586b75" title="hash_clear" alt="" coords="336,158,421,184"/>
+</map>

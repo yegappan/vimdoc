@@ -1,0 +1,9 @@
+<map id="pum_undisplay" name="pum_undisplay">
+<area shape="rect" id="node2" href="$drawscreen_8c.html#a6cfdbac5c3017ed3f6f8c70035ea3e5d" title="redraw_all_later" alt="" coords="547,56,660,83"/>
+<area shape="rect" id="node4" href="$drawscreen_8c.html#a19617cd0e75d0a78c281c8c8d8772196" title="status_redraw_all" alt="" coords="163,19,287,45"/>
+<area shape="rect" id="node6" href="$popupwin_8c.html#abe541a2da8cdb20e6b7032ee9c91b471" title="popup_hide_info" alt="" coords="167,95,283,121"/>
+<area shape="rect" id="node3" href="$drawscreen_8c.html#a75f787af652221777afbee0bc84a9810" title="redraw_win_later" alt="" coords="708,31,828,57"/>
+<area shape="rect" id="node5" href="$drawscreen_8c.html#aaa48e8afa3ee70c690d5ed45b018d0a0" title="redraw_later" alt="" coords="557,5,650,32"/>
+<area shape="rect" id="node7" href="$popupwin_8c.html#ab66e6f02c451f104ae6f5ffda6740ab0" title="popup_find_info_window" alt="" coords="335,107,499,133"/>
+<area shape="rect" id="node8" href="$popupwin_8c.html#a23844fe8acc1027f55a1f714224376d2" title="popup_hide" alt="" coords="373,56,461,83"/>
+</map>

@@ -21,7 +21,6 @@ var searchData=
   ['wargcount',['WARGCOUNT',['../structs_8h.html#a8da22416fb9d7df4c460759bffc52ef7',1,'structs.h']]],
   ['warglist',['WARGLIST',['../structs_8h.html#ac9bb5cf25d3633ec42922d533dd19d54',1,'structs.h']]],
   ['was_5fbanned',['WAS_BANNED',['../spellsuggest_8c.html#ad490b62d33fa33c33183388ed423ee19',1,'spellsuggest.c']]],
-  ['wcwidth_5ffunction',['WCWIDTH_FUNCTION',['../unicode_8c.html#a1eca67d07159d6ced8c84e79d2d252ac',1,'unicode.c']]],
   ['wexitstatus',['WEXITSTATUS',['../os__unixx_8h.html#a7a9fed9392a51acd68e5f469e63f7961',1,'os_unixx.h']]],
   ['wf_5fafx',['WF_AFX',['../spell_8h.html#a466faaeaf1e77dcde20819553ed5e052',1,'spell.h']]],
   ['wf_5fallcap',['WF_ALLCAP',['../spell_8h.html#aa87092e5fa2fafb7a7723519a31092f7',1,'spell.h']]],

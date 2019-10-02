@@ -1,0 +1,7 @@
+<map id="free_termoptions" name="free_termoptions">
+<area shape="rect" id="node2" href="$option_8c.html#adc27f74a2966041212e05712dad0a761" title="istermoption" alt="" coords="195,5,288,32"/>
+<area shape="rect" id="node3" href="$optionstr_8c.html#aeb9d6480a68bfee6052f8e8afc8eda94" title="free_string_option" alt="" coords="179,56,304,83"/>
+<area shape="rect" id="node5" href="$option_8c.html#a0a0dc1168b58822e8650473058672e6c" title="set_option_sctx_idx" alt="" coords="172,107,311,133"/>
+<area shape="rect" id="node6" href="$term_8c.html#ad012325baf6cdc6862c29130580f5a58" title="clear_termcodes" alt="" coords="182,157,301,184"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="359,107,431,133"/>
+</map>

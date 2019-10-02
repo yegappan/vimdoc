@@ -1,0 +1,8 @@
+<map id="vim_isfilec_or_wc" name="vim_isfilec_or_wc">
+<area shape="rect" id="node2" href="$charset_8c.html#a91048c88b6fa8fce6d8e22d1c9794c9a" title="vim_isfilec" alt="" coords="203,5,287,32"/>
+<area shape="rect" id="node3" href="$os__amiga_8c.html#ab37a84812f69074dc376409cbe10da3b" title="mch_has_wildcard" alt="" coords="180,56,311,83"/>
+<area shape="rect" id="node4" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="359,56,441,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="489,31,580,57"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="489,81,580,108"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="628,31,711,57"/>
+</map>

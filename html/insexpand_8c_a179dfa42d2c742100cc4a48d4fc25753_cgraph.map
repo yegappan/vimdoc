@@ -1,0 +1,10 @@
+<map id="find_word_start" name="find_word_start">
+<area shape="rect" id="node2" href="$mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="164,107,267,133"/>
+<area shape="rect" id="node9" href="$charset_8c.html#a3c2bbe62f11a23ddd38c98c42d1f5fbf" title="vim_iswordc" alt="" coords="331,56,426,83"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#ae242a847bc7d90805007de2faec56759" title="mb_get_class_buf" alt="" coords="315,107,443,133"/>
+<area shape="rect" id="node4" href="$charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="491,56,611,83"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="665,5,753,32"/>
+<area shape="rect" id="node6" href="$mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="659,56,759,83"/>
+<area shape="rect" id="node8" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="505,107,596,133"/>
+<area shape="rect" id="node7" href="$mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="807,56,867,83"/>
+</map>

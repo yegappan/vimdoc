@@ -99,6 +99,29 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="vim_8h_source.html">vim.h</a>&quot;</code><br />
+</div><div class="textblock"><div class="dynheader">
+Include dependency graph for spellsuggest.c:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c__incl.png" border="0" usemap="#_2home_2travis_2build_2yegappan_2vimdoc_2src_2spellsuggest_8c" alt=""/></div>
+<map name="_2home_2travis_2build_2yegappan_2vimdoc_2src_2spellsuggest_8c" id="_2home_2travis_2build_2yegappan_2vimdoc_2src_2spellsuggest_8c">
+<area shape="rect" id="node2" href="vim_8h.html" title="vim.h" alt="" coords="857,109,911,136"/>
+<area shape="rect" id="node3" href="protodef_8h.html" title="protodef.h" alt="" coords="7,184,87,211"/>
+<area shape="rect" id="node4" href="feature_8h.html" title="feature.h" alt="" coords="111,184,185,211"/>
+<area shape="rect" id="node7" href="ascii_8h.html" title="ascii.h" alt="" coords="385,184,445,211"/>
+<area shape="rect" id="node8" href="keymap_8h.html" title="keymap.h" alt="" coords="469,184,547,211"/>
+<area shape="rect" id="node9" href="term_8h.html" title="term.h" alt="" coords="572,184,631,211"/>
+<area shape="rect" id="node10" href="macros_8h.html" title="macros.h" alt="" coords="655,184,731,211"/>
+<area shape="rect" id="node14" href="option_8h.html" title="option.h" alt="" coords="1037,184,1105,211"/>
+<area shape="rect" id="node15" href="beval_8h.html" title="beval.h" alt="" coords="1129,184,1193,211"/>
+<area shape="rect" id="node16" href="structs_8h.html" title="structs.h" alt="" coords="1218,184,1291,211"/>
+<area shape="rect" id="node18" href="alloc_8h.html" title="alloc.h" alt="" coords="1315,184,1375,211"/>
+<area shape="rect" id="node19" href="ex__cmds_8h.html" title="ex_cmds.h" alt="" coords="1399,184,1486,211"/>
+<area shape="rect" id="node20" href="spell_8h.html" title="spell.h" alt="" coords="1510,184,1570,211"/>
+<area shape="rect" id="node21" href="proto_8h.html" title="proto.h" alt="" coords="1594,184,1657,211"/>
+<area shape="rect" id="node50" href="globals_8h.html" title="globals.h" alt="" coords="1681,184,1756,211"/>
+<area shape="rect" id="node17" href="regexp_8h.html" title="regexp.h" alt="" coords="5,259,77,285"/>
+</map>
+</div>
 </div>
 <p><a href="spellsuggest_8c_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -219,7 +242,7 @@ Macros</h2></td></tr>
 <tr class="separator:a6c20541f27ce661131468d94620eea43"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a55b8802e8fd9e2cfc8603f5e9ff395a5"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="spellsuggest_8c.html#a55b8802e8fd9e2cfc8603f5e9ff395a5">SPS_DOUBLE</a>&#160;&#160;&#160;4</td></tr>
 <tr class="separator:a55b8802e8fd9e2cfc8603f5e9ff395a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a86ff31182cf69feb09bce3eba05d5c77"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="spellsuggest_8c.html#a86ff31182cf69feb09bce3eba05d5c77">PROF_STORE</a>(<a class="el" href="harness_8c.html#a3dca7dbebd89d0468bf40da6281614c8">state</a>)</td></tr>
+<tr class="memitem:a86ff31182cf69feb09bce3eba05d5c77"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="spellsuggest_8c.html#a86ff31182cf69feb09bce3eba05d5c77">PROF_STORE</a>(state)</td></tr>
 <tr class="separator:a86ff31182cf69feb09bce3eba05d5c77"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afab9c9dbe7ecf86448a7994b8e1d79ba"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="spellsuggest_8c.html#afab9c9dbe7ecf86448a7994b8e1d79ba">TRY_DEEPER</a>(su,  <a class="el" href="hangulin_8c.html#ae1eda0c1d7b6f39524022cbab06c1e04">stack</a>,  depth,  add)&#160;&#160;&#160;(<a class="el" href="hangulin_8c.html#ae1eda0c1d7b6f39524022cbab06c1e04">stack</a>[depth].ts_score + (add) &lt; su-&gt;su_maxscore)</td></tr>
 <tr class="separator:afab9c9dbe7ecf86448a7994b8e1d79ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -537,7 +560,7 @@ Variables</h2></td></tr>
           <td class="memname">#define PROF_STORE</td>
           <td>(</td>
           <td class="paramtype">&#160;</td>
-          <td class="paramname"><a class="el" href="harness_8c.html#a3dca7dbebd89d0468bf40da6281614c8">state</a></td><td>)</td>
+          <td class="paramname">state</td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1378,6 +1401,64 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03624">3624</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a118e0368d6d0a515f78a2b7ed0a403a6_cgraph.png" border="0" usemap="#spellsuggest_8c_a118e0368d6d0a515f78a2b7ed0a403a6_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a118e0368d6d0a515f78a2b7ed0a403a6_cgraph" id="spellsuggest_8c_a118e0368d6d0a515f78a2b7ed0a403a6_cgraph">
+<area shape="rect" id="node2" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="150,1323,235,1349"/>
+<area shape="rect" id="node3" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="145,1373,240,1400"/>
+<area shape="rect" id="node4" href="misc2_8c.html#acd554ee46804f666060916bf740b3c96" title="vim_strsave" alt="" coords="146,1424,239,1451"/>
+<area shape="rect" id="node48" href="hashtab_8c.html#a9915fceb0d7010855e662d55e9f342bd" title="hash_add_item" alt="" coords="288,1551,399,1577"/>
+<area shape="rect" id="node5" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="319,1424,368,1451"/>
+<area shape="rect" id="node6" href="misc2_8c.html#ad3a9b4acc984c110795e0251a175ba4c" title="lalloc" alt="" coords="447,1424,499,1451"/>
+<area shape="rect" id="node7" href="message_8c.html#a7926d7fa9a35dc0f5bac051dec01240a" title="iemsg" alt="" coords="941,1525,999,1552"/>
+<area shape="rect" id="node13" href="os__amiga_8c.html#a6e92b08b7ae3c707b1db1ae998139368" title="mch_avail_mem" alt="" coords="555,1475,672,1501"/>
+<area shape="rect" id="node14" href="message_8c.html#a3e064d85fa764215513e69b79a66318b" title="clear_sb_text" alt="" coords="745,1323,845,1349"/>
+<area shape="rect" id="node15" href="memfile_8c.html#a4319e1f0749b4120f9e3528b225003d2" title="mf_release_all" alt="" coords="560,1525,667,1552"/>
+<area shape="rect" id="node23" href="misc2_8c.html#aa78bd2b6504d6815a6b474f73d0bfffc" title="do_outofmem_msg" alt="" coords="547,689,680,716"/>
+<area shape="rect" id="node8" href="message_8c.html#acb331402be1af5668813b9f0e1ba9b2c" title="emsg_not_now" alt="" coords="1081,1576,1192,1603"/>
+<area shape="rect" id="node10" href="message_8c.html#a1e980fe44bc1c9b3c06185b2b77ee4b9" title="emsg_core" alt="" coords="1093,1525,1180,1552"/>
+<area shape="rect" id="node9" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1248,1576,1331,1603"/>
+<area shape="rect" id="node11" href="message_8c.html#a21b5ffcf6012cbaa4ed765b191e071e4" title="ignore_error" alt="" coords="1244,1525,1335,1552"/>
+<area shape="rect" id="node12" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="1253,461,1325,488"/>
+<area shape="rect" id="node16" href="memline_8c.html#af02ef149bb7430fbe0cd031bbab8b3c2" title="ml_open_file" alt="" coords="748,1475,843,1501"/>
+<area shape="rect" id="node18" href="memfile_8c.html#ab225594ee6fc821ea71aa381f5786631" title="mf_write" alt="" coords="759,1627,831,1653"/>
+<area shape="rect" id="node20" href="memfile_8c.html#a1a462a5c7e40e94a86f75e06fb1f68e1" title="mf_rem_used" alt="" coords="745,1525,846,1552"/>
+<area shape="rect" id="node21" href="memfile_8c.html#a7478ec954fdf8ed27ffa14d896b4e2e4" title="mf_rem_hash" alt="" coords="745,1576,846,1603"/>
+<area shape="rect" id="node22" href="memfile_8c.html#a0cefda96e8c5f25cb0b3967c66035b98" title="mf_free_bhdr" alt="" coords="1087,1348,1186,1375"/>
+<area shape="rect" id="node17" href="message_8c.html#aeb2442b830699494f53059773212d850" title="semsg" alt="" coords="939,1424,1001,1451"/>
+<area shape="rect" id="node19" href="message_8c.html#ae5991a4d11897dfaee9bfab8e5489d82" title="emsg" alt="" coords="943,1576,997,1603"/>
+<area shape="rect" id="node24" href="os__amiga_8c.html#acd4e72a371bf7c129e35ee6546077902" title="mch_exit" alt="" coords="758,968,833,995"/>
+<area shape="rect" id="node25" href="autocmd_8c.html#a72d96ea10a9b77765cf2f19cdc82a12a" title="block_autocmds" alt="" coords="911,836,1029,863"/>
+<area shape="rect" id="node26" href="ex__docmd_8c.html#a1cd9cfec39cf60a1ae5d3a4b76eebc61" title="do_cmdline_cmd" alt="" coords="735,1069,855,1096"/>
+<area shape="rect" id="node27" href="spell_8c.html#a419ec741ebb63dbd0bfd4376a49b99cf" title="spell_free_all" alt="" coords="746,1120,845,1147"/>
+<area shape="rect" id="node28" href="usercmd_8c.html#a249caebdb55a3ece5d06a543bcb17bf4" title="ex_comclear" alt="" coords="747,1171,843,1197"/>
+<area shape="rect" id="node29" href="term_8c.html#ad012325baf6cdc6862c29130580f5a58" title="clear_termcodes" alt="" coords="911,259,1029,285"/>
+<area shape="rect" id="node30" href="arglist_8c.html#a4268b93fcc0bb58c5fabb9d9ca71c4a9" title="alist_clear" alt="" coords="1096,309,1177,336"/>
+<area shape="rect" id="node31" href="sign_8c.html#a4b4be46d32838c95a1368f9c815330ec" title="free_signs" alt="" coords="754,56,837,83"/>
+<area shape="rect" id="node32" href="register_8c.html#a51c72908e5b3c760e97874426c530a3d" title="set_expr_line" alt="" coords="1087,360,1186,387"/>
+<area shape="rect" id="node33" href="diff_8c.html#afe65fbd4a14587079ceeb62a206712eb" title="diff_clear" alt="" coords="933,157,1007,184"/>
+<area shape="rect" id="node34" href="regexp_8c.html#ae85d66ec0c262d0e6c22766cd75e0287" title="vim_regfree" alt="" coords="1091,411,1182,437"/>
+<area shape="rect" id="node35" href="message_8c.html#a1adc86bbd012d6e33d3fddf074a31491" title="set_keep_msg" alt="" coords="742,5,849,32"/>
+<area shape="rect" id="node36" href="cmdhist_8c.html#a3b9830ecbd98de7ce0be571922d58286" title="init_history" alt="" coords="1094,715,1179,741"/>
+<area shape="rect" id="node37" href="quickfix_8c.html#a428a82150cfbd9d2adc1b4eaa5d71d83" title="qf_free_all" alt="" coords="754,512,837,539"/>
+<area shape="rect" id="node38" href="buffer_8c.html#a4386414ec7244465469792b07a7b26d7" title="set_bufref" alt="" coords="930,689,1010,716"/>
+<area shape="rect" id="node39" href="buffer_8c.html#a8cca20eba93671e6be1e1fe1b9072fcc" title="close_buffer" alt="" coords="749,765,842,792"/>
+<area shape="rect" id="node40" href="buffer_8c.html#a2dbb80dcac146a5e82d7823242a9d61b" title="bufref_valid" alt="" coords="925,753,1015,780"/>
+<area shape="rect" id="node41" href="getchar_8c.html#ae2bf5846772fc579ea03d5d5cc06ec81" title="ResetRedobuff" alt="" coords="740,563,851,589"/>
+<area shape="rect" id="node42" href="message_8c.html#a066010c6cfd986483f58e6d97ae11672" title="reset_last_sourcing" alt="" coords="728,613,863,640"/>
+<area shape="rect" id="node43" href="window_8c.html#a6304c4b355fa4aa14056c0e06f3d2a84" title="free_tabpage" alt="" coords="747,107,844,133"/>
+<area shape="rect" id="node44" href="message_8c.html#aa4126a2c3996cddd65da5621ebd3df4c" title="delete_first_msg" alt="" coords="1077,892,1196,919"/>
+<area shape="rect" id="node45" href="option_8c.html#a415c2c2532d0b22c90458ef166bfdfe1" title="free_termoptions" alt="" coords="736,208,855,235"/>
+<area shape="rect" id="node46" href="screen_8c.html#ac2d84d0963228f7dcc393f00d3488086" title="free_screenlines" alt="" coords="737,816,854,843"/>
+<area shape="rect" id="node47" href="highlight_8c.html#a10e4331a5b891cc0e269135fd07fc249" title="clear_hl_tables" alt="" coords="1082,461,1191,488"/>
+<area shape="rect" id="node49" href="hashtab_8c.html#a1386558e12e3dce0f89f6342d426a633" title="hash_may_resize" alt="" coords="733,1677,857,1704"/>
+<area shape="rect" id="node50" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="921,1677,1019,1704"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a53ffb78253a7489fe45ade5a372bf588"></a>
@@ -1425,6 +1506,64 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03139">3139</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a53ffb78253a7489fe45ade5a372bf588_cgraph.png" border="0" usemap="#spellsuggest_8c_a53ffb78253a7489fe45ade5a372bf588_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a53ffb78253a7489fe45ade5a372bf588_cgraph" id="spellsuggest_8c_a53ffb78253a7489fe45ade5a372bf588_cgraph">
+<area shape="rect" id="node2" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="961,13,1046,39"/>
+<area shape="rect" id="node3" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="956,77,1051,103"/>
+<area shape="rect" id="node4" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="1137,355,1187,382"/>
+<area shape="rect" id="node14" href="hashtab_8c.html#a9915fceb0d7010855e662d55e9f342bd" title="hash_add_item" alt="" coords="608,507,719,534"/>
+<area shape="rect" id="node18" href="spellsuggest_8c.html#a90d9ddd326d85a4fc487b8621080d7d8" title="soundfold_find" alt="" coords="212,1571,319,1598"/>
+<area shape="rect" id="node19" href="message_8c.html#acf47f2acaa03395461e2b233638e69d0" title="internal_error" alt="" coords="786,1521,883,1547"/>
+<area shape="rect" id="node22" href="memline_8c.html#a5efa31d210327048f60b8b00586e2a8c" title="ml_get_buf" alt="" coords="222,1267,309,1294"/>
+<area shape="rect" id="node34" href="spellsuggest_8c.html#ab2453eae53f068324d83c5c03332803d" title="bytes2offset" alt="" coords="218,1622,313,1649"/>
+<area shape="rect" id="node35" href="spellsuggest_8c.html#a47767ce9a43417c3c312ec0a225248aa" title="find_keepcap_word" alt="" coords="198,406,333,433"/>
+<area shape="rect" id="node38" href="spell_8c.html#a0c36e73cd1ee3f266eb552dea1fce86d" title="make_case_word" alt="" coords="203,457,327,483"/>
+<area shape="rect" id="node40" href="spellsuggest_8c.html#a5186b2cdb0d059bc12d57e30932fd098" title="add_suggestion" alt="" coords="778,355,891,382"/>
+<area shape="rect" id="node45" href="spellsuggest_8c.html#a9a22da62710e041c12368dd7a7379a05" title="spell_edit_score" alt="" coords="411,254,527,281"/>
+<area shape="rect" id="node48" href="spellsuggest_8c.html#aab052af723538d9d9c24105f098860b5" title="spell_edit_score_limit" alt="" coords="192,203,339,230"/>
+<area shape="rect" id="node50" href="spellsuggest_8c.html#af7ec09d5fb0f682ec35d71163b036e0e" title="score_wordcount_adj" alt="" coords="396,51,541,78"/>
+<area shape="rect" id="node5" href="misc2_8c.html#ad3a9b4acc984c110795e0251a175ba4c" title="lalloc" alt="" coords="1283,355,1335,382"/>
+<area shape="rect" id="node6" href="message_8c.html#a7926d7fa9a35dc0f5bac051dec01240a" title="iemsg" alt="" coords="1445,1034,1502,1061"/>
+<area shape="rect" id="node10" href="os__amiga_8c.html#a6e92b08b7ae3c707b1db1ae998139368" title="mch_avail_mem" alt="" coords="1415,305,1532,331"/>
+<area shape="rect" id="node11" href="message_8c.html#a3e064d85fa764215513e69b79a66318b" title="clear_sb_text" alt="" coords="1610,406,1710,433"/>
+<area shape="rect" id="node12" href="memfile_8c.html#a4319e1f0749b4120f9e3528b225003d2" title="mf_release_all" alt="" coords="1420,355,1527,382"/>
+<area shape="rect" id="node13" href="misc2_8c.html#aa78bd2b6504d6815a6b474f73d0bfffc" title="do_outofmem_msg" alt="" coords="1407,254,1540,281"/>
+<area shape="rect" id="node7" href="message_8c.html#acb331402be1af5668813b9f0e1ba9b2c" title="emsg_not_now" alt="" coords="1605,983,1715,1010"/>
+<area shape="rect" id="node8" href="message_8c.html#a1e980fe44bc1c9b3c06185b2b77ee4b9" title="emsg_core" alt="" coords="1617,1034,1703,1061"/>
+<area shape="rect" id="node9" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="1780,583,1852,610"/>
+<area shape="rect" id="node15" href="hashtab_8c.html#a1386558e12e3dce0f89f6342d426a633" title="hash_may_resize" alt="" coords="941,507,1065,534"/>
+<area shape="rect" id="node16" href="message_8c.html#ae5991a4d11897dfaee9bfab8e5489d82" title="emsg" alt="" coords="1446,983,1501,1010"/>
+<area shape="rect" id="node17" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="1113,457,1211,483"/>
+<area shape="rect" id="node20" href="message_8c.html#a35f801e23d16b0e6a4d1cc61691ec03f" title="siemsg" alt="" coords="1130,1419,1194,1446"/>
+<area shape="rect" id="node21" href="message_8c.html#a1e35ae924f192dd42844b5c4a80cd836" title="vim_vsnprintf" alt="" coords="1259,1419,1359,1446"/>
+<area shape="rect" id="node23" href="memline_8c.html#a20a3268681f79a76b9af2f2fc7b644b6" title="ml_flush_line" alt="" coords="419,1115,518,1142"/>
+<area shape="rect" id="node24" href="memline_8c.html#ade8fe98188345bdd3c230545fc4a614f" title="ml_find_line" alt="" coords="958,1242,1049,1269"/>
+<area shape="rect" id="node31" href="memline_8c.html#ae8486bd6f1922d43b60969e2be927915" title="ml_updatechunk" alt="" coords="776,963,893,990"/>
+<area shape="rect" id="node32" href="memline_8c.html#abed76281f9b8f3fe0572784ba8aaa040" title="ml_append_int" alt="" coords="610,1115,717,1142"/>
+<area shape="rect" id="node33" href="memline_8c.html#a5e7aeced6dc3b0cf2af0f92ff3b3a875" title="ml_delete_int" alt="" coords="614,837,713,863"/>
+<area shape="rect" id="node25" href="memfile_8c.html#abb7f268382703d32becc96f6d92fb855" title="mf_put" alt="" coords="1277,1065,1340,1091"/>
+<area shape="rect" id="node26" href="memline_8c.html#a661ea17a2f15417b31afca629fbef050" title="ml_lineadd" alt="" coords="1120,963,1204,990"/>
+<area shape="rect" id="node27" href="memfile_8c.html#af9d5ff9ad91a2d5150a675c9c0d77e10" title="mf_get" alt="" coords="1277,926,1340,953"/>
+<area shape="rect" id="node29" href="memline_8c.html#aa6909d6a13a3189fdb549bea27afc662" title="ml_add_stack" alt="" coords="1609,1369,1711,1395"/>
+<area shape="rect" id="node30" href="memfile_8c.html#ac224c12ac428b0a19a3b38ecd98310a3" title="mf_trans_del" alt="" coords="1113,1318,1211,1345"/>
+<area shape="rect" id="node28" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="1262,786,1355,813"/>
+<area shape="rect" id="node36" href="spell_8c.html#aa027edb1b6551998884b7e9e84d69372" title="allcap_copy" alt="" coords="423,406,514,433"/>
+<area shape="rect" id="node37" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="599,305,728,331"/>
+<area shape="rect" id="node39" href="spell_8c.html#aa1a40bd942c4c476aac46aebd8e48287" title="onecap_copy" alt="" coords="419,457,518,483"/>
+<area shape="rect" id="node41" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="957,305,1050,331"/>
+<area shape="rect" id="node42" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="968,457,1039,483"/>
+<area shape="rect" id="node43" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="953,355,1053,382"/>
+<area shape="rect" id="node44" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="1588,457,1732,483"/>
+<area shape="rect" id="node46" href="spellsuggest_8c.html#ac41a3249fc510891b2781ba1c10465a3" title="similar_chars" alt="" coords="614,153,713,179"/>
+<area shape="rect" id="node47" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="795,51,874,78"/>
+<area shape="rect" id="node49" href="spellsuggest_8c.html#a84210ea1f382eef26dd321e962ec965f" title="spell_edit_score_limit_w" alt="" coords="387,203,551,230"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -1504,6 +1643,64 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03456">3456</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a5186b2cdb0d059bc12d57e30932fd098_cgraph.png" border="0" usemap="#spellsuggest_8c_a5186b2cdb0d059bc12d57e30932fd098_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a5186b2cdb0d059bc12d57e30932fd098_cgraph" id="spellsuggest_8c_a5186b2cdb0d059bc12d57e30932fd098_cgraph">
+<area shape="rect" id="node2" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="656,347,749,373"/>
+<area shape="rect" id="node28" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="203,487,274,513"/>
+<area shape="rect" id="node30" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="359,701,459,728"/>
+<area shape="rect" id="node48" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="167,537,311,564"/>
+<area shape="rect" id="node3" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="973,259,1085,285"/>
+<area shape="rect" id="node24" href="spellsuggest_8c.html#a1bac34b3e85e91d19e6d1c62a24185fc" title="stp_sal_score" alt="" coords="805,233,907,260"/>
+<area shape="rect" id="node27" href="spellsuggest_8c.html#aa188edec209bd7bed4b4c67389192104" title="sug_compare" alt="" coords="806,372,906,399"/>
+<area shape="rect" id="node4" href="spell_8c.html#ab56a9e7fc34aedaadaa856b6d62d1deb" title="spell_soundfold_sofo" alt="" coords="1145,132,1289,159"/>
+<area shape="rect" id="node11" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="1165,81,1270,108"/>
+<area shape="rect" id="node12" href="spell_8c.html#abe3c5bde90b3f127caa022dbcdae509a" title="spell_soundfold_wsal" alt="" coords="1144,233,1291,260"/>
+<area shape="rect" id="node20" href="spell_8c.html#af5620a3c515c15e53db41cdebfbef77e" title="spell_soundfold_sal" alt="" coords="1149,360,1285,387"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="1342,56,1471,83"/>
+<area shape="rect" id="node9" href="mbyte_8c.html#a4d7fb58aae46f9d8535ca1a260974be7" title="utf_class" alt="" coords="1564,157,1639,184"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="1876,176,1959,203"/>
+<area shape="rect" id="node7" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="1733,107,1823,133"/>
+<area shape="rect" id="node8" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="1543,5,1660,32"/>
+<area shape="rect" id="node10" href="mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="1728,157,1828,184"/>
+<area shape="rect" id="node13" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="1339,259,1475,285"/>
+<area shape="rect" id="node16" href="spell_8c.html#acf98416949884d5308d96b0b7778cfa2" title="spell_iswordp_w" alt="" coords="1347,208,1466,235"/>
+<area shape="rect" id="node17" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1560,385,1643,412"/>
+<area shape="rect" id="node14" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="1523,259,1680,285"/>
+<area shape="rect" id="node15" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="1550,335,1653,361"/>
+<area shape="rect" id="node19" href="mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="1557,208,1645,235"/>
+<area shape="rect" id="node18" href="mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="1733,296,1823,323"/>
+<area shape="rect" id="node21" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="1368,512,1445,539"/>
+<area shape="rect" id="node22" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="1360,309,1453,336"/>
+<area shape="rect" id="node23" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="1356,360,1457,387"/>
+<area shape="rect" id="node25" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="985,107,1073,133"/>
+<area shape="rect" id="node26" href="spellsuggest_8c.html#a073964095f532f0413d39ff67213ce6b" title="soundalike_score" alt="" coords="968,157,1091,184"/>
+<area shape="rect" id="node29" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="360,461,457,488"/>
+<area shape="rect" id="node31" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="533,715,582,741"/>
+<area shape="rect" id="node32" href="misc2_8c.html#ad3a9b4acc984c110795e0251a175ba4c" title="lalloc" alt="" coords="677,841,729,868"/>
+<area shape="rect" id="node33" href="message_8c.html#a7926d7fa9a35dc0f5bac051dec01240a" title="iemsg" alt="" coords="1189,664,1246,691"/>
+<area shape="rect" id="node37" href="os__amiga_8c.html#a6e92b08b7ae3c707b1db1ae998139368" title="mch_avail_mem" alt="" coords="797,867,915,893"/>
+<area shape="rect" id="node38" href="message_8c.html#a3e064d85fa764215513e69b79a66318b" title="clear_sb_text" alt="" coords="1167,993,1267,1020"/>
+<area shape="rect" id="node39" href="memfile_8c.html#a4319e1f0749b4120f9e3528b225003d2" title="mf_release_all" alt="" coords="803,816,909,843"/>
+<area shape="rect" id="node46" href="misc2_8c.html#aa78bd2b6504d6815a6b474f73d0bfffc" title="do_outofmem_msg" alt="" coords="963,968,1096,995"/>
+<area shape="rect" id="node34" href="message_8c.html#acb331402be1af5668813b9f0e1ba9b2c" title="emsg_not_now" alt="" coords="1351,664,1462,691"/>
+<area shape="rect" id="node35" href="message_8c.html#a1e980fe44bc1c9b3c06185b2b77ee4b9" title="emsg_core" alt="" coords="1363,715,1450,741"/>
+<area shape="rect" id="node36" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="1565,769,1637,796"/>
+<area shape="rect" id="node40" href="memline_8c.html#af02ef149bb7430fbe0cd031bbab8b3c2" title="ml_open_file" alt="" coords="982,715,1077,741"/>
+<area shape="rect" id="node42" href="memfile_8c.html#ab225594ee6fc821ea71aa381f5786631" title="mf_write" alt="" coords="993,765,1065,792"/>
+<area shape="rect" id="node43" href="memfile_8c.html#a1a462a5c7e40e94a86f75e06fb1f68e1" title="mf_rem_used" alt="" coords="979,816,1080,843"/>
+<area shape="rect" id="node44" href="memfile_8c.html#a7478ec954fdf8ed27ffa14d896b4e2e4" title="mf_rem_hash" alt="" coords="979,867,1080,893"/>
+<area shape="rect" id="node45" href="memfile_8c.html#a0cefda96e8c5f25cb0b3967c66035b98" title="mf_free_bhdr" alt="" coords="1168,804,1267,831"/>
+<area shape="rect" id="node41" href="message_8c.html#aeb2442b830699494f53059773212d850" title="semsg" alt="" coords="1187,715,1248,741"/>
+<area shape="rect" id="node47" href="os__amiga_8c.html#acd4e72a371bf7c129e35ee6546077902" title="mch_exit" alt="" coords="1180,943,1255,969"/>
+<area shape="rect" id="node49" href="misc2_8c.html#a0a3244deafa9c8a260e7e72f47732b6c" title="qsort" alt="" coords="383,625,434,652"/>
+<area shape="rect" id="node50" href="misc2_8c.html#aa1392ec3142a872eadc9ad888bec7757" title="sort_compare" alt="" coords="507,664,608,691"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="aa2470cff8a1c4db8937f4f2b67698ff1"></a>
@@ -1539,6 +1736,26 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l00309">309</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_aa2470cff8a1c4db8937f4f2b67698ff1_cgraph.png" border="0" usemap="#spellsuggest_8c_aa2470cff8a1c4db8937f4f2b67698ff1_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_aa2470cff8a1c4db8937f4f2b67698ff1_cgraph" id="spellsuggest_8c_aa2470cff8a1c4db8937f4f2b67698ff1_cgraph">
+<area shape="rect" id="node2" href="spell_8c.html#abc3990dd37bd9fc90bcd9b533c1ca062" title="captype" alt="" coords="177,81,245,108"/>
+<area shape="rect" id="node3" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="293,56,429,83"/>
+<area shape="rect" id="node12" href="mbyte_8c.html#a505073bff7332ecc1f0c8c21d190264c" title="mb_ptr2char_adv" alt="" coords="300,107,423,133"/>
+<area shape="rect" id="node4" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="477,31,635,57"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="505,81,607,108"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#ae242a847bc7d90805007de2faec56759" title="mb_get_class_buf" alt="" coords="683,81,811,108"/>
+<area shape="rect" id="node7" href="charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="859,56,979,83"/>
+<area shape="rect" id="node8" href="mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="1033,5,1121,32"/>
+<area shape="rect" id="node9" href="mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="1027,56,1127,83"/>
+<area shape="rect" id="node11" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="873,157,964,184"/>
+<area shape="rect" id="node10" href="mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="1175,56,1235,83"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -1614,6 +1831,64 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l00238">238</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_ab58dc53b08fb3802b027c936c764a575_cgraph.png" border="0" usemap="#spellsuggest_8c_ab58dc53b08fb3802b027c936c764a575_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_ab58dc53b08fb3802b027c936c764a575_cgraph" id="spellsuggest_8c_ab58dc53b08fb3802b027c936c764a575_cgraph">
+<area shape="rect" id="node2" href="spell_8c.html#aee7fa6d2b0c3813c46f493447e13db2b" title="byte_in_str" alt="" coords="214,521,301,548"/>
+<area shape="rect" id="node3" href="spell_8c.html#aa1e6c5e70ac42cca519d165a4e4fd9f5" title="match_compoundrule" alt="" coords="184,572,331,599"/>
+<area shape="rect" id="node4" href="gui__xmdlg_8c.html#a8f4da314993e8d599716a639638b4931" title="match" alt="" coords="379,333,437,360"/>
+<area shape="rect" id="node13" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1982,803,2065,829"/>
+<area shape="rect" id="node5" href="gui__xmdlg_8c.html#aaf04995c6edda588b4e3f901490d2eac" title="encoding_part" alt="" coords="485,409,588,436"/>
+<area shape="rect" id="node47" href="gui__xmdlg_8c.html#a4e65fba0f0f5d89ee71198c940392fc1" title="fn" alt="" coords="517,308,556,335"/>
+<area shape="rect" id="node48" href="gui__xmdlg_8c.html#a0f91488b12c8cbf079e2c1fc0edd47c3" title="name_part" alt="" coords="495,359,578,385"/>
+<area shape="rect" id="node49" href="gui__xmdlg_8c.html#a3795fde85832efd83159501b3a327285" title="style_part" alt="" coords="497,257,576,284"/>
+<area shape="rect" id="node50" href="gui__xmdlg_8c.html#a3e4be3e148d614562944671cbf6f6014" title="size_part" alt="" coords="499,207,574,233"/>
+<area shape="rect" id="node6" href="gui__xmdlg_8c.html#ac786fbd901cbf3eb07554f92d27d0d4b" title="get_part" alt="" coords="648,271,717,297"/>
+<area shape="rect" id="node7" href="message_8c.html#a3fb83ee5435e868683ecb3e44020f3b2" title="vim_snprintf" alt="" coords="636,347,729,373"/>
+<area shape="rect" id="node8" href="message_8c.html#a1e35ae924f192dd42844b5c4a80cd836" title="vim_vsnprintf" alt="" coords="777,423,877,449"/>
+<area shape="rect" id="node9" href="message_8c.html#a3eb47990c628e1ae6939a4671855db9d" title="vim_vsnprintf_typval" alt="" coords="925,423,1068,449"/>
+<area shape="rect" id="node10" href="message_8c.html#a580304fc1ab9147fd4201ee3efffac60" title="tv_nr" alt="" coords="1147,549,1198,576"/>
+<area shape="rect" id="node11" href="message_8c.html#ae5991a4d11897dfaee9bfab8e5489d82" title="emsg" alt="" coords="1678,347,1733,373"/>
+<area shape="rect" id="node21" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="2164,144,2236,171"/>
+<area shape="rect" id="node38" href="message_8c.html#a4a5dc4d9414a5c3cd31a985cc57cf81e" title="tv_str" alt="" coords="1145,195,1200,221"/>
+<area shape="rect" id="node44" href="mbyte_8c.html#a788fd4d91889e7541a9449a281db2f6a" title="mb_string2cells" alt="" coords="1116,448,1229,475"/>
+<area shape="rect" id="node45" href="charset_8c.html#a35845ed87dc61ea86eb2e2f2f2f477f3" title="vim_isdigit" alt="" coords="1131,499,1215,525"/>
+<area shape="rect" id="node46" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="1124,397,1221,424"/>
+<area shape="rect" id="node31" href="eval_8c.html#afe90fb5791694f52bbf8cd774a7632f7" title="tv_get_number_chk" alt="" coords="1277,549,1413,576"/>
+<area shape="rect" id="node12" href="message_8c.html#acb331402be1af5668813b9f0e1ba9b2c" title="emsg_not_now" alt="" coords="1799,517,1909,544"/>
+<area shape="rect" id="node17" href="message_8c.html#a1e980fe44bc1c9b3c06185b2b77ee4b9" title="emsg_core" alt="" coords="1811,460,1897,487"/>
+<area shape="rect" id="node14" href="mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="2155,828,2245,855"/>
+<area shape="rect" id="node16" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="2155,777,2245,804"/>
+<area shape="rect" id="node15" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="2311,828,2393,855"/>
+<area shape="rect" id="node18" href="message_8c.html#a21b5ffcf6012cbaa4ed765b191e071e4" title="ignore_error" alt="" coords="1978,651,2069,677"/>
+<area shape="rect" id="node19" href="message_8c.html#a084dafebcb70ccaab8b0c09dd836a6eb" title="msg_use_printf" alt="" coords="1968,701,2079,728"/>
+<area shape="rect" id="node20" href="ex__eval_8c.html#a2d67f4c6119ad646c4ebb8a6ecc57cc1" title="cause_errthrow" alt="" coords="1968,144,2079,171"/>
+<area shape="rect" id="node22" href="evalvars_8c.html#ad24dc360910df498ab3f75c5957e55b6" title="set_vim_var_string" alt="" coords="1957,397,2089,424"/>
+<area shape="rect" id="node23" href="message_8c.html#a701ffeff793261a605a4090e7c085a2d" title="msg_start" alt="" coords="1983,752,2063,779"/>
+<area shape="rect" id="node24" href="message_8c.html#afe58ce2cd3fdfe6bf06b2183856ca027" title="redir_write" alt="" coords="2159,637,2241,664"/>
+<area shape="rect" id="node25" href="message_8c.html#aac6faaf9996ddf77ea5086c7b928d69c" title="get_emsg_source" alt="" coords="2137,417,2263,444"/>
+<area shape="rect" id="node26" href="message_8c.html#add52ed83e1055f7a6721ffc7b92dd780" title="get_emsg_lnum" alt="" coords="2143,271,2257,297"/>
+<area shape="rect" id="node27" href="misc1_8c.html#a8086f25f5f93d29a9bdd62f5a3e3b901" title="beep_flush" alt="" coords="1981,549,2066,576"/>
+<area shape="rect" id="node28" href="getchar_8c.html#a08218e75f65cf78c2b75f702de094f74" title="flush_buffers" alt="" coords="2151,524,2249,551"/>
+<area shape="rect" id="node29" href="message_8c.html#a8fba68755b6f0632589492cc06daa673" title="msg_source" alt="" coords="1977,296,2070,323"/>
+<area shape="rect" id="node30" href="message_8c.html#a29b0e37f9886d0ccb9a14bbad62f64f6" title="msg_attr" alt="" coords="2163,335,2237,361"/>
+<area shape="rect" id="node32" href="charset_8c.html#a57c848cb583e98bab3d611fc6208851d" title="vim_str2nr" alt="" coords="1495,669,1578,696"/>
+<area shape="rect" id="node36" href="message_8c.html#acf47f2acaa03395461e2b233638e69d0" title="internal_error" alt="" coords="1488,543,1585,569"/>
+<area shape="rect" id="node33" href="charset_8c.html#a269e1797f0d8a95bd4cc2258588f8a63" title="vim_isxdigit" alt="" coords="1809,644,1899,671"/>
+<area shape="rect" id="node34" href="charset_8c.html#aaf9b570cf3ba192348f9b219aad0e21a" title="vim_isbdigit" alt="" coords="1660,568,1751,595"/>
+<area shape="rect" id="node35" href="charset_8c.html#a58ed0722af2b6452235a9c269767aa0c" title="hex2nr" alt="" coords="1675,619,1736,645"/>
+<area shape="rect" id="node37" href="message_8c.html#a35f801e23d16b0e6a4d1cc61691ec03f" title="siemsg" alt="" coords="1673,517,1737,544"/>
+<area shape="rect" id="node39" href="eval_8c.html#af7e0f0ba9325b5fdd3ea3f6b4863e2eb" title="echo_string" alt="" coords="1301,93,1390,120"/>
+<area shape="rect" id="node41" href="eval_8c.html#a538ce888807c64f1c31dfa5f2c76b069" title="get_copyID" alt="" coords="1301,144,1390,171"/>
+<area shape="rect" id="node42" href="eval_8c.html#a19a75a074684dcefdbd1e4b38021f3b5" title="tv_get_string_chk" alt="" coords="1283,245,1408,272"/>
+<area shape="rect" id="node40" href="eval_8c.html#ad8ca46106a906f08c5450aa20540915a" title="echo_string_core" alt="" coords="1476,93,1597,120"/>
+<area shape="rect" id="node43" href="eval_8c.html#a8859a70551afcef025fbff6fd9d32963" title="tv_get_string_buf_chk" alt="" coords="1461,296,1612,323"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="afc6e67159e846e2041b05d32d184b75e"></a>
@@ -1649,6 +1924,64 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03587">3587</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_afc6e67159e846e2041b05d32d184b75e_cgraph.png" border="0" usemap="#spellsuggest_8c_afc6e67159e846e2041b05d32d184b75e_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_afc6e67159e846e2041b05d32d184b75e_cgraph" id="spellsuggest_8c_afc6e67159e846e2041b05d32d184b75e_cgraph">
+<area shape="rect" id="node2" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="575,1221,668,1248"/>
+<area shape="rect" id="node3" href="spell_8c.html#a1a15c33e24e249822f48f85a14764c61" title="spell_check" alt="" coords="188,411,279,437"/>
+<area shape="rect" id="node50" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="197,1272,269,1299"/>
+<area shape="rect" id="node4" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="351,259,449,285"/>
+<area shape="rect" id="node5" href="charset_8c.html#a35a186fa599127c504712833cd871506" title="skipbin" alt="" coords="369,157,431,184"/>
+<area shape="rect" id="node7" href="charset_8c.html#a905848305c8b461121d58eae440e70c0" title="skiphex" alt="" coords="367,309,433,336"/>
+<area shape="rect" id="node9" href="charset_8c.html#a3b21cf6150be4559ab6fd90593f300c0" title="skipdigits" alt="" coords="361,411,439,437"/>
+<area shape="rect" id="node10" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="966,853,1067,880"/>
+<area shape="rect" id="node16" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="964,1069,1069,1096"/>
+<area shape="rect" id="node18" href="spell_8c.html#a40e1c4fecec8a1f2dab7928cd51b3017" title="find_word" alt="" coords="361,816,439,843"/>
+<area shape="rect" id="node22" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="775,512,911,539"/>
+<area shape="rect" id="node30" href="spell_8c.html#ab79a58e4d8bbbaa2e26fc28cffce804c" title="find_prefix" alt="" coords="580,1120,663,1147"/>
+<area shape="rect" id="node32" href="spell_8c.html#af79a3745912a5972c83b97fe16b992e5" title="count_common_word" alt="" coords="327,1297,473,1324"/>
+<area shape="rect" id="node37" href="regexp__bt_8c.html#a8c84017ae5b6830cd8a93599acbf3d05" title="regmatch" alt="" coords="979,309,1055,336"/>
+<area shape="rect" id="node49" href="regexp_8c.html#abefc0928e7264f306f6149e3c5bdb074" title="vim_regexec" alt="" coords="352,208,448,235"/>
+<area shape="rect" id="node6" href="charset_8c.html#aaf9b570cf3ba192348f9b219aad0e21a" title="vim_isbdigit" alt="" coords="576,157,667,184"/>
+<area shape="rect" id="node8" href="charset_8c.html#a269e1797f0d8a95bd4cc2258588f8a63" title="vim_isxdigit" alt="" coords="576,309,667,336"/>
+<area shape="rect" id="node11" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1155,929,1237,956"/>
+<area shape="rect" id="node12" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="1117,828,1275,855"/>
+<area shape="rect" id="node13" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="1145,715,1247,741"/>
+<area shape="rect" id="node14" href="mbyte_8c.html#ae242a847bc7d90805007de2faec56759" title="mb_get_class_buf" alt="" coords="1323,563,1451,589"/>
+<area shape="rect" id="node15" href="charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="1499,563,1619,589"/>
+<area shape="rect" id="node17" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="1131,1069,1261,1096"/>
+<area shape="rect" id="node19" href="spell_8c.html#ad15a36371a35546659bc48207c45d8a6" title="fold_more" alt="" coords="803,1069,882,1096"/>
+<area shape="rect" id="node20" href="message_8c.html#ae5991a4d11897dfaee9bfab8e5489d82" title="emsg" alt="" coords="1169,664,1223,691"/>
+<area shape="rect" id="node21" href="spell_8c.html#abc3990dd37bd9fc90bcd9b533c1ca062" title="captype" alt="" coords="587,512,655,539"/>
+<area shape="rect" id="node23" href="spell_8c.html#adaea6db6bd786fb9ca50ad954f1851c6" title="spell_valid_case" alt="" coords="562,563,681,589"/>
+<area shape="rect" id="node24" href="spell_8c.html#a0fcb71e1874f2eabe5c6e988975585e1" title="valid_word_prefix" alt="" coords="560,613,683,640"/>
+<area shape="rect" id="node25" href="mbyte_8c.html#af4fd93341dfee74a31e5ae79955679b2" title="mb_charlen_len" alt="" coords="565,664,678,691"/>
+<area shape="rect" id="node26" href="spell_8c.html#aee7fa6d2b0c3813c46f493447e13db2b" title="byte_in_str" alt="" coords="578,715,665,741"/>
+<area shape="rect" id="node27" href="spell_8c.html#ac13c9b4f268486173a6d2bc86ffaeea9" title="match_checkcompoundpattern" alt="" coords="521,765,721,792"/>
+<area shape="rect" id="node28" href="spell_8c.html#aee0ac5e72927811b057184edb8ff70ce" title="can_compound" alt="" coords="566,816,677,843"/>
+<area shape="rect" id="node29" href="spell_8c.html#aa1e6c5e70ac42cca519d165a4e4fd9f5" title="match_compoundrule" alt="" coords="769,968,916,995"/>
+<area shape="rect" id="node31" href="spell_8c.html#ade67b400ed420c10bc947003f5226257" title="nofold_len" alt="" coords="802,1120,883,1147"/>
+<area shape="rect" id="node33" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="579,1323,664,1349"/>
+<area shape="rect" id="node34" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="574,1373,669,1400"/>
+<area shape="rect" id="node35" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="597,1424,646,1451"/>
+<area shape="rect" id="node36" href="hashtab_8c.html#a9915fceb0d7010855e662d55e9f342bd" title="hash_add_item" alt="" coords="566,1272,677,1299"/>
+<area shape="rect" id="node38" href="misc1_8c.html#ab76e97b0e4c8694e5ecae285d0231b22" title="fast_breakcheck" alt="" coords="1327,31,1446,57"/>
+<area shape="rect" id="node39" href="regexp__bt_8c.html#acf9ae69f27f886c1c4d5dc6a756f737e" title="regnext" alt="" coords="1354,183,1419,209"/>
+<area shape="rect" id="node40" href="regexp_8c.html#ae31aee91fc381a04c6ddc245d23f5b41" title="reg_nextline" alt="" coords="1150,5,1242,32"/>
+<area shape="rect" id="node41" href="mark_8c.html#acf9c0c47b90174e1dce6c2f28f88d344" title="getmark_buf" alt="" coords="1149,107,1243,133"/>
+<area shape="rect" id="node42" href="regexp_8c.html#ad911eb33f36bd0b1b42d0424297f0e9b" title="reg_match_visual" alt="" coords="1134,259,1258,285"/>
+<area shape="rect" id="node43" href="charset_8c.html#a4b79b924d5ef76cedc50dc43ecdcef1b" title="win_linetabsize" alt="" coords="1331,284,1442,311"/>
+<area shape="rect" id="node44" href="regexp__bt_8c.html#a66275cbbe2525d27cc01b6a360dc4125" title="re_num_cmp" alt="" coords="1147,157,1245,184"/>
+<area shape="rect" id="node45" href="regexp_8c.html#ad3dd54c8989ce3895833653fb7545561" title="reg_prev_class" alt="" coords="1141,512,1251,539"/>
+<area shape="rect" id="node46" href="charset_8c.html#af7cb7c923f313c7384ec8c61b26f6427" title="vim_isIDc" alt="" coords="1155,411,1237,437"/>
+<area shape="rect" id="node47" href="charset_8c.html#a6d4a73cbd9e435f15f8872328f04971f" title="vim_iswordp_buf" alt="" coords="1327,411,1447,437"/>
+<area shape="rect" id="node48" href="charset_8c.html#a91048c88b6fa8fce6d8e22d1c9794c9a" title="vim_isfilec" alt="" coords="1154,461,1238,488"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -1692,6 +2025,64 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03715">3715</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_adf0c6da112c06d44e84bd66c4cc2a9b9_cgraph.png" border="0" usemap="#spellsuggest_8c_adf0c6da112c06d44e84bd66c4cc2a9b9_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_adf0c6da112c06d44e84bd66c4cc2a9b9_cgraph" id="spellsuggest_8c_adf0c6da112c06d44e84bd66c4cc2a9b9_cgraph">
+<area shape="rect" id="node2" href="misc2_8c.html#a0a3244deafa9c8a260e7e72f47732b6c" title="qsort" alt="" coords="222,1401,273,1428"/>
+<area shape="rect" id="node12" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="1471,667,1543,693"/>
+<area shape="rect" id="node50" href="spellsuggest_8c.html#aa188edec209bd7bed4b4c67389192104" title="sug_compare" alt="" coords="197,1452,297,1479"/>
+<area shape="rect" id="node3" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="371,1224,421,1251"/>
+<area shape="rect" id="node49" href="misc2_8c.html#aa1392ec3142a872eadc9ad888bec7757" title="sort_compare" alt="" coords="345,1655,447,1681"/>
+<area shape="rect" id="node4" href="misc2_8c.html#ad3a9b4acc984c110795e0251a175ba4c" title="lalloc" alt="" coords="495,920,547,947"/>
+<area shape="rect" id="node5" href="message_8c.html#a7926d7fa9a35dc0f5bac051dec01240a" title="iemsg" alt="" coords="980,135,1037,161"/>
+<area shape="rect" id="node15" href="os__amiga_8c.html#a6e92b08b7ae3c707b1db1ae998139368" title="mch_avail_mem" alt="" coords="595,996,712,1023"/>
+<area shape="rect" id="node16" href="message_8c.html#a3e064d85fa764215513e69b79a66318b" title="clear_sb_text" alt="" coords="959,1553,1059,1580"/>
+<area shape="rect" id="node17" href="memfile_8c.html#a4319e1f0749b4120f9e3528b225003d2" title="mf_release_all" alt="" coords="600,312,707,339"/>
+<area shape="rect" id="node24" href="misc2_8c.html#aa78bd2b6504d6815a6b474f73d0bfffc" title="do_outofmem_msg" alt="" coords="760,895,893,921"/>
+<area shape="rect" id="node6" href="message_8c.html#acb331402be1af5668813b9f0e1ba9b2c" title="emsg_not_now" alt="" coords="1128,135,1239,161"/>
+<area shape="rect" id="node8" href="message_8c.html#a1e980fe44bc1c9b3c06185b2b77ee4b9" title="emsg_core" alt="" coords="1140,185,1227,212"/>
+<area shape="rect" id="node7" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1315,59,1398,85"/>
+<area shape="rect" id="node9" href="message_8c.html#a21b5ffcf6012cbaa4ed765b191e071e4" title="ignore_error" alt="" coords="1311,211,1402,237"/>
+<area shape="rect" id="node10" href="message_8c.html#a084dafebcb70ccaab8b0c09dd836a6eb" title="msg_use_printf" alt="" coords="1301,261,1412,288"/>
+<area shape="rect" id="node11" href="ex__eval_8c.html#a2d67f4c6119ad646c4ebb8a6ecc57cc1" title="cause_errthrow" alt="" coords="1301,363,1412,389"/>
+<area shape="rect" id="node13" href="evalvars_8c.html#ad24dc360910df498ab3f75c5957e55b6" title="set_vim_var_string" alt="" coords="1291,109,1423,136"/>
+<area shape="rect" id="node14" href="message_8c.html#a701ffeff793261a605a4090e7c085a2d" title="msg_start" alt="" coords="1317,160,1397,187"/>
+<area shape="rect" id="node18" href="memline_8c.html#af02ef149bb7430fbe0cd031bbab8b3c2" title="ml_open_file" alt="" coords="779,185,874,212"/>
+<area shape="rect" id="node20" href="memfile_8c.html#ab225594ee6fc821ea71aa381f5786631" title="mf_write" alt="" coords="791,236,863,263"/>
+<area shape="rect" id="node21" href="memfile_8c.html#a1a462a5c7e40e94a86f75e06fb1f68e1" title="mf_rem_used" alt="" coords="776,287,877,313"/>
+<area shape="rect" id="node22" href="memfile_8c.html#a7478ec954fdf8ed27ffa14d896b4e2e4" title="mf_rem_hash" alt="" coords="776,337,877,364"/>
+<area shape="rect" id="node23" href="memfile_8c.html#a0cefda96e8c5f25cb0b3967c66035b98" title="mf_free_bhdr" alt="" coords="777,388,876,415"/>
+<area shape="rect" id="node19" href="message_8c.html#aeb2442b830699494f53059773212d850" title="semsg" alt="" coords="978,185,1039,212"/>
+<area shape="rect" id="node25" href="os__amiga_8c.html#acd4e72a371bf7c129e35ee6546077902" title="mch_exit" alt="" coords="971,1401,1046,1428"/>
+<area shape="rect" id="node26" href="autocmd_8c.html#a72d96ea10a9b77765cf2f19cdc82a12a" title="block_autocmds" alt="" coords="1125,1084,1242,1111"/>
+<area shape="rect" id="node27" href="ex__docmd_8c.html#a1cd9cfec39cf60a1ae5d3a4b76eebc61" title="do_cmdline_cmd" alt="" coords="949,540,1069,567"/>
+<area shape="rect" id="node28" href="spell_8c.html#a419ec741ebb63dbd0bfd4376a49b99cf" title="spell_free_all" alt="" coords="959,591,1058,617"/>
+<area shape="rect" id="node29" href="usercmd_8c.html#a249caebdb55a3ece5d06a543bcb17bf4" title="ex_comclear" alt="" coords="961,641,1057,668"/>
+<area shape="rect" id="node30" href="term_8c.html#ad012325baf6cdc6862c29130580f5a58" title="clear_termcodes" alt="" coords="1124,1199,1243,1225"/>
+<area shape="rect" id="node31" href="arglist_8c.html#a4268b93fcc0bb58c5fabb9d9ca71c4a9" title="alist_clear" alt="" coords="1316,1275,1397,1301"/>
+<area shape="rect" id="node32" href="sign_8c.html#a4b4be46d32838c95a1368f9c815330ec" title="free_signs" alt="" coords="967,692,1050,719"/>
+<area shape="rect" id="node33" href="register_8c.html#a51c72908e5b3c760e97874426c530a3d" title="set_expr_line" alt="" coords="1134,1351,1233,1377"/>
+<area shape="rect" id="node34" href="diff_8c.html#afe65fbd4a14587079ceeb62a206712eb" title="diff_clear" alt="" coords="1146,1452,1221,1479"/>
+<area shape="rect" id="node35" href="regexp_8c.html#ae85d66ec0c262d0e6c22766cd75e0287" title="vim_regfree" alt="" coords="1311,464,1402,491"/>
+<area shape="rect" id="node36" href="message_8c.html#a1adc86bbd012d6e33d3fddf074a31491" title="set_keep_msg" alt="" coords="1130,337,1237,364"/>
+<area shape="rect" id="node37" href="cmdhist_8c.html#a3b9830ecbd98de7ce0be571922d58286" title="init_history" alt="" coords="1314,565,1399,592"/>
+<area shape="rect" id="node38" href="quickfix_8c.html#a428a82150cfbd9d2adc1b4eaa5d71d83" title="qf_free_all" alt="" coords="967,743,1050,769"/>
+<area shape="rect" id="node39" href="buffer_8c.html#a4386414ec7244465469792b07a7b26d7" title="set_bufref" alt="" coords="1143,945,1223,972"/>
+<area shape="rect" id="node40" href="buffer_8c.html#a8cca20eba93671e6be1e1fe1b9072fcc" title="close_buffer" alt="" coords="962,996,1055,1023"/>
+<area shape="rect" id="node41" href="buffer_8c.html#a2dbb80dcac146a5e82d7823242a9d61b" title="bufref_valid" alt="" coords="1139,1008,1228,1035"/>
+<area shape="rect" id="node42" href="getchar_8c.html#ae2bf5846772fc579ea03d5d5cc06ec81" title="ResetRedobuff" alt="" coords="953,793,1064,820"/>
+<area shape="rect" id="node43" href="message_8c.html#a066010c6cfd986483f58e6d97ae11672" title="reset_last_sourcing" alt="" coords="941,844,1076,871"/>
+<area shape="rect" id="node44" href="window_8c.html#a6304c4b355fa4aa14056c0e06f3d2a84" title="free_tabpage" alt="" coords="960,1503,1057,1529"/>
+<area shape="rect" id="node45" href="message_8c.html#aa4126a2c3996cddd65da5621ebd3df4c" title="delete_first_msg" alt="" coords="1124,439,1243,465"/>
+<area shape="rect" id="node46" href="option_8c.html#a415c2c2532d0b22c90458ef166bfdfe1" title="free_termoptions" alt="" coords="949,1199,1068,1225"/>
+<area shape="rect" id="node47" href="screen_8c.html#ac2d84d0963228f7dcc393f00d3488086" title="free_screenlines" alt="" coords="950,895,1067,921"/>
+<area shape="rect" id="node48" href="highlight_8c.html#a10e4331a5b891cc0e269135fd07fc249" title="clear_hl_tables" alt="" coords="1302,667,1411,693"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a47767ce9a43417c3c312ec0a225248aa"></a>
@@ -1733,6 +2124,21 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l02659">2659</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a47767ce9a43417c3c312ec0a225248aa_cgraph.png" border="0" usemap="#spellsuggest_8c_a47767ce9a43417c3c312ec0a225248aa_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a47767ce9a43417c3c312ec0a225248aa_cgraph" id="spellsuggest_8c_a47767ce9a43417c3c312ec0a225248aa_cgraph">
+<area shape="rect" id="node2" href="spell_8c.html#aa027edb1b6551998884b7e9e84d69372" title="allcap_copy" alt="" coords="188,56,279,83"/>
+<area shape="rect" id="node3" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="327,56,456,83"/>
+<area shape="rect" id="node4" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="521,5,604,32"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="517,56,608,83"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="504,107,621,133"/>
+<area shape="rect" id="node7" href="mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="669,107,729,133"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -1812,6 +2218,43 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03660">3660</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_aeec2d42d7a26531ccf5c85b5c3ae1091_cgraph.png" border="0" usemap="#spellsuggest_8c_aeec2d42d7a26531ccf5c85b5c3ae1091_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_aeec2d42d7a26531ccf5c85b5c3ae1091_cgraph" id="spellsuggest_8c_aeec2d42d7a26531ccf5c85b5c3ae1091_cgraph">
+<area shape="rect" id="node2" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="303,387,415,414"/>
+<area shape="rect" id="node26" href="spellsuggest_8c.html#a1bac34b3e85e91d19e6d1c62a24185fc" title="stp_sal_score" alt="" coords="147,477,249,503"/>
+<area shape="rect" id="node29" href="spellsuggest_8c.html#aa188edec209bd7bed4b4c67389192104" title="sug_compare" alt="" coords="148,527,248,554"/>
+<area shape="rect" id="node3" href="spell_8c.html#ab56a9e7fc34aedaadaa856b6d62d1deb" title="spell_soundfold_sofo" alt="" coords="663,83,807,110"/>
+<area shape="rect" id="node13" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="489,337,594,363"/>
+<area shape="rect" id="node14" href="spell_8c.html#abe3c5bde90b3f127caa022dbcdae509a" title="spell_soundfold_wsal" alt="" coords="468,387,615,414"/>
+<area shape="rect" id="node22" href="spell_8c.html#af5620a3c515c15e53db41cdebfbef77e" title="spell_soundfold_sal" alt="" coords="473,438,609,465"/>
+<area shape="rect" id="node4" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="869,109,998,135"/>
+<area shape="rect" id="node9" href="mbyte_8c.html#a4d7fb58aae46f9d8535ca1a260974be7" title="utf_class" alt="" coords="896,235,971,262"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="1245,7,1327,34"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="1241,134,1331,161"/>
+<area shape="rect" id="node7" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="1065,185,1183,211"/>
+<area shape="rect" id="node8" href="mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="1414,235,1474,262"/>
+<area shape="rect" id="node10" href="mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="1236,235,1336,262"/>
+<area shape="rect" id="node11" href="charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="1384,286,1504,313"/>
+<area shape="rect" id="node12" href="mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="1552,337,1640,363"/>
+<area shape="rect" id="node15" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="667,489,803,515"/>
+<area shape="rect" id="node19" href="spell_8c.html#acf98416949884d5308d96b0b7778cfa2" title="spell_iswordp_w" alt="" coords="675,387,794,414"/>
+<area shape="rect" id="node20" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="892,311,975,338"/>
+<area shape="rect" id="node16" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="855,438,1012,465"/>
+<area shape="rect" id="node17" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="882,489,985,515"/>
+<area shape="rect" id="node18" href="mbyte_8c.html#ae242a847bc7d90805007de2faec56759" title="mb_get_class_buf" alt="" coords="1060,286,1188,313"/>
+<area shape="rect" id="node21" href="mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="1079,33,1169,59"/>
+<area shape="rect" id="node23" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="696,539,773,566"/>
+<area shape="rect" id="node24" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="688,590,781,617"/>
+<area shape="rect" id="node25" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="684,438,785,465"/>
+<area shape="rect" id="node27" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="315,539,403,566"/>
+<area shape="rect" id="node28" href="spellsuggest_8c.html#a073964095f532f0413d39ff67213ce6b" title="soundalike_score" alt="" coords="297,590,420,617"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="afbc8cbf6cde69d17f961f6575831ee97"></a>
@@ -1837,6 +2280,44 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03647">3647</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_afbc8cbf6cde69d17f961f6575831ee97_cgraph.png" border="0" usemap="#spellsuggest_8c_afbc8cbf6cde69d17f961f6575831ee97_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_afbc8cbf6cde69d17f961f6575831ee97_cgraph" id="spellsuggest_8c_afbc8cbf6cde69d17f961f6575831ee97_cgraph">
+<area shape="rect" id="node2" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="196,477,289,503"/>
+<area shape="rect" id="node3" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="493,387,605,414"/>
+<area shape="rect" id="node27" href="spellsuggest_8c.html#a1bac34b3e85e91d19e6d1c62a24185fc" title="stp_sal_score" alt="" coords="337,477,440,503"/>
+<area shape="rect" id="node30" href="spellsuggest_8c.html#aa188edec209bd7bed4b4c67389192104" title="sug_compare" alt="" coords="339,527,439,554"/>
+<area shape="rect" id="node4" href="spell_8c.html#ab56a9e7fc34aedaadaa856b6d62d1deb" title="spell_soundfold_sofo" alt="" coords="853,83,997,110"/>
+<area shape="rect" id="node14" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="679,337,785,363"/>
+<area shape="rect" id="node15" href="spell_8c.html#abe3c5bde90b3f127caa022dbcdae509a" title="spell_soundfold_wsal" alt="" coords="659,387,805,414"/>
+<area shape="rect" id="node23" href="spell_8c.html#af5620a3c515c15e53db41cdebfbef77e" title="spell_soundfold_sal" alt="" coords="664,438,800,465"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="1059,109,1189,135"/>
+<area shape="rect" id="node10" href="mbyte_8c.html#a4d7fb58aae46f9d8535ca1a260974be7" title="utf_class" alt="" coords="1087,235,1161,262"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="1435,7,1518,34"/>
+<area shape="rect" id="node7" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="1431,134,1522,161"/>
+<area shape="rect" id="node8" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="1256,185,1373,211"/>
+<area shape="rect" id="node9" href="mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="1605,235,1665,262"/>
+<area shape="rect" id="node11" href="mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="1427,235,1527,262"/>
+<area shape="rect" id="node12" href="charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="1575,286,1695,313"/>
+<area shape="rect" id="node13" href="mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="1743,337,1831,363"/>
+<area shape="rect" id="node16" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="857,489,993,515"/>
+<area shape="rect" id="node20" href="spell_8c.html#acf98416949884d5308d96b0b7778cfa2" title="spell_iswordp_w" alt="" coords="866,387,985,414"/>
+<area shape="rect" id="node21" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1083,311,1165,338"/>
+<area shape="rect" id="node17" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="1045,438,1203,465"/>
+<area shape="rect" id="node18" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="1073,489,1175,515"/>
+<area shape="rect" id="node19" href="mbyte_8c.html#ae242a847bc7d90805007de2faec56759" title="mb_get_class_buf" alt="" coords="1251,286,1379,313"/>
+<area shape="rect" id="node22" href="mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="1269,33,1360,59"/>
+<area shape="rect" id="node24" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="887,539,964,566"/>
+<area shape="rect" id="node25" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="879,590,972,617"/>
+<area shape="rect" id="node26" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="875,438,976,465"/>
+<area shape="rect" id="node28" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="505,539,593,566"/>
+<area shape="rect" id="node29" href="spellsuggest_8c.html#a073964095f532f0413d39ff67213ce6b" title="soundalike_score" alt="" coords="488,590,611,617"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -1864,6 +2345,64 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l02861">2861</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a17c78c1c612d2727251c571d11be7ee9_cgraph.png" border="0" usemap="#spellsuggest_8c_a17c78c1c612d2727251c571d11be7ee9_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a17c78c1c612d2727251c571d11be7ee9_cgraph" id="spellsuggest_8c_a17c78c1c612d2727251c571d11be7ee9_cgraph">
+<area shape="rect" id="node2" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="361,155,473,182"/>
+<area shape="rect" id="node23" href="spellsuggest_8c.html#a1bac34b3e85e91d19e6d1c62a24185fc" title="stp_sal_score" alt="" coords="185,371,287,398"/>
+<area shape="rect" id="node26" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="164,1118,308,1144"/>
+<area shape="rect" id="node30" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="564,1092,636,1119"/>
+<area shape="rect" id="node33" href="spellsuggest_8c.html#a9a22da62710e041c12368dd7a7379a05" title="spell_edit_score" alt="" coords="359,231,475,258"/>
+<area shape="rect" id="node36" href="spellsuggest_8c.html#afc6e67159e846e2041b05d32d184b75e" title="check_suggestions" alt="" coords="169,814,303,840"/>
+<area shape="rect" id="node46" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="1142,991,1213,1018"/>
+<area shape="rect" id="node48" href="misc2_8c.html#a3026bad36de32ad700cd165789e53508" title="ga_init2" alt="" coords="203,1028,269,1055"/>
+<area shape="rect" id="node50" href="misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="201,978,271,1004"/>
+<area shape="rect" id="node3" href="spell_8c.html#ab56a9e7fc34aedaadaa856b6d62d1deb" title="spell_soundfold_sofo" alt="" coords="721,28,865,55"/>
+<area shape="rect" id="node10" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="741,332,846,359"/>
+<area shape="rect" id="node11" href="spell_8c.html#abe3c5bde90b3f127caa022dbcdae509a" title="spell_soundfold_wsal" alt="" coords="527,79,673,106"/>
+<area shape="rect" id="node19" href="spell_8c.html#af5620a3c515c15e53db41cdebfbef77e" title="spell_soundfold_sal" alt="" coords="532,383,668,410"/>
+<area shape="rect" id="node4" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="927,332,1057,359"/>
+<area shape="rect" id="node8" href="mbyte_8c.html#a4d7fb58aae46f9d8535ca1a260974be7" title="utf_class" alt="" coords="955,28,1029,55"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="1291,484,1374,511"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="1132,383,1223,410"/>
+<area shape="rect" id="node7" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="1119,434,1236,460"/>
+<area shape="rect" id="node9" href="mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="1127,28,1227,55"/>
+<area shape="rect" id="node12" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="725,484,861,511"/>
+<area shape="rect" id="node15" href="spell_8c.html#acf98416949884d5308d96b0b7778cfa2" title="spell_iswordp_w" alt="" coords="734,79,853,106"/>
+<area shape="rect" id="node16" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="951,383,1033,410"/>
+<area shape="rect" id="node13" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="913,434,1071,460"/>
+<area shape="rect" id="node14" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="941,484,1043,511"/>
+<area shape="rect" id="node18" href="mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="948,79,1036,106"/>
+<area shape="rect" id="node17" href="mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="1132,484,1223,511"/>
+<area shape="rect" id="node20" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="755,434,832,460"/>
+<area shape="rect" id="node21" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="747,586,840,612"/>
+<area shape="rect" id="node22" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="743,535,844,562"/>
+<area shape="rect" id="node24" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="373,383,461,410"/>
+<area shape="rect" id="node25" href="spellsuggest_8c.html#a073964095f532f0413d39ff67213ce6b" title="soundalike_score" alt="" coords="356,332,479,359"/>
+<area shape="rect" id="node27" href="misc2_8c.html#a0a3244deafa9c8a260e7e72f47732b6c" title="qsort" alt="" coords="392,1092,443,1119"/>
+<area shape="rect" id="node32" href="spellsuggest_8c.html#aa188edec209bd7bed4b4c67389192104" title="sug_compare" alt="" coords="367,1143,467,1170"/>
+<area shape="rect" id="node28" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="769,940,818,967"/>
+<area shape="rect" id="node31" href="misc2_8c.html#aa1392ec3142a872eadc9ad888bec7757" title="sort_compare" alt="" coords="549,1194,651,1220"/>
+<area shape="rect" id="node29" href="misc2_8c.html#ad3a9b4acc984c110795e0251a175ba4c" title="lalloc" alt="" coords="966,940,1018,967"/>
+<area shape="rect" id="node34" href="spellsuggest_8c.html#ac41a3249fc510891b2781ba1c10465a3" title="similar_chars" alt="" coords="551,231,649,258"/>
+<area shape="rect" id="node35" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="754,282,833,308"/>
+<area shape="rect" id="node37" href="spell_8c.html#a1a15c33e24e249822f48f85a14764c61" title="spell_check" alt="" coords="372,788,463,815"/>
+<area shape="rect" id="node38" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="1284,1016,1381,1043"/>
+<area shape="rect" id="node39" href="charset_8c.html#a35a186fa599127c504712833cd871506" title="skipbin" alt="" coords="569,738,631,764"/>
+<area shape="rect" id="node40" href="charset_8c.html#a905848305c8b461121d58eae440e70c0" title="skiphex" alt="" coords="567,788,633,815"/>
+<area shape="rect" id="node41" href="charset_8c.html#a3b21cf6150be4559ab6fd90593f300c0" title="skipdigits" alt="" coords="561,940,639,967"/>
+<area shape="rect" id="node42" href="spell_8c.html#a40e1c4fecec8a1f2dab7928cd51b3017" title="find_word" alt="" coords="561,636,639,663"/>
+<area shape="rect" id="node43" href="spell_8c.html#ab79a58e4d8bbbaa2e26fc28cffce804c" title="find_prefix" alt="" coords="752,636,835,663"/>
+<area shape="rect" id="node44" href="spell_8c.html#af79a3745912a5972c83b97fe16b992e5" title="count_common_word" alt="" coords="527,839,673,866"/>
+<area shape="rect" id="node45" href="regexp__bt_8c.html#a8c84017ae5b6830cd8a93599acbf3d05" title="regmatch" alt="" coords="954,535,1030,562"/>
+<area shape="rect" id="node47" href="regexp_8c.html#abefc0928e7264f306f6149e3c5bdb074" title="vim_regexec" alt="" coords="552,991,648,1018"/>
+<area shape="rect" id="node49" href="misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="387,1028,447,1055"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a4066eed8be76a8d4466c94b9da18bde7"></a>
@@ -1889,6 +2428,64 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l02807">2807</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a4066eed8be76a8d4466c94b9da18bde7_cgraph.png" border="0" usemap="#spellsuggest_8c_a4066eed8be76a8d4466c94b9da18bde7_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a4066eed8be76a8d4466c94b9da18bde7_cgraph" id="spellsuggest_8c_a4066eed8be76a8d4466c94b9da18bde7_cgraph">
+<area shape="rect" id="node2" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="182,159,253,186"/>
+<area shape="rect" id="node4" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="733,210,845,236"/>
+<area shape="rect" id="node28" href="spellsuggest_8c.html#a1bac34b3e85e91d19e6d1c62a24185fc" title="stp_sal_score" alt="" coords="565,260,667,287"/>
+<area shape="rect" id="node31" href="misc2_8c.html#acd554ee46804f666060916bf740b3c96" title="vim_strsave" alt="" coords="171,412,264,439"/>
+<area shape="rect" id="node3" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="312,159,409,186"/>
+<area shape="rect" id="node5" href="spell_8c.html#ab56a9e7fc34aedaadaa856b6d62d1deb" title="spell_soundfold_sofo" alt="" coords="1099,32,1243,59"/>
+<area shape="rect" id="node15" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="925,108,1030,135"/>
+<area shape="rect" id="node16" href="spell_8c.html#abe3c5bde90b3f127caa022dbcdae509a" title="spell_soundfold_wsal" alt="" coords="904,210,1051,236"/>
+<area shape="rect" id="node24" href="spell_8c.html#af5620a3c515c15e53db41cdebfbef77e" title="spell_soundfold_sal" alt="" coords="909,336,1045,363"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="1305,83,1434,110"/>
+<area shape="rect" id="node11" href="mbyte_8c.html#a4d7fb58aae46f9d8535ca1a260974be7" title="utf_class" alt="" coords="1332,134,1407,160"/>
+<area shape="rect" id="node7" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="1681,286,1763,312"/>
+<area shape="rect" id="node8" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="1677,336,1767,363"/>
+<area shape="rect" id="node9" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="1501,83,1619,110"/>
+<area shape="rect" id="node10" href="mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="1850,286,1910,312"/>
+<area shape="rect" id="node12" href="mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="1672,387,1772,414"/>
+<area shape="rect" id="node13" href="charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="1820,387,1940,414"/>
+<area shape="rect" id="node14" href="mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="1988,387,2076,414"/>
+<area shape="rect" id="node17" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="1103,286,1239,312"/>
+<area shape="rect" id="node21" href="spell_8c.html#acf98416949884d5308d96b0b7778cfa2" title="spell_iswordp_w" alt="" coords="1111,184,1230,211"/>
+<area shape="rect" id="node22" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1328,336,1411,363"/>
+<area shape="rect" id="node18" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="1291,286,1448,312"/>
+<area shape="rect" id="node19" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="1318,438,1421,464"/>
+<area shape="rect" id="node20" href="mbyte_8c.html#ae242a847bc7d90805007de2faec56759" title="mb_get_class_buf" alt="" coords="1496,438,1624,464"/>
+<area shape="rect" id="node23" href="mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="1515,286,1605,312"/>
+<area shape="rect" id="node25" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="1132,387,1209,414"/>
+<area shape="rect" id="node26" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="1124,488,1217,515"/>
+<area shape="rect" id="node27" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="1120,438,1221,464"/>
+<area shape="rect" id="node29" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="745,311,833,338"/>
+<area shape="rect" id="node30" href="spellsuggest_8c.html#a073964095f532f0413d39ff67213ce6b" title="soundalike_score" alt="" coords="728,260,851,287"/>
+<area shape="rect" id="node32" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="336,514,385,540"/>
+<area shape="rect" id="node33" href="misc2_8c.html#ad3a9b4acc984c110795e0251a175ba4c" title="lalloc" alt="" coords="457,564,509,591"/>
+<area shape="rect" id="node34" href="message_8c.html#a7926d7fa9a35dc0f5bac051dec01240a" title="iemsg" alt="" coords="949,539,1006,566"/>
+<area shape="rect" id="node38" href="os__amiga_8c.html#a6e92b08b7ae3c707b1db1ae998139368" title="mch_avail_mem" alt="" coords="557,539,675,566"/>
+<area shape="rect" id="node39" href="message_8c.html#a3e064d85fa764215513e69b79a66318b" title="clear_sb_text" alt="" coords="927,919,1027,946"/>
+<area shape="rect" id="node40" href="memfile_8c.html#a4319e1f0749b4120f9e3528b225003d2" title="mf_release_all" alt="" coords="563,590,669,616"/>
+<area shape="rect" id="node47" href="misc2_8c.html#aa78bd2b6504d6815a6b474f73d0bfffc" title="do_outofmem_msg" alt="" coords="723,767,856,794"/>
+<area shape="rect" id="node35" href="message_8c.html#acb331402be1af5668813b9f0e1ba9b2c" title="emsg_not_now" alt="" coords="1115,539,1226,566"/>
+<area shape="rect" id="node36" href="message_8c.html#a1e980fe44bc1c9b3c06185b2b77ee4b9" title="emsg_core" alt="" coords="1127,590,1214,616"/>
+<area shape="rect" id="node37" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="1333,691,1405,718"/>
+<area shape="rect" id="node41" href="memline_8c.html#af02ef149bb7430fbe0cd031bbab8b3c2" title="ml_open_file" alt="" coords="742,488,837,515"/>
+<area shape="rect" id="node43" href="memfile_8c.html#ab225594ee6fc821ea71aa381f5786631" title="mf_write" alt="" coords="753,539,825,566"/>
+<area shape="rect" id="node44" href="memfile_8c.html#a1a462a5c7e40e94a86f75e06fb1f68e1" title="mf_rem_used" alt="" coords="739,590,840,616"/>
+<area shape="rect" id="node45" href="memfile_8c.html#a7478ec954fdf8ed27ffa14d896b4e2e4" title="mf_rem_hash" alt="" coords="739,640,840,667"/>
+<area shape="rect" id="node46" href="memfile_8c.html#a0cefda96e8c5f25cb0b3967c66035b98" title="mf_free_bhdr" alt="" coords="1121,666,1220,692"/>
+<area shape="rect" id="node42" href="message_8c.html#aeb2442b830699494f53059773212d850" title="semsg" alt="" coords="947,590,1008,616"/>
+<area shape="rect" id="node48" href="os__amiga_8c.html#acd4e72a371bf7c129e35ee6546077902" title="mch_exit" alt="" coords="940,868,1015,895"/>
+<area shape="rect" id="node49" href="autocmd_8c.html#a72d96ea10a9b77765cf2f19cdc82a12a" title="block_autocmds" alt="" coords="919,767,1036,794"/>
+<area shape="rect" id="node50" href="ex__docmd_8c.html#a1cd9cfec39cf60a1ae5d3a4b76eebc61" title="do_cmdline_cmd" alt="" coords="917,818,1037,844"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -1938,6 +2535,18 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l00271">271</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_af7ec09d5fb0f682ec35d71163b036e0e_cgraph.png" border="0" usemap="#spellsuggest_8c_af7ec09d5fb0f682ec35d71163b036e0e_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_af7ec09d5fb0f682ec35d71163b036e0e_cgraph" id="spellsuggest_8c_af7ec09d5fb0f682ec35d71163b036e0e_cgraph">
+<area shape="rect" id="node2" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="199,31,277,57"/>
+<area shape="rect" id="node3" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="325,5,420,32"/>
+<area shape="rect" id="node4" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="330,56,415,83"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="ac41a3249fc510891b2781ba1c10465a3"></a>
@@ -1979,6 +2588,18 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03415">3415</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_ac41a3249fc510891b2781ba1c10465a3_cgraph.png" border="0" usemap="#spellsuggest_8c_ac41a3249fc510891b2781ba1c10465a3_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_ac41a3249fc510891b2781ba1c10465a3_cgraph" id="spellsuggest_8c_ac41a3249fc510891b2781ba1c10465a3_cgraph">
+<area shape="rect" id="node2" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="152,31,231,57"/>
+<area shape="rect" id="node3" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="279,5,373,32"/>
+<area shape="rect" id="node4" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="283,56,369,83"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -2070,6 +2691,23 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l00403">403</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a3f9197342e28cd4553896642840cfa0f_cgraph.png" border="0" usemap="#spellsuggest_8c_a3f9197342e28cd4553896642840cfa0f_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a3f9197342e28cd4553896642840cfa0f_cgraph" id="spellsuggest_8c_a3f9197342e28cd4553896642840cfa0f_cgraph">
+<area shape="rect" id="node2" href="misc2_8c.html#a2c53531dd0451dcef1ae39403b49ee67" title="copy_option_part" alt="" coords="172,81,293,108"/>
+<area shape="rect" id="node8" href="charset_8c.html#ad81a749470a4c63eab4e9dea315f2819" title="getdigits" alt="" coords="197,132,268,159"/>
+<area shape="rect" id="node3" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="367,31,450,57"/>
+<area shape="rect" id="node7" href="misc1_8c.html#a5b68c35acc590eab437adf3fe74fa02d" title="skip_to_option_part" alt="" coords="341,81,476,108"/>
+<area shape="rect" id="node4" href="mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="524,5,615,32"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="524,56,615,83"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="663,5,745,32"/>
+<area shape="rect" id="node9" href="charset_8c.html#a3b21cf6150be4559ab6fd90593f300c0" title="skipdigits" alt="" coords="370,132,447,159"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a9a22da62710e041c12368dd7a7379a05"></a>
@@ -2111,6 +2749,25 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03973">3973</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a9a22da62710e041c12368dd7a7379a05_cgraph.png" border="0" usemap="#spellsuggest_8c_a9a22da62710e041c12368dd7a7379a05_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a9a22da62710e041c12368dd7a7379a05_cgraph" id="spellsuggest_8c_a9a22da62710e041c12368dd7a7379a05_cgraph">
+<area shape="rect" id="node2" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="169,81,299,108"/>
+<area shape="rect" id="node7" href="spellsuggest_8c.html#ac41a3249fc510891b2781ba1c10465a3" title="similar_chars" alt="" coords="185,144,283,171"/>
+<area shape="rect" id="node11" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="198,195,270,221"/>
+<area shape="rect" id="node3" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="364,5,447,32"/>
+<area shape="rect" id="node4" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="360,56,451,83"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="347,107,464,133"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="529,107,589,133"/>
+<area shape="rect" id="node8" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="366,157,445,184"/>
+<area shape="rect" id="node9" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="512,157,607,184"/>
+<area shape="rect" id="node10" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="517,208,602,235"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -2160,6 +2817,25 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l04098">4098</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_aab052af723538d9d9c24105f098860b5_cgraph.png" border="0" usemap="#spellsuggest_8c_aab052af723538d9d9c24105f098860b5_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_aab052af723538d9d9c24105f098860b5_cgraph" id="spellsuggest_8c_aab052af723538d9d9c24105f098860b5_cgraph">
+<area shape="rect" id="node2" href="spellsuggest_8c.html#a84210ea1f382eef26dd321e962ec965f" title="spell_edit_score_limit_w" alt="" coords="200,95,364,121"/>
+<area shape="rect" id="node8" href="spellsuggest_8c.html#ac41a3249fc510891b2781ba1c10465a3" title="similar_chars" alt="" coords="427,145,526,172"/>
+<area shape="rect" id="node3" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="412,69,541,96"/>
+<area shape="rect" id="node4" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="607,5,689,32"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="603,56,693,83"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="589,107,707,133"/>
+<area shape="rect" id="node7" href="mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="772,107,832,133"/>
+<area shape="rect" id="node9" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="609,157,687,184"/>
+<area shape="rect" id="node10" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="755,157,849,184"/>
+<area shape="rect" id="node11" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="759,208,845,235"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a84210ea1f382eef26dd321e962ec965f"></a>
@@ -2208,6 +2884,24 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l04273">4273</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a84210ea1f382eef26dd321e962ec965f_cgraph.png" border="0" usemap="#spellsuggest_8c_a84210ea1f382eef26dd321e962ec965f_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a84210ea1f382eef26dd321e962ec965f_cgraph" id="spellsuggest_8c_a84210ea1f382eef26dd321e962ec965f_cgraph">
+<area shape="rect" id="node2" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="217,107,347,133"/>
+<area shape="rect" id="node7" href="spellsuggest_8c.html#ac41a3249fc510891b2781ba1c10465a3" title="similar_chars" alt="" coords="233,157,331,184"/>
+<area shape="rect" id="node3" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="412,5,495,32"/>
+<area shape="rect" id="node4" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="408,56,499,83"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="395,107,512,133"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="577,107,637,133"/>
+<area shape="rect" id="node8" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="414,157,493,184"/>
+<area shape="rect" id="node9" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="560,157,655,184"/>
+<area shape="rect" id="node10" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="565,208,650,235"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a101028bb724f8263a5c0b67bd67fe53d"></a>
@@ -2233,6 +2927,20 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l01051">1051</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a101028bb724f8263a5c0b67bd67fe53d_cgraph.png" border="0" usemap="#spellsuggest_8c_a101028bb724f8263a5c0b67bd67fe53d_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a101028bb724f8263a5c0b67bd67fe53d_cgraph" id="spellsuggest_8c_a101028bb724f8263a5c0b67bd67fe53d_cgraph">
+<area shape="rect" id="node2" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="469,56,541,83"/>
+<area shape="rect" id="node3" href="misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="200,31,271,58"/>
+<area shape="rect" id="node5" href="hashtab_8c.html#a796dd83f3a8c24f46b52fc4fc55f7c69" title="hash_clear_all" alt="" coords="183,107,288,134"/>
+<area shape="rect" id="node4" href="misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="349,56,409,83"/>
+<area shape="rect" id="node6" href="hashtab_8c.html#a82320ef8ee0783629a0cab3a74586b75" title="hash_clear" alt="" coords="336,158,421,184"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -2300,6 +3008,64 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l00742">742</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a86c105bab59d2110195a9ddc8b63dacd_cgraph.png" border="0" usemap="#spellsuggest_8c_a86c105bab59d2110195a9ddc8b63dacd_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a86c105bab59d2110195a9ddc8b63dacd_cgraph" id="spellsuggest_8c_a86c105bab59d2110195a9ddc8b63dacd_cgraph">
+<area shape="rect" id="node2" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="773,81,871,108"/>
+<area shape="rect" id="node3" href="misc2_8c.html#a3026bad36de32ad700cd165789e53508" title="ga_init2" alt="" coords="607,816,673,843"/>
+<area shape="rect" id="node5" href="hashtab_8c.html#a1e75fcb634cc34f2a968e47d1b37381a" title="hash_init" alt="" coords="217,5,292,32"/>
+<area shape="rect" id="node6" href="spell_8c.html#a1a15c33e24e249822f48f85a14764c61" title="spell_check" alt="" coords="209,411,300,437"/>
+<area shape="rect" id="node12" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="953,1221,1058,1248"/>
+<area shape="rect" id="node17" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="1148,816,1241,843"/>
+<area shape="rect" id="node27" href="spellsuggest_8c.html#aa2470cff8a1c4db8937f4f2b67698ff1" title="badword_captype" alt="" coords="193,639,317,665"/>
+<area shape="rect" id="node28" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="766,1069,878,1096"/>
+<area shape="rect" id="node32" href="spell_8c.html#a0c36e73cd1ee3f266eb552dea1fce86d" title="make_case_word" alt="" coords="760,1627,884,1653"/>
+<area shape="rect" id="node35" href="spellsuggest_8c.html#a5186b2cdb0d059bc12d57e30932fd098" title="add_suggestion" alt="" coords="390,1069,503,1096"/>
+<area shape="rect" id="node39" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="786,968,858,995"/>
+<area shape="rect" id="node40" href="spellsuggest_8c.html#a118e0368d6d0a515f78a2b7ed0a403a6" title="add_banned" alt="" coords="401,1272,493,1299"/>
+<area shape="rect" id="node41" href="misc2_8c.html#acd554ee46804f666060916bf740b3c96" title="vim_strsave" alt="" coords="593,1475,687,1501"/>
+<area shape="rect" id="node42" href="misc2_8c.html#a2c53531dd0451dcef1ae39403b49ee67" title="copy_option_part" alt="" coords="194,1779,315,1805"/>
+<area shape="rect" id="node44" href="spellsuggest_8c.html#ab893102ac459bc9418cb5abc31fe34b8" title="spell_suggest_expr" alt="" coords="187,1500,322,1527"/>
+<area shape="rect" id="node48" href="spellsuggest_8c.html#a4ad143655cb94bf6fc97fc827982a1fa" title="spell_suggest_file" alt="" coords="191,1019,318,1045"/>
+<area shape="rect" id="node49" href="spellsuggest_8c.html#ae8d0a554c3c4362ca0c6e619c18c61a7" title="spell_suggest_intern" alt="" coords="184,968,325,995"/>
+<area shape="rect" id="node50" href="spellsuggest_8c.html#a17c78c1c612d2727251c571d11be7ee9" title="score_combine" alt="" coords="391,867,502,893"/>
+<area shape="rect" id="node4" href="misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="792,867,852,893"/>
+<area shape="rect" id="node7" href="charset_8c.html#a35a186fa599127c504712833cd871506" title="skipbin" alt="" coords="415,208,478,235"/>
+<area shape="rect" id="node8" href="charset_8c.html#a905848305c8b461121d58eae440e70c0" title="skiphex" alt="" coords="413,309,480,336"/>
+<area shape="rect" id="node9" href="charset_8c.html#a3b21cf6150be4559ab6fd90593f300c0" title="skipdigits" alt="" coords="408,360,485,387"/>
+<area shape="rect" id="node10" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="1144,588,1245,615"/>
+<area shape="rect" id="node14" href="spell_8c.html#a40e1c4fecec8a1f2dab7928cd51b3017" title="find_word" alt="" coords="783,563,861,589"/>
+<area shape="rect" id="node16" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="1127,664,1263,691"/>
+<area shape="rect" id="node18" href="spell_8c.html#ab79a58e4d8bbbaa2e26fc28cffce804c" title="find_prefix" alt="" coords="964,512,1047,539"/>
+<area shape="rect" id="node19" href="spell_8c.html#af79a3745912a5972c83b97fe16b992e5" title="count_common_word" alt="" coords="373,1221,520,1248"/>
+<area shape="rect" id="node24" href="regexp__bt_8c.html#a8c84017ae5b6830cd8a93599acbf3d05" title="regmatch" alt="" coords="409,157,485,184"/>
+<area shape="rect" id="node26" href="regexp_8c.html#abefc0928e7264f306f6149e3c5bdb074" title="vim_regexec" alt="" coords="399,259,495,285"/>
+<area shape="rect" id="node11" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1311,1069,1393,1096"/>
+<area shape="rect" id="node13" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="1130,1221,1259,1248"/>
+<area shape="rect" id="node15" href="spell_8c.html#abc3990dd37bd9fc90bcd9b533c1ca062" title="captype" alt="" coords="971,664,1039,691"/>
+<area shape="rect" id="node20" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="597,1424,683,1451"/>
+<area shape="rect" id="node21" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="593,1323,687,1349"/>
+<area shape="rect" id="node22" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="797,1272,847,1299"/>
+<area shape="rect" id="node23" href="hashtab_8c.html#a9915fceb0d7010855e662d55e9f342bd" title="hash_add_item" alt="" coords="585,1373,695,1400"/>
+<area shape="rect" id="node25" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="605,664,675,691"/>
+<area shape="rect" id="node29" href="spell_8c.html#ab56a9e7fc34aedaadaa856b6d62d1deb" title="spell_soundfold_sofo" alt="" coords="933,1120,1077,1147"/>
+<area shape="rect" id="node30" href="spell_8c.html#abe3c5bde90b3f127caa022dbcdae509a" title="spell_soundfold_wsal" alt="" coords="932,1069,1079,1096"/>
+<area shape="rect" id="node31" href="spell_8c.html#af5620a3c515c15e53db41cdebfbef77e" title="spell_soundfold_sal" alt="" coords="937,715,1073,741"/>
+<area shape="rect" id="node33" href="spell_8c.html#aa027edb1b6551998884b7e9e84d69372" title="allcap_copy" alt="" coords="960,1475,1051,1501"/>
+<area shape="rect" id="node34" href="spell_8c.html#aa1a40bd942c4c476aac46aebd8e48287" title="onecap_copy" alt="" coords="956,1272,1055,1299"/>
+<area shape="rect" id="node36" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="593,1069,687,1096"/>
+<area shape="rect" id="node37" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="590,1221,690,1248"/>
+<area shape="rect" id="node38" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="568,1019,712,1045"/>
+<area shape="rect" id="node43" href="misc1_8c.html#a5b68c35acc590eab437adf3fe74fa02d" title="skip_to_option_part" alt="" coords="379,1779,514,1805"/>
+<area shape="rect" id="node45" href="evalvars_8c.html#a02f3181fa54ccdde3bd01827bc8163bd" title="eval_spell_expr" alt="" coords="391,1576,503,1603"/>
+<area shape="rect" id="node46" href="evalvars_8c.html#a852a18c3f08c21ffacc479b7d663c4e3" title="get_spellword" alt="" coords="395,1627,498,1653"/>
+<area shape="rect" id="node47" href="list_8c.html#afc162d62647fe768e612ff347b2357cf" title="list_unref" alt="" coords="409,1525,484,1552"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a9ab92825d7a09f93749ab319d52f41e2"></a>
@@ -2317,6 +3083,64 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l00458">458</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a9ab92825d7a09f93749ab319d52f41e2_cgraph.png" border="0" usemap="#spellsuggest_8c_a9ab92825d7a09f93749ab319d52f41e2_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a9ab92825d7a09f93749ab319d52f41e2_cgraph" id="spellsuggest_8c_a9ab92825d7a09f93749ab319d52f41e2_cgraph">
+<area shape="rect" id="node2" href="spell_8c.html#acfb808c6d1f8bec57333cb88dbfb3f1e" title="no_spell_checking" alt="" coords="369,701,499,728"/>
+<area shape="rect" id="node4" href="misc1_8c.html#afa93ecfab56a9c785ce453c6df7c4227" title="vim_beep" alt="" coords="395,347,473,373"/>
+<area shape="rect" id="node12" href="message_8c.html#a37c7afb3d11a1f550645b8be149618e4" title="msg_clr_eos" alt="" coords="893,43,989,69"/>
+<area shape="rect" id="node13" href="message_8c.html#a701ffeff793261a605a4090e7c085a2d" title="msg_start" alt="" coords="749,93,829,120"/>
+<area shape="rect" id="node14" href="message_8c.html#ae0edfa8d1999c41726a759fd06a1ab6e" title="msg_putchar" alt="" coords="892,1461,989,1488"/>
+<area shape="rect" id="node18" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="753,904,825,931"/>
+<area shape="rect" id="node19" href="misc2_8c.html#acd554ee46804f666060916bf740b3c96" title="vim_strsave" alt="" coords="742,701,835,728"/>
+<area shape="rect" id="node20" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="916,1208,965,1235"/>
+<area shape="rect" id="node21" href="normal_8c.html#a8f74875f4dd3322be33dd207d22762e0" title="end_visual_mode" alt="" coords="176,1664,299,1691"/>
+<area shape="rect" id="node26" href="spell_8c.html#a71ccdc4a2921f6eca9f138a2637219be" title="spell_move_to" alt="" coords="184,1056,291,1083"/>
+<area shape="rect" id="node29" href="spell_8c.html#a8830831012680a6257fef60c436f71eb" title="check_need_cap" alt="" coords="374,1208,494,1235"/>
+<area shape="rect" id="node30" href="memline_8c.html#a8942569e896707801271476ee05853f8" title="ml_get_curline" alt="" coords="564,1309,671,1336"/>
+<area shape="rect" id="node31" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="549,1259,685,1285"/>
+<area shape="rect" id="node33" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="571,701,664,728"/>
+<area shape="rect" id="node34" href="misc1_8c.html#a8086f25f5f93d29a9bdd62f5a3e3b901" title="beep_flush" alt="" coords="195,473,280,500"/>
+<area shape="rect" id="node35" href="spellsuggest_8c.html#a86c105bab59d2110195a9ddc8b63dacd" title="spell_find_suggest" alt="" coords="369,803,499,829"/>
+<area shape="rect" id="node36" href="message_8c.html#a6a5cfaa40c91127e2434c14cddb955b6" title="msg" alt="" coords="214,1715,261,1741"/>
+<area shape="rect" id="node37" href="message_8c.html#a9475d91e06c3a6d7d370ef54c0589f71" title="smsg" alt="" coords="210,1765,265,1792"/>
+<area shape="rect" id="node38" href="message_8c.html#a3fb83ee5435e868683ecb3e44020f3b2" title="vim_snprintf" alt="" coords="191,1816,284,1843"/>
+<area shape="rect" id="node39" href="message_8c.html#a0db479cde321ca12b8d84a53196454ad" title="msg_puts" alt="" coords="395,1563,473,1589"/>
+<area shape="rect" id="node40" href="message_8c.html#a1be7dcccb8daf25bba3e78479802251e" title="msg_advance" alt="" coords="737,1512,840,1539"/>
+<area shape="rect" id="node41" href="misc1_8c.html#a5cc24eb9984496c6508b6eec8c8c2506" title="prompt_for_number" alt="" coords="170,1613,305,1640"/>
+<area shape="rect" id="node42" href="undo_8c.html#a87c3205cde8e5b77ba68eaf166ab252f" title="u_save_cursor" alt="" coords="184,1867,291,1893"/>
+<area shape="rect" id="node43" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="739,1411,839,1437"/>
+<area shape="rect" id="node44" href="memline_8c.html#a20133d6ad47e916b5e0512833896d5fe" title="ml_replace" alt="" coords="195,1917,280,1944"/>
+<area shape="rect" id="node45" href="getchar_8c.html#ae2bf5846772fc579ea03d5d5cc06ec81" title="ResetRedobuff" alt="" coords="182,1968,293,1995"/>
+<area shape="rect" id="node46" href="getchar_8c.html#a903b16b7d9c7c5fb44e6fb64fe57fa6e" title="AppendToRedobuff" alt="" coords="170,2019,305,2045"/>
+<area shape="rect" id="node47" href="getchar_8c.html#a0fb32bbd744935eefe981320ed37bd97" title="AppendToRedobuffLit" alt="" coords="163,2069,311,2096"/>
+<area shape="rect" id="node48" href="getchar_8c.html#a28ce387f3d104fad5b86abb68dd11a15" title="AppendCharToRedobuff" alt="" coords="156,2120,319,2147"/>
+<area shape="rect" id="node49" href="change_8c.html#a5a550c3258ab9de91aadfde5cfd57995" title="changed_bytes" alt="" coords="182,2171,293,2197"/>
+<area shape="rect" id="node50" href="spellsuggest_8c.html#a101028bb724f8263a5c0b67bd67fe53d" title="spell_find_cleanup" alt="" coords="369,955,499,981"/>
+<area shape="rect" id="node3" href="message_8c.html#ae5991a4d11897dfaee9bfab8e5489d82" title="emsg" alt="" coords="590,600,645,627"/>
+<area shape="rect" id="node5" href="term_8c.html#a16ee969dbece201b65b36a08ea9ac047" title="out_str_cf" alt="" coords="577,296,657,323"/>
+<area shape="rect" id="node6" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="747,448,830,475"/>
+<area shape="rect" id="node7" href="os__win32_8c.html#ab2f271bf27ab3bdfa91f3022e2329b9d" title="has_vtp_working" alt="" coords="557,245,677,272"/>
+<area shape="rect" id="node8" href="drawscreen_8c.html#aaa48e8afa3ee70c690d5ed45b018d0a0" title="redraw_later" alt="" coords="742,195,835,221"/>
+<area shape="rect" id="node9" href="drawscreen_8c.html#a81c096fb8da4688bbc2ba5fd8275e0bb" title="update_screen" alt="" coords="564,397,671,424"/>
+<area shape="rect" id="node11" href="ex__getln_8c.html#adf955388acd9c413202d90850290b2e5" title="redrawcmd" alt="" coords="574,93,661,120"/>
+<area shape="rect" id="node15" href="term_8c.html#a21e6735866ee176008eb91fb8ab07e39" title="out_char" alt="" coords="581,347,653,373"/>
+<area shape="rect" id="node16" href="message_8c.html#a8fba68755b6f0632589492cc06daa673" title="msg_source" alt="" coords="571,499,664,525"/>
+<area shape="rect" id="node17" href="message_8c.html#a29b0e37f9886d0ccb9a14bbad62f64f6" title="msg_attr" alt="" coords="752,347,825,373"/>
+<area shape="rect" id="node10" href="syntax_8c.html#a2d58114d0eee1bdd1fcf096622d5f52e" title="syntax_present" alt="" coords="733,600,844,627"/>
+<area shape="rect" id="node22" href="mouse_8c.html#ac9bb8d279ccb90969a42e1241d2d5418" title="setmouse" alt="" coords="395,1613,473,1640"/>
+<area shape="rect" id="node23" href="misc2_8c.html#ad53fe5f53eda7f02128d6cd0b10a3b10" title="virtual_active" alt="" coords="385,1664,483,1691"/>
+<area shape="rect" id="node24" href="normal_8c.html#a17b7067c93221cdb04280553472e51a7" title="may_clear_cmdline" alt="" coords="367,1715,501,1741"/>
+<area shape="rect" id="node25" href="ops_8c.html#a2cc9206626a4aad7c186bf40d4b7993f" title="adjust_cursor_eol" alt="" coords="372,1765,496,1792"/>
+<area shape="rect" id="node27" href="memline_8c.html#a5efa31d210327048f60b8b00586e2a8c" title="ml_get_buf" alt="" coords="745,1208,832,1235"/>
+<area shape="rect" id="node28" href="charset_8c.html#abd974f2734e0ef047eb81fb07b3b4ce7" title="getwhitecols" alt="" coords="570,1157,665,1184"/>
+<area shape="rect" id="node32" href="spell_8c.html#a257bd2162bb9a58970de976e3d58b818" title="spell_cat_line" alt="" coords="383,752,485,779"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -2354,6 +3178,64 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l00877">877</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_ab893102ac459bc9418cb5abc31fe34b8_cgraph.png" border="0" usemap="#spellsuggest_8c_ab893102ac459bc9418cb5abc31fe34b8_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_ab893102ac459bc9418cb5abc31fe34b8_cgraph" id="spellsuggest_8c_ab893102ac459bc9418cb5abc31fe34b8_cgraph">
+<area shape="rect" id="node2" href="evalvars_8c.html#a02f3181fa54ccdde3bd01827bc8163bd" title="eval_spell_expr" alt="" coords="188,487,300,513"/>
+<area shape="rect" id="node12" href="list_8c.html#afc162d62647fe768e612ff347b2357cf" title="list_unref" alt="" coords="925,664,1000,691"/>
+<area shape="rect" id="node29" href="evalvars_8c.html#a852a18c3f08c21ffacc479b7d663c4e3" title="get_spellword" alt="" coords="193,157,295,184"/>
+<area shape="rect" id="node33" href="spellsuggest_8c.html#a5186b2cdb0d059bc12d57e30932fd098" title="add_suggestion" alt="" coords="359,1171,472,1197"/>
+<area shape="rect" id="node42" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="531,1373,675,1400"/>
+<area shape="rect" id="node44" href="spellsuggest_8c.html#afc6e67159e846e2041b05d32d184b75e" title="check_suggestions" alt="" coords="348,867,483,893"/>
+<area shape="rect" id="node3" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="752,563,829,589"/>
+<area shape="rect" id="node4" href="evalvars_8c.html#a37e36efae4aa7e8ebf60e83f3a695397" title="prepare_vimvar" alt="" coords="360,81,471,108"/>
+<area shape="rect" id="node7" href="evalvars_8c.html#ad24dc360910df498ab3f75c5957e55b6" title="set_vim_var_string" alt="" coords="537,715,669,741"/>
+<area shape="rect" id="node8" href="eval_8c.html#a0305cc6241b38e6e49c48da0de1b560c" title="clear_tv" alt="" coords="757,512,825,539"/>
+<area shape="rect" id="node21" href="eval_8c.html#a9ae2372d20627658ee38414871dcf28c" title="eval1" alt="" coords="389,512,442,539"/>
+<area shape="rect" id="node25" href="evalvars_8c.html#a287cbe97033bf8e9c93b8d884530601f" title="get_vim_var_tv" alt="" coords="360,461,471,488"/>
+<area shape="rect" id="node26" href="evalvars_8c.html#abcf1983fd24639b9c65ca187050d8058" title="restore_vimvar" alt="" coords="361,233,469,260"/>
+<area shape="rect" id="node5" href="hashtab_8c.html#af1235e0f7163089ec19df22a8af6d996" title="hash_add" alt="" coords="563,56,642,83"/>
+<area shape="rect" id="node6" href="message_8c.html#acf47f2acaa03395461e2b233638e69d0" title="internal_error" alt="" coords="1071,171,1168,197"/>
+<area shape="rect" id="node18" href="misc2_8c.html#acd554ee46804f666060916bf740b3c96" title="vim_strsave" alt="" coords="744,765,837,792"/>
+<area shape="rect" id="node20" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="741,816,841,843"/>
+<area shape="rect" id="node9" href="userfunc_8c.html#afd225c04dcf2fc60e106550a915295ae" title="func_unref" alt="" coords="921,512,1004,539"/>
+<area shape="rect" id="node10" href="eval_8c.html#ae1ee36a725913597ed42ad9093bceae6" title="partial_unref" alt="" coords="916,411,1009,437"/>
+<area shape="rect" id="node11" href="blob_8c.html#a38a02d7876babff31bbdee512f44a309" title="blob_unref" alt="" coords="921,461,1004,488"/>
+<area shape="rect" id="node17" href="dict_8c.html#aabf2cdc48294b2576212f72230235c81" title="dict_unref" alt="" coords="923,613,1002,640"/>
+<area shape="rect" id="node13" href="list_8c.html#ad5552a454ce1d4a6b2be4c1ea67f46c7" title="list_free" alt="" coords="1085,664,1153,691"/>
+<area shape="rect" id="node14" href="list_8c.html#a6deadda10f40c5cad092a0f503a2768b" title="list_free_contents" alt="" coords="1220,613,1345,640"/>
+<area shape="rect" id="node16" href="list_8c.html#a3672930fc905e4385169431143fe6d2f" title="list_free_list" alt="" coords="1237,664,1329,691"/>
+<area shape="rect" id="node15" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="1393,715,1465,741"/>
+<area shape="rect" id="node19" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="938,816,987,843"/>
+<area shape="rect" id="node22" href="eval_8c.html#ae007afdae9e63ccf21281d7d72cf3879" title="eval2" alt="" coords="576,461,629,488"/>
+<area shape="rect" id="node23" href="eval_8c.html#afe90fb5791694f52bbf8cd774a7632f7" title="tv_get_number_chk" alt="" coords="723,309,859,336"/>
+<area shape="rect" id="node24" href="message_8c.html#ae5991a4d11897dfaee9bfab8e5489d82" title="emsg" alt="" coords="935,360,990,387"/>
+<area shape="rect" id="node27" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="563,208,642,235"/>
+<area shape="rect" id="node28" href="hashtab_8c.html#a6acdcb55113dfca42811b53109f8b3ba" title="hash_remove" alt="" coords="553,259,653,285"/>
+<area shape="rect" id="node30" href="eval_8c.html#ac06b57274a721210cd205e253073bfa9" title="tv_get_string" alt="" coords="367,19,464,45"/>
+<area shape="rect" id="node32" href="eval_8c.html#a3727d19f20cae99511bbcf9b97aad1d5" title="tv_get_number" alt="" coords="361,157,469,184"/>
+<area shape="rect" id="node31" href="eval_8c.html#ad139542ff475eb76586ac368cf7ea619" title="tv_get_string_buf" alt="" coords="541,5,664,32"/>
+<area shape="rect" id="node34" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="556,1297,649,1324"/>
+<area shape="rect" id="node40" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="567,1171,638,1197"/>
+<area shape="rect" id="node35" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="907,1316,1019,1343"/>
+<area shape="rect" id="node37" href="spellsuggest_8c.html#a1bac34b3e85e91d19e6d1c62a24185fc" title="stp_sal_score" alt="" coords="739,1272,842,1299"/>
+<area shape="rect" id="node39" href="spellsuggest_8c.html#aa188edec209bd7bed4b4c67389192104" title="sug_compare" alt="" coords="741,1373,841,1400"/>
+<area shape="rect" id="node36" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="1067,1208,1172,1235"/>
+<area shape="rect" id="node38" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="916,1215,1009,1241"/>
+<area shape="rect" id="node41" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="742,1171,839,1197"/>
+<area shape="rect" id="node43" href="misc2_8c.html#a0a3244deafa9c8a260e7e72f47732b6c" title="qsort" alt="" coords="765,1424,816,1451"/>
+<area shape="rect" id="node45" href="spell_8c.html#a1a15c33e24e249822f48f85a14764c61" title="spell_check" alt="" coords="557,993,648,1020"/>
+<area shape="rect" id="node46" href="charset_8c.html#a35a186fa599127c504712833cd871506" title="skipbin" alt="" coords="759,917,822,944"/>
+<area shape="rect" id="node47" href="charset_8c.html#a905848305c8b461121d58eae440e70c0" title="skiphex" alt="" coords="757,968,824,995"/>
+<area shape="rect" id="node48" href="charset_8c.html#a3b21cf6150be4559ab6fd90593f300c0" title="skipdigits" alt="" coords="752,1019,829,1045"/>
+<area shape="rect" id="node49" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="912,1076,1013,1103"/>
+<area shape="rect" id="node50" href="spell_8c.html#a40e1c4fecec8a1f2dab7928cd51b3017" title="find_word" alt="" coords="751,1120,830,1147"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a4ad143655cb94bf6fc97fc827982a1fa"></a>
@@ -2390,6 +3272,64 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l00913">913</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a4ad143655cb94bf6fc97fc827982a1fa_cgraph.png" border="0" usemap="#spellsuggest_8c_a4ad143655cb94bf6fc97fc827982a1fa_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a4ad143655cb94bf6fc97fc827982a1fa_cgraph" id="spellsuggest_8c_a4ad143655cb94bf6fc97fc827982a1fa_cgraph">
+<area shape="rect" id="node2" href="os__win32_8c.html#af1ef6cc4b2e3b02554529c108268ff5d" title="mch_fopen" alt="" coords="391,107,478,133"/>
+<area shape="rect" id="node10" href="message_8c.html#aeb2442b830699494f53059773212d850" title="semsg" alt="" coords="217,639,278,665"/>
+<area shape="rect" id="node12" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="783,537,865,564"/>
+<area shape="rect" id="node31" href="fileio_8c.html#a5db19ca608e2af8356b6808c8e355bbb" title="vim_fgets" alt="" coords="208,1171,287,1197"/>
+<area shape="rect" id="node32" href="misc1_8c.html#a8703516dc56663f759f265915d1acc2d" title="line_breakcheck" alt="" coords="189,487,305,513"/>
+<area shape="rect" id="node35" href="spell_8c.html#abc3990dd37bd9fc90bcd9b533c1ca062" title="captype" alt="" coords="213,1120,281,1147"/>
+<area shape="rect" id="node39" href="spell_8c.html#a0c36e73cd1ee3f266eb552dea1fce86d" title="make_case_word" alt="" coords="185,1044,309,1071"/>
+<area shape="rect" id="node43" href="spellsuggest_8c.html#a5186b2cdb0d059bc12d57e30932fd098" title="add_suggestion" alt="" coords="191,259,304,285"/>
+<area shape="rect" id="node47" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="363,309,507,336"/>
+<area shape="rect" id="node49" href="spellsuggest_8c.html#afc6e67159e846e2041b05d32d184b75e" title="check_suggestions" alt="" coords="180,765,315,792"/>
+<area shape="rect" id="node3" href="winclip_8c.html#ab534c81cfd7b23a579001fb0adbd5c44" title="enc_to_utf16" alt="" coords="577,56,675,83"/>
+<area shape="rect" id="node9" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="788,436,860,463"/>
+<area shape="rect" id="node4" href="winclip_8c.html#a89d02dfbc4163f96a81e3677fd7a2be3" title="MultiByteToWideChar\l_alloc" alt="" coords="749,158,899,199"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#a71f312b0794a51fed97ae37b14ebc9fa" title="convert_setup" alt="" coords="772,5,876,32"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#a83661a5d9f6e99842ed7d5b318daa6c3" title="string_convert" alt="" coords="772,56,876,83"/>
+<area shape="rect" id="node7" href="winclip_8c.html#a22ee621c772b95b0460f8ea6b880a828" title="utf8_to_utf16" alt="" coords="775,107,873,133"/>
+<area shape="rect" id="node8" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="951,284,1041,311"/>
+<area shape="rect" id="node11" href="message_8c.html#acb331402be1af5668813b9f0e1ba9b2c" title="emsg_not_now" alt="" coords="379,689,490,716"/>
+<area shape="rect" id="node15" href="message_8c.html#a1e35ae924f192dd42844b5c4a80cd836" title="vim_vsnprintf" alt="" coords="385,512,485,539"/>
+<area shape="rect" id="node17" href="message_8c.html#a1e980fe44bc1c9b3c06185b2b77ee4b9" title="emsg_core" alt="" coords="391,892,478,919"/>
+<area shape="rect" id="node13" href="mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="951,537,1041,564"/>
+<area shape="rect" id="node14" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="1089,537,1172,564"/>
+<area shape="rect" id="node16" href="message_8c.html#a3eb47990c628e1ae6939a4671855db9d" title="vim_vsnprintf_typval" alt="" coords="555,512,697,539"/>
+<area shape="rect" id="node18" href="message_8c.html#a21b5ffcf6012cbaa4ed765b191e071e4" title="ignore_error" alt="" coords="581,816,671,843"/>
+<area shape="rect" id="node19" href="message_8c.html#a084dafebcb70ccaab8b0c09dd836a6eb" title="msg_use_printf" alt="" coords="571,765,681,792"/>
+<area shape="rect" id="node20" href="ex__eval_8c.html#a2d67f4c6119ad646c4ebb8a6ecc57cc1" title="cause_errthrow" alt="" coords="571,664,681,691"/>
+<area shape="rect" id="node21" href="evalvars_8c.html#ad24dc360910df498ab3f75c5957e55b6" title="set_vim_var_string" alt="" coords="560,309,692,336"/>
+<area shape="rect" id="node23" href="message_8c.html#a701ffeff793261a605a4090e7c085a2d" title="msg_start" alt="" coords="586,1221,666,1248"/>
+<area shape="rect" id="node24" href="message_8c.html#afe58ce2cd3fdfe6bf06b2183856ca027" title="redir_write" alt="" coords="783,1247,865,1273"/>
+<area shape="rect" id="node25" href="message_8c.html#aac6faaf9996ddf77ea5086c7b928d69c" title="get_emsg_source" alt="" coords="761,987,887,1013"/>
+<area shape="rect" id="node26" href="message_8c.html#add52ed83e1055f7a6721ffc7b92dd780" title="get_emsg_lnum" alt="" coords="767,1063,881,1089"/>
+<area shape="rect" id="node27" href="misc1_8c.html#a8086f25f5f93d29a9bdd62f5a3e3b901" title="beep_flush" alt="" coords="583,1171,669,1197"/>
+<area shape="rect" id="node28" href="getchar_8c.html#a08218e75f65cf78c2b75f702de094f74" title="flush_buffers" alt="" coords="775,1145,873,1172"/>
+<area shape="rect" id="node29" href="message_8c.html#a8fba68755b6f0632589492cc06daa673" title="msg_source" alt="" coords="579,968,673,995"/>
+<area shape="rect" id="node30" href="message_8c.html#a29b0e37f9886d0ccb9a14bbad62f64f6" title="msg_attr" alt="" coords="787,929,861,956"/>
+<area shape="rect" id="node22" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="774,267,874,293"/>
+<area shape="rect" id="node33" href="ui_8c.html#a93504ee9d75f4621a7615fd2c71db403" title="ui_breakcheck" alt="" coords="381,436,488,463"/>
+<area shape="rect" id="node34" href="ui_8c.html#a4fce54b05bd82da424f51ce8e7674c5e" title="ui_breakcheck_force" alt="" coords="555,411,697,437"/>
+<area shape="rect" id="node36" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="558,1373,694,1400"/>
+<area shape="rect" id="node38" href="mbyte_8c.html#a505073bff7332ecc1f0c8c21d190264c" title="mb_ptr2char_adv" alt="" coords="373,1196,496,1223"/>
+<area shape="rect" id="node37" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="745,1373,903,1400"/>
+<area shape="rect" id="node40" href="spell_8c.html#aa027edb1b6551998884b7e9e84d69372" title="allcap_copy" alt="" coords="389,1095,480,1121"/>
+<area shape="rect" id="node41" href="spell_8c.html#aa1a40bd942c4c476aac46aebd8e48287" title="onecap_copy" alt="" coords="385,1044,484,1071"/>
+<area shape="rect" id="node42" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="579,1323,673,1349"/>
+<area shape="rect" id="node44" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="388,259,481,285"/>
+<area shape="rect" id="node46" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="399,208,470,235"/>
+<area shape="rect" id="node45" href="spellsuggest_8c.html#aa188edec209bd7bed4b4c67389192104" title="sug_compare" alt="" coords="576,208,676,235"/>
+<area shape="rect" id="node48" href="misc2_8c.html#a0a3244deafa9c8a260e7e72f47732b6c" title="qsort" alt="" coords="601,259,651,285"/>
+<area shape="rect" id="node50" href="spell_8c.html#a1a15c33e24e249822f48f85a14764c61" title="spell_check" alt="" coords="389,993,480,1020"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="ae8d0a554c3c4362ca0c6e619c18c61a7"></a>
@@ -2425,6 +3365,64 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l00969">969</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_ae8d0a554c3c4362ca0c6e619c18c61a7_cgraph.png" border="0" usemap="#spellsuggest_8c_ae8d0a554c3c4362ca0c6e619c18c61a7_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_ae8d0a554c3c4362ca0c6e619c18c61a7_cgraph" id="spellsuggest_8c_ae8d0a554c3c4362ca0c6e619c18c61a7_cgraph">
+<area shape="rect" id="node2" href="spellfile_8c.html#a8482c44ca4cd852545010a9d92dcd763" title="suggest_load_files" alt="" coords="628,423,759,449"/>
+<area shape="rect" id="node18" href="spellsuggest_8c.html#a4c95c2b2f8e18730bf9540cfa68d6825" title="suggest_try_special" alt="" coords="437,828,576,855"/>
+<area shape="rect" id="node29" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="807,701,951,728"/>
+<area shape="rect" id="node31" href="spellsuggest_8c.html#aa95dfbb43c73b4b848bf76dc7636002f" title="suggest_try_change" alt="" coords="221,1132,359,1159"/>
+<area shape="rect" id="node33" href="ui_8c.html#a93504ee9d75f4621a7615fd2c71db403" title="ui_breakcheck" alt="" coords="640,676,747,703"/>
+<area shape="rect" id="node35" href="spellsuggest_8c.html#a4066eed8be76a8d4466c94b9da18bde7" title="score_comp_sal" alt="" coords="635,1081,752,1108"/>
+<area shape="rect" id="node37" href="spellsuggest_8c.html#afbc8cbf6cde69d17f961f6575831ee97" title="rescore_suggestions" alt="" coords="219,980,361,1007"/>
+<area shape="rect" id="node38" href="spellsuggest_8c.html#a932c25e725e6de01c848c859d74146d9" title="suggest_try_soundalike_prep" alt="" coords="195,391,385,417"/>
+<area shape="rect" id="node40" href="spellsuggest_8c.html#a88ae2a22cd3e562c7d815e817e310518" title="suggest_try_soundalike" alt="" coords="211,879,369,905"/>
+<area shape="rect" id="node41" href="spellsuggest_8c.html#a26fdc92610ba573635aab38162062566" title="suggest_try_soundalike\l_finish" alt="" coords="211,306,369,347"/>
+<area shape="rect" id="node43" href="getchar_8c.html#a15db3f8639823b11e0a9e1ea99873be5" title="vgetc" alt="" coords="263,1385,317,1412"/>
+<area shape="rect" id="node49" href="spellsuggest_8c.html#afc6e67159e846e2041b05d32d184b75e" title="check_suggestions" alt="" coords="1003,1208,1137,1235"/>
+<area shape="rect" id="node3" href="misc2_8c.html#a9c29c61788e69d7dd5893a616a60d0f6" title="vim_strrchr" alt="" coords="835,245,922,272"/>
+<area shape="rect" id="node4" href="os__win32_8c.html#af1ef6cc4b2e3b02554529c108268ff5d" title="mch_fopen" alt="" coords="835,600,922,627"/>
+<area shape="rect" id="node7" href="message_8c.html#aeb2442b830699494f53059773212d850" title="semsg" alt="" coords="848,296,909,323"/>
+<area shape="rect" id="node8" href="misc2_8c.html#aef06d68332ab0222301906030a2ae65b" title="get8ctime" alt="" coords="839,347,918,373"/>
+<area shape="rect" id="node9" href="spellfile_8c.html#ae22a22fb03d04b06d229141920aae925" title="spell_read_tree" alt="" coords="823,549,934,576"/>
+<area shape="rect" id="node10" href="misc2_8c.html#a07ffcf1b24d54d0108a56d8cd9c57471" title="get4c" alt="" coords="1043,411,1097,437"/>
+<area shape="rect" id="node11" href="spell_8c.html#acc125d2051ee74c8af8112bac2663c02" title="slang_clear_sug" alt="" coords="821,448,937,475"/>
+<area shape="rect" id="node12" href="spell_8c.html#aa9e117212a7e590466601ecbea23c066" title="open_spellbuf" alt="" coords="827,499,930,525"/>
+<area shape="rect" id="node13" href="misc2_8c.html#a3026bad36de32ad700cd165789e53508" title="ga_init2" alt="" coords="845,93,912,120"/>
+<area shape="rect" id="node14" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="843,853,914,880"/>
+<area shape="rect" id="node15" href="memline_8c.html#a50f229cf0f22b1940ea90f5c643a20b0" title="ml_append_buf" alt="" coords="823,144,934,171"/>
+<area shape="rect" id="node16" href="misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="1035,588,1105,615"/>
+<area shape="rect" id="node17" href="spellfile_8c.html#aa9d90f4b7beecbd9fc19ccf8b3645f4a" title="tree_count_words" alt="" coords="816,195,941,221"/>
+<area shape="rect" id="node5" href="winclip_8c.html#ab534c81cfd7b23a579001fb0adbd5c44" title="enc_to_utf16" alt="" coords="1021,487,1119,513"/>
+<area shape="rect" id="node6" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="1209,588,1281,615"/>
+<area shape="rect" id="node19" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="1201,904,1289,931"/>
+<area shape="rect" id="node20" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="655,879,732,905"/>
+<area shape="rect" id="node21" href="spell_8c.html#a0c36e73cd1ee3f266eb552dea1fce86d" title="make_case_word" alt="" coords="631,828,755,855"/>
+<area shape="rect" id="node22" href="spellsuggest_8c.html#a5186b2cdb0d059bc12d57e30932fd098" title="add_suggestion" alt="" coords="637,777,750,804"/>
+<area shape="rect" id="node23" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="832,1005,925,1032"/>
+<area shape="rect" id="node24" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="1189,1056,1301,1083"/>
+<area shape="rect" id="node26" href="spellsuggest_8c.html#a1bac34b3e85e91d19e6d1c62a24185fc" title="stp_sal_score" alt="" coords="1019,1107,1121,1133"/>
+<area shape="rect" id="node28" href="spellsuggest_8c.html#aa188edec209bd7bed4b4c67389192104" title="sug_compare" alt="" coords="1020,740,1120,767"/>
+<area shape="rect" id="node25" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="1349,1157,1455,1184"/>
+<area shape="rect" id="node27" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="1199,1157,1292,1184"/>
+<area shape="rect" id="node30" href="misc2_8c.html#a0a3244deafa9c8a260e7e72f47732b6c" title="qsort" alt="" coords="1045,689,1095,716"/>
+<area shape="rect" id="node32" href="spellsuggest_8c.html#af64055056d928166fa0ae8a321d8db8c" title="suggest_trie_walk" alt="" coords="443,879,570,905"/>
+<area shape="rect" id="node34" href="ui_8c.html#a4fce54b05bd82da424f51ce8e7674c5e" title="ui_breakcheck_force" alt="" coords="999,791,1141,817"/>
+<area shape="rect" id="node36" href="misc2_8c.html#acd554ee46804f666060916bf740b3c96" title="vim_strsave" alt="" coords="832,1157,925,1184"/>
+<area shape="rect" id="node39" href="hashtab_8c.html#a1e75fcb634cc34f2a968e47d1b37381a" title="hash_init" alt="" coords="469,352,544,379"/>
+<area shape="rect" id="node42" href="hashtab_8c.html#a82320ef8ee0783629a0cab3a74586b75" title="hash_clear" alt="" coords="651,191,736,217"/>
+<area shape="rect" id="node44" href="eval_8c.html#a14d6782665cdf2c5a77790d454dd22c5" title="garbage_collect" alt="" coords="450,1360,563,1387"/>
+<area shape="rect" id="node45" href="popupwin_8c.html#afb872eecb5107372ebf0b61e26360c79" title="popup_no_mapping" alt="" coords="439,1411,574,1437"/>
+<area shape="rect" id="node46" href="getchar_8c.html#a705e9b2327791563355f84d1c8ff3efa" title="vgetorpeek" alt="" coords="463,764,550,791"/>
+<area shape="rect" id="node47" href="popupwin_8c.html#aae8466cf0cbbde243e24a8abd3de20bd" title="popup_do_filter" alt="" coords="451,1461,562,1488"/>
+<area shape="rect" id="node48" href="main_8c.html#a64f40f5a485057c3bec8efe06132c883" title="state_no_longer_safe" alt="" coords="433,1512,580,1539"/>
+<area shape="rect" id="node50" href="spell_8c.html#a1a15c33e24e249822f48f85a14764c61" title="spell_check" alt="" coords="1200,1208,1291,1235"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -2471,6 +3469,64 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l00697">697</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a46f83300a843d8165b42c1689e7d2c64_cgraph.png" border="0" usemap="#spellsuggest_8c_a46f83300a843d8165b42c1689e7d2c64_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a46f83300a843d8165b42c1689e7d2c64_cgraph" id="spellsuggest_8c_a46f83300a843d8165b42c1689e7d2c64_cgraph">
+<area shape="rect" id="node2" href="spellsuggest_8c.html#a86c105bab59d2110195a9ddc8b63dacd" title="spell_find_suggest" alt="" coords="180,549,311,576"/>
+<area shape="rect" id="node4" href="misc2_8c.html#a3026bad36de32ad700cd165789e53508" title="ga_init2" alt="" coords="781,43,848,69"/>
+<area shape="rect" id="node22" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="972,1816,1021,1843"/>
+<area shape="rect" id="node26" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="779,853,850,880"/>
+<area shape="rect" id="node49" href="spellsuggest_8c.html#a101028bb724f8263a5c0b67bd67fe53d" title="spell_find_cleanup" alt="" coords="557,144,686,171"/>
+<area shape="rect" id="node3" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="948,904,1045,931"/>
+<area shape="rect" id="node6" href="hashtab_8c.html#a1e75fcb634cc34f2a968e47d1b37381a" title="hash_init" alt="" coords="392,752,467,779"/>
+<area shape="rect" id="node7" href="spell_8c.html#a1a15c33e24e249822f48f85a14764c61" title="spell_check" alt="" coords="384,1208,475,1235"/>
+<area shape="rect" id="node12" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="1127,701,1233,728"/>
+<area shape="rect" id="node17" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="1323,1309,1416,1336"/>
+<area shape="rect" id="node28" href="spellsuggest_8c.html#aa2470cff8a1c4db8937f4f2b67698ff1" title="badword_captype" alt="" coords="367,803,491,829"/>
+<area shape="rect" id="node29" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="941,600,1053,627"/>
+<area shape="rect" id="node33" href="spell_8c.html#a0c36e73cd1ee3f266eb552dea1fce86d" title="make_case_word" alt="" coords="935,651,1059,677"/>
+<area shape="rect" id="node36" href="spellsuggest_8c.html#a5186b2cdb0d059bc12d57e30932fd098" title="add_suggestion" alt="" coords="565,600,678,627"/>
+<area shape="rect" id="node40" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="961,220,1033,247"/>
+<area shape="rect" id="node41" href="spellsuggest_8c.html#a118e0368d6d0a515f78a2b7ed0a403a6" title="add_banned" alt="" coords="575,1664,667,1691"/>
+<area shape="rect" id="node42" href="misc2_8c.html#acd554ee46804f666060916bf740b3c96" title="vim_strsave" alt="" coords="768,1816,861,1843"/>
+<area shape="rect" id="node43" href="misc2_8c.html#a2c53531dd0451dcef1ae39403b49ee67" title="copy_option_part" alt="" coords="369,195,490,221"/>
+<area shape="rect" id="node44" href="spellsuggest_8c.html#ab893102ac459bc9418cb5abc31fe34b8" title="spell_suggest_expr" alt="" coords="362,524,497,551"/>
+<area shape="rect" id="node45" href="spellsuggest_8c.html#a4ad143655cb94bf6fc97fc827982a1fa" title="spell_suggest_file" alt="" coords="366,625,493,652"/>
+<area shape="rect" id="node46" href="spellsuggest_8c.html#ae8d0a554c3c4362ca0c6e619c18c61a7" title="spell_suggest_intern" alt="" coords="359,397,500,424"/>
+<area shape="rect" id="node47" href="spellsuggest_8c.html#a17c78c1c612d2727251c571d11be7ee9" title="score_combine" alt="" coords="566,245,677,272"/>
+<area shape="rect" id="node5" href="misc2_8c.html#aa4a742a85394880bf5a6b688c6a48f6c" title="ga_init" alt="" coords="967,119,1027,145"/>
+<area shape="rect" id="node8" href="charset_8c.html#a35a186fa599127c504712833cd871506" title="skipbin" alt="" coords="590,1360,653,1387"/>
+<area shape="rect" id="node9" href="charset_8c.html#a905848305c8b461121d58eae440e70c0" title="skiphex" alt="" coords="588,1056,655,1083"/>
+<area shape="rect" id="node10" href="charset_8c.html#a3b21cf6150be4559ab6fd90593f300c0" title="skipdigits" alt="" coords="583,1157,660,1184"/>
+<area shape="rect" id="node11" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="1319,1360,1420,1387"/>
+<area shape="rect" id="node14" href="spell_8c.html#a40e1c4fecec8a1f2dab7928cd51b3017" title="find_word" alt="" coords="957,1309,1036,1336"/>
+<area shape="rect" id="node16" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="1301,1157,1437,1184"/>
+<area shape="rect" id="node18" href="spell_8c.html#ab79a58e4d8bbbaa2e26fc28cffce804c" title="find_prefix" alt="" coords="1139,1411,1221,1437"/>
+<area shape="rect" id="node19" href="spell_8c.html#af79a3745912a5972c83b97fe16b992e5" title="count_common_word" alt="" coords="548,1588,695,1615"/>
+<area shape="rect" id="node25" href="regexp__bt_8c.html#a8c84017ae5b6830cd8a93599acbf3d05" title="regmatch" alt="" coords="583,1005,659,1032"/>
+<area shape="rect" id="node27" href="regexp_8c.html#abefc0928e7264f306f6149e3c5bdb074" title="vim_regexec" alt="" coords="573,1208,669,1235"/>
+<area shape="rect" id="node13" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="1305,701,1434,728"/>
+<area shape="rect" id="node15" href="spell_8c.html#abc3990dd37bd9fc90bcd9b533c1ca062" title="captype" alt="" coords="1146,1081,1214,1108"/>
+<area shape="rect" id="node20" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="772,1613,857,1640"/>
+<area shape="rect" id="node21" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="767,1664,862,1691"/>
+<area shape="rect" id="node24" href="hashtab_8c.html#a9915fceb0d7010855e662d55e9f342bd" title="hash_add_item" alt="" coords="759,1715,870,1741"/>
+<area shape="rect" id="node23" href="misc2_8c.html#ad3a9b4acc984c110795e0251a175ba4c" title="lalloc" alt="" coords="1154,1816,1206,1843"/>
+<area shape="rect" id="node30" href="spell_8c.html#ab56a9e7fc34aedaadaa856b6d62d1deb" title="spell_soundfold_sofo" alt="" coords="1108,600,1252,627"/>
+<area shape="rect" id="node31" href="spell_8c.html#abe3c5bde90b3f127caa022dbcdae509a" title="spell_soundfold_wsal" alt="" coords="1107,752,1253,779"/>
+<area shape="rect" id="node32" href="spell_8c.html#af5620a3c515c15e53db41cdebfbef77e" title="spell_soundfold_sal" alt="" coords="1112,1259,1248,1285"/>
+<area shape="rect" id="node34" href="spell_8c.html#aa027edb1b6551998884b7e9e84d69372" title="allcap_copy" alt="" coords="1135,651,1225,677"/>
+<area shape="rect" id="node35" href="spell_8c.html#aa1a40bd942c4c476aac46aebd8e48287" title="onecap_copy" alt="" coords="1131,803,1229,829"/>
+<area shape="rect" id="node37" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="768,600,861,627"/>
+<area shape="rect" id="node38" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="765,904,865,931"/>
+<area shape="rect" id="node39" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="743,499,887,525"/>
+<area shape="rect" id="node48" href="misc2_8c.html#afa822cc3cc70a9a0ee394863bcc0c941" title="ga_clear" alt="" coords="779,195,850,221"/>
+<area shape="rect" id="node50" href="hashtab_8c.html#a796dd83f3a8c24f46b52fc4fc55f7c69" title="hash_clear_all" alt="" coords="762,144,867,171"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -2519,6 +3575,41 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l02973">2973</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a1bac34b3e85e91d19e6d1c62a24185fc_cgraph.png" border="0" usemap="#spellsuggest_8c_a1bac34b3e85e91d19e6d1c62a24185fc_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a1bac34b3e85e91d19e6d1c62a24185fc_cgraph" id="spellsuggest_8c_a1bac34b3e85e91d19e6d1c62a24185fc_cgraph">
+<area shape="rect" id="node2" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="347,183,453,209"/>
+<area shape="rect" id="node8" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="173,233,261,260"/>
+<area shape="rect" id="node9" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="161,284,273,311"/>
+<area shape="rect" id="node25" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="547,563,640,589"/>
+<area shape="rect" id="node27" href="spellsuggest_8c.html#a073964095f532f0413d39ff67213ce6b" title="soundalike_score" alt="" coords="156,512,279,539"/>
+<area shape="rect" id="node3" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="727,81,857,108"/>
+<area shape="rect" id="node4" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="1103,95,1186,121"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="1099,157,1190,184"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="924,5,1041,32"/>
+<area shape="rect" id="node7" href="mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="1273,101,1333,128"/>
+<area shape="rect" id="node10" href="spell_8c.html#ab56a9e7fc34aedaadaa856b6d62d1deb" title="spell_soundfold_sofo" alt="" coords="521,157,665,184"/>
+<area shape="rect" id="node15" href="spell_8c.html#abe3c5bde90b3f127caa022dbcdae509a" title="spell_soundfold_wsal" alt="" coords="327,284,473,311"/>
+<area shape="rect" id="node23" href="spell_8c.html#af5620a3c515c15e53db41cdebfbef77e" title="spell_soundfold_sal" alt="" coords="332,411,468,437"/>
+<area shape="rect" id="node11" href="mbyte_8c.html#a4d7fb58aae46f9d8535ca1a260974be7" title="utf_class" alt="" coords="755,208,829,235"/>
+<area shape="rect" id="node12" href="mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="1095,208,1195,235"/>
+<area shape="rect" id="node13" href="charset_8c.html#a9dcd8ec399bd749ed97bdd8530ad0701" title="vim_iswordc_buf" alt="" coords="1243,233,1363,260"/>
+<area shape="rect" id="node14" href="mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="1411,309,1499,336"/>
+<area shape="rect" id="node16" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="525,461,661,488"/>
+<area shape="rect" id="node20" href="spell_8c.html#acf98416949884d5308d96b0b7778cfa2" title="spell_iswordp_w" alt="" coords="534,309,653,336"/>
+<area shape="rect" id="node21" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="751,284,833,311"/>
+<area shape="rect" id="node17" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="713,411,871,437"/>
+<area shape="rect" id="node18" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="741,461,843,488"/>
+<area shape="rect" id="node19" href="mbyte_8c.html#ae242a847bc7d90805007de2faec56759" title="mb_get_class_buf" alt="" coords="919,309,1047,336"/>
+<area shape="rect" id="node22" href="mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="937,107,1028,133"/>
+<area shape="rect" id="node24" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="555,512,632,539"/>
+<area shape="rect" id="node26" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="543,411,644,437"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -2604,6 +3695,64 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l01224">1224</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_af64055056d928166fa0ae8a321d8db8c_cgraph.png" border="0" usemap="#spellsuggest_8c_af64055056d928166fa0ae8a321d8db8c_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_af64055056d928166fa0ae8a321d8db8c_cgraph" id="spellsuggest_8c_af64055056d928166fa0ae8a321d8db8c_cgraph">
+<area shape="rect" id="node2" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="843,742,941,769"/>
+<area shape="rect" id="node3" href="spell_8c.html#ade67b400ed420c10bc947003f5226257" title="nofold_len" alt="" coords="239,58,321,85"/>
+<area shape="rect" id="node4" href="spellsuggest_8c.html#aa2470cff8a1c4db8937f4f2b67698ff1" title="badword_captype" alt="" coords="218,109,342,135"/>
+<area shape="rect" id="node5" href="spell_8c.html#abc3990dd37bd9fc90bcd9b533c1ca062" title="captype" alt="" coords="467,33,535,59"/>
+<area shape="rect" id="node6" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="625,58,761,85"/>
+<area shape="rect" id="node10" href="spellsuggest_8c.html#a57a3d37df28ad92e67c3843416961879" title="go_deeper" alt="" coords="239,261,321,287"/>
+<area shape="rect" id="node11" href="spell_8c.html#a0c36e73cd1ee3f266eb552dea1fce86d" title="make_case_word" alt="" coords="439,635,563,662"/>
+<area shape="rect" id="node14" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="845,546,939,573"/>
+<area shape="rect" id="node15" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="450,210,551,237"/>
+<area shape="rect" id="node17" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="847,235,937,262"/>
+<area shape="rect" id="node18" href="spell_8c.html#a0fcb71e1874f2eabe5c6e988975585e1" title="valid_word_prefix" alt="" coords="219,413,341,439"/>
+<area shape="rect" id="node20" href="spellsuggest_8c.html#af7ec09d5fb0f682ec35d71163b036e0e" title="score_wordcount_adj" alt="" coords="428,1325,573,1351"/>
+<area shape="rect" id="node24" href="spellsuggest_8c.html#a5186b2cdb0d059bc12d57e30932fd098" title="add_suggestion" alt="" coords="444,919,557,946"/>
+<area shape="rect" id="node30" href="mbyte_8c.html#ad3c8d651a4e07b99b8ba3b5dc2e142c3" title="mb_charlen" alt="" coords="235,666,325,693"/>
+<area shape="rect" id="node31" href="spell_8c.html#ac13c9b4f268486173a6d2bc86ffaeea9" title="match_checkcompoundpattern" alt="" coords="180,717,380,743"/>
+<area shape="rect" id="node32" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="236,767,324,794"/>
+<area shape="rect" id="node33" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="241,818,319,845"/>
+<area shape="rect" id="node34" href="spell_8c.html#aee0ac5e72927811b057184edb8ff70ce" title="can_compound" alt="" coords="225,362,335,389"/>
+<area shape="rect" id="node36" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="635,413,752,439"/>
+<area shape="rect" id="node38" href="spellsuggest_8c.html#a47767ce9a43417c3c312ec0a225248aa" title="find_keepcap_word" alt="" coords="433,869,568,895"/>
+<area shape="rect" id="node39" href="spellsuggest_8c.html#a118e0368d6d0a515f78a2b7ed0a403a6" title="add_banned" alt="" coords="455,1223,547,1250"/>
+<area shape="rect" id="node42" href="spell_8c.html#adaea6db6bd786fb9ca50ad954f1851c6" title="spell_valid_case" alt="" coords="221,1071,339,1098"/>
+<area shape="rect" id="node43" href="message_8c.html#a9475d91e06c3a6d7d370ef54c0589f71" title="smsg" alt="" coords="253,565,307,591"/>
+<area shape="rect" id="node45" href="spellsuggest_8c.html#a53ffb78253a7489fe45ade5a372bf588" title="add_sound_suggest" alt="" coords="211,1021,349,1047"/>
+<area shape="rect" id="node48" href="spellsuggest_8c.html#ab58dc53b08fb3802b027c936c764a575" title="can_be_compound" alt="" coords="215,1223,345,1250"/>
+<area shape="rect" id="node49" href="spellsuggest_8c.html#ac41a3249fc510891b2781ba1c10465a3" title="similar_chars" alt="" coords="451,1375,550,1402"/>
+<area shape="rect" id="node50" href="ui_8c.html#a93504ee9d75f4621a7615fd2c71db403" title="ui_breakcheck" alt="" coords="227,1325,333,1351"/>
+<area shape="rect" id="node9" href="mbyte_8c.html#a505073bff7332ecc1f0c8c21d190264c" title="mb_ptr2char_adv" alt="" coords="632,7,755,34"/>
+<area shape="rect" id="node7" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="813,147,971,174"/>
+<area shape="rect" id="node8" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="841,71,943,98"/>
+<area shape="rect" id="node12" href="spell_8c.html#aa027edb1b6551998884b7e9e84d69372" title="allcap_copy" alt="" coords="648,654,739,681"/>
+<area shape="rect" id="node13" href="spell_8c.html#aa1a40bd942c4c476aac46aebd8e48287" title="onecap_copy" alt="" coords="644,578,743,605"/>
+<area shape="rect" id="node16" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="652,210,735,237"/>
+<area shape="rect" id="node19" href="regexp_8c.html#aa980656cedf8d5415584dfb7e7df6425" title="vim_regexec_prog" alt="" coords="437,413,565,439"/>
+<area shape="rect" id="node21" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="654,1325,733,1351"/>
+<area shape="rect" id="node22" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="845,1274,939,1301"/>
+<area shape="rect" id="node23" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="849,1173,935,1199"/>
+<area shape="rect" id="node25" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="647,869,740,895"/>
+<area shape="rect" id="node26" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="658,767,729,794"/>
+<area shape="rect" id="node27" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="643,919,743,946"/>
+<area shape="rect" id="node29" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="621,818,765,845"/>
+<area shape="rect" id="node28" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="867,970,917,997"/>
+<area shape="rect" id="node35" href="mbyte_8c.html#a7d36274c4fe31f3e8c447d33cfdbdb7a" title="utf_char2bytes" alt="" coords="447,362,555,389"/>
+<area shape="rect" id="node37" href="spell_8c.html#a60e9462925fe0f2e3f688d96cfc91fa2" title="count_syllables" alt="" coords="445,311,557,338"/>
+<area shape="rect" id="node40" href="misc2_8c.html#acd554ee46804f666060916bf740b3c96" title="vim_strsave" alt="" coords="647,1122,740,1149"/>
+<area shape="rect" id="node41" href="hashtab_8c.html#a9915fceb0d7010855e662d55e9f342bd" title="hash_add_item" alt="" coords="638,1071,749,1098"/>
+<area shape="rect" id="node44" href="message_8c.html#a1e35ae924f192dd42844b5c4a80cd836" title="vim_vsnprintf" alt="" coords="451,565,551,591"/>
+<area shape="rect" id="node46" href="spellsuggest_8c.html#a90d9ddd326d85a4fc487b8621080d7d8" title="soundfold_find" alt="" coords="447,1071,554,1098"/>
+<area shape="rect" id="node47" href="message_8c.html#acf47f2acaa03395461e2b233638e69d0" title="internal_error" alt="" coords="452,1122,549,1149"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="aa95dfbb43c73b4b848bf76dc7636002f"></a>
@@ -2629,6 +3778,64 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l01152">1152</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_aa95dfbb43c73b4b848bf76dc7636002f_cgraph.png" border="0" usemap="#spellsuggest_8c_aa95dfbb43c73b4b848bf76dc7636002f_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_aa95dfbb43c73b4b848bf76dc7636002f_cgraph" id="spellsuggest_8c_aa95dfbb43c73b4b848bf76dc7636002f_cgraph">
+<area shape="rect" id="node2" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="203,402,308,429"/>
+<area shape="rect" id="node7" href="spellsuggest_8c.html#af64055056d928166fa0ae8a321d8db8c" title="suggest_trie_walk" alt="" coords="192,681,319,708"/>
+<area shape="rect" id="node3" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="1014,352,1143,378"/>
+<area shape="rect" id="node4" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="1223,352,1305,378"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="1219,174,1309,201"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="1205,48,1323,74"/>
+<area shape="rect" id="node8" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="1030,833,1127,860"/>
+<area shape="rect" id="node9" href="spell_8c.html#ade67b400ed420c10bc947003f5226257" title="nofold_len" alt="" coords="426,1162,507,1189"/>
+<area shape="rect" id="node10" href="spellsuggest_8c.html#aa2470cff8a1c4db8937f4f2b67698ff1" title="badword_captype" alt="" coords="405,504,529,530"/>
+<area shape="rect" id="node11" href="spell_8c.html#abc3990dd37bd9fc90bcd9b533c1ca062" title="captype" alt="" coords="653,504,721,530"/>
+<area shape="rect" id="node12" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="812,377,948,404"/>
+<area shape="rect" id="node16" href="spellsuggest_8c.html#a57a3d37df28ad92e67c3843416961879" title="go_deeper" alt="" coords="425,1213,508,1240"/>
+<area shape="rect" id="node17" href="spell_8c.html#a0c36e73cd1ee3f266eb552dea1fce86d" title="make_case_word" alt="" coords="625,757,749,784"/>
+<area shape="rect" id="node20" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="1032,732,1125,758"/>
+<area shape="rect" id="node21" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="829,250,931,277"/>
+<area shape="rect" id="node23" href="spell_8c.html#a0fcb71e1874f2eabe5c6e988975585e1" title="valid_word_prefix" alt="" coords="626,149,749,176"/>
+<area shape="rect" id="node25" href="spellsuggest_8c.html#af7ec09d5fb0f682ec35d71163b036e0e" title="score_wordcount_adj" alt="" coords="615,1061,760,1088"/>
+<area shape="rect" id="node29" href="spellsuggest_8c.html#a5186b2cdb0d059bc12d57e30932fd098" title="add_suggestion" alt="" coords="631,909,744,936"/>
+<area shape="rect" id="node34" href="mbyte_8c.html#ad3c8d651a4e07b99b8ba3b5dc2e142c3" title="mb_charlen" alt="" coords="422,1264,511,1290"/>
+<area shape="rect" id="node35" href="spell_8c.html#ac13c9b4f268486173a6d2bc86ffaeea9" title="match_checkcompoundpattern" alt="" coords="367,1314,567,1341"/>
+<area shape="rect" id="node36" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="423,1365,511,1392"/>
+<area shape="rect" id="node37" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="428,301,505,328"/>
+<area shape="rect" id="node38" href="spell_8c.html#aee0ac5e72927811b057184edb8ff70ce" title="can_compound" alt="" coords="632,98,743,125"/>
+<area shape="rect" id="node41" href="spellsuggest_8c.html#a47767ce9a43417c3c312ec0a225248aa" title="find_keepcap_word" alt="" coords="620,706,755,733"/>
+<area shape="rect" id="node42" href="spellsuggest_8c.html#a118e0368d6d0a515f78a2b7ed0a403a6" title="add_banned" alt="" coords="421,1061,513,1088"/>
+<area shape="rect" id="node45" href="spell_8c.html#adaea6db6bd786fb9ca50ad954f1851c6" title="spell_valid_case" alt="" coords="407,352,526,378"/>
+<area shape="rect" id="node46" href="message_8c.html#a9475d91e06c3a6d7d370ef54c0589f71" title="smsg" alt="" coords="439,453,494,480"/>
+<area shape="rect" id="node47" href="spellsuggest_8c.html#a53ffb78253a7489fe45ade5a372bf588" title="add_sound_suggest" alt="" coords="397,960,536,986"/>
+<area shape="rect" id="node48" href="spellsuggest_8c.html#ab58dc53b08fb3802b027c936c764a575" title="can_be_compound" alt="" coords="401,554,532,581"/>
+<area shape="rect" id="node49" href="spellsuggest_8c.html#ac41a3249fc510891b2781ba1c10465a3" title="similar_chars" alt="" coords="638,1314,737,1341"/>
+<area shape="rect" id="node50" href="ui_8c.html#a93504ee9d75f4621a7615fd2c71db403" title="ui_breakcheck" alt="" coords="413,656,520,682"/>
+<area shape="rect" id="node15" href="mbyte_8c.html#a505073bff7332ecc1f0c8c21d190264c" title="mb_ptr2char_adv" alt="" coords="819,504,941,530"/>
+<area shape="rect" id="node13" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="1000,250,1157,277"/>
+<area shape="rect" id="node14" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="1027,301,1130,328"/>
+<area shape="rect" id="node18" href="spell_8c.html#aa027edb1b6551998884b7e9e84d69372" title="allcap_copy" alt="" coords="835,656,925,682"/>
+<area shape="rect" id="node19" href="spell_8c.html#aa1a40bd942c4c476aac46aebd8e48287" title="onecap_copy" alt="" coords="831,706,929,733"/>
+<area shape="rect" id="node22" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1037,174,1120,201"/>
+<area shape="rect" id="node24" href="regexp_8c.html#aa980656cedf8d5415584dfb7e7df6425" title="vim_regexec_prog" alt="" coords="816,200,944,226"/>
+<area shape="rect" id="node26" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="841,1213,919,1240"/>
+<area shape="rect" id="node27" href="hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="1031,1213,1126,1240"/>
+<area shape="rect" id="node28" href="hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="1036,1162,1121,1189"/>
+<area shape="rect" id="node30" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="833,960,927,986"/>
+<area shape="rect" id="node31" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="845,858,915,885"/>
+<area shape="rect" id="node32" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="830,1010,930,1037"/>
+<area shape="rect" id="node33" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="808,909,952,936"/>
+<area shape="rect" id="node39" href="mbyte_8c.html#a7d36274c4fe31f3e8c447d33cfdbdb7a" title="utf_char2bytes" alt="" coords="1025,48,1133,74"/>
+<area shape="rect" id="node40" href="spell_8c.html#a60e9462925fe0f2e3f688d96cfc91fa2" title="count_syllables" alt="" coords="824,149,936,176"/>
+<area shape="rect" id="node43" href="misc2_8c.html#acd554ee46804f666060916bf740b3c96" title="vim_strsave" alt="" coords="641,1213,734,1240"/>
+<area shape="rect" id="node44" href="hashtab_8c.html#a9915fceb0d7010855e662d55e9f342bd" title="hash_add_item" alt="" coords="632,1112,743,1138"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -2656,6 +3863,64 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03066">3066</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a88ae2a22cd3e562c7d815e817e310518_cgraph.png" border="0" usemap="#spellsuggest_8c_a88ae2a22cd3e562c7d815e817e310518_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a88ae2a22cd3e562c7d815e817e310518_cgraph" id="spellsuggest_8c_a88ae2a22cd3e562c7d815e817e310518_cgraph">
+<area shape="rect" id="node2" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="1020,503,1132,530"/>
+<area shape="rect" id="node19" href="spellsuggest_8c.html#af64055056d928166fa0ae8a321d8db8c" title="suggest_trie_walk" alt="" coords="212,681,339,707"/>
+<area shape="rect" id="node3" href="spell_8c.html#ab56a9e7fc34aedaadaa856b6d62d1deb" title="spell_soundfold_sofo" alt="" coords="1181,554,1325,581"/>
+<area shape="rect" id="node8" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="1201,605,1306,631"/>
+<area shape="rect" id="node9" href="spell_8c.html#abe3c5bde90b3f127caa022dbcdae509a" title="spell_soundfold_wsal" alt="" coords="1180,453,1327,479"/>
+<area shape="rect" id="node15" href="spell_8c.html#af5620a3c515c15e53db41cdebfbef77e" title="spell_soundfold_sal" alt="" coords="1185,503,1321,530"/>
+<area shape="rect" id="node4" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="1378,655,1507,682"/>
+<area shape="rect" id="node7" href="mbyte_8c.html#a4d7fb58aae46f9d8535ca1a260974be7" title="utf_class" alt="" coords="1600,554,1675,581"/>
+<area shape="rect" id="node5" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="1764,453,1855,479"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="1579,959,1696,986"/>
+<area shape="rect" id="node10" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="1375,301,1511,327"/>
+<area shape="rect" id="node13" href="spell_8c.html#acf98416949884d5308d96b0b7778cfa2" title="spell_iswordp_w" alt="" coords="1383,402,1502,429"/>
+<area shape="rect" id="node14" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1596,453,1679,479"/>
+<area shape="rect" id="node11" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="1559,351,1716,378"/>
+<area shape="rect" id="node12" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="1586,301,1689,327"/>
+<area shape="rect" id="node16" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="1404,807,1481,834"/>
+<area shape="rect" id="node17" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="1396,706,1489,733"/>
+<area shape="rect" id="node18" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="1392,351,1493,378"/>
+<area shape="rect" id="node20" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="1027,579,1125,606"/>
+<area shape="rect" id="node21" href="spell_8c.html#ade67b400ed420c10bc947003f5226257" title="nofold_len" alt="" coords="446,1010,527,1037"/>
+<area shape="rect" id="node22" href="spellsuggest_8c.html#aa2470cff8a1c4db8937f4f2b67698ff1" title="badword_captype" alt="" coords="425,98,549,125"/>
+<area shape="rect" id="node23" href="spell_8c.html#abc3990dd37bd9fc90bcd9b533c1ca062" title="captype" alt="" coords="673,199,741,226"/>
+<area shape="rect" id="node24" href="spellsuggest_8c.html#a57a3d37df28ad92e67c3843416961879" title="go_deeper" alt="" coords="445,1061,528,1087"/>
+<area shape="rect" id="node25" href="spell_8c.html#a0c36e73cd1ee3f266eb552dea1fce86d" title="make_case_word" alt="" coords="645,529,769,555"/>
+<area shape="rect" id="node28" href="spell_8c.html#a0fcb71e1874f2eabe5c6e988975585e1" title="valid_word_prefix" alt="" coords="425,909,548,935"/>
+<area shape="rect" id="node30" href="spellsuggest_8c.html#af7ec09d5fb0f682ec35d71163b036e0e" title="score_wordcount_adj" alt="" coords="635,655,780,682"/>
+<area shape="rect" id="node32" href="spellsuggest_8c.html#a5186b2cdb0d059bc12d57e30932fd098" title="add_suggestion" alt="" coords="651,605,764,631"/>
+<area shape="rect" id="node37" href="mbyte_8c.html#ad3c8d651a4e07b99b8ba3b5dc2e142c3" title="mb_charlen" alt="" coords="442,1111,531,1138"/>
+<area shape="rect" id="node38" href="spell_8c.html#ac13c9b4f268486173a6d2bc86ffaeea9" title="match_checkcompoundpattern" alt="" coords="387,1162,587,1189"/>
+<area shape="rect" id="node39" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="443,1213,531,1239"/>
+<area shape="rect" id="node40" href="spell_8c.html#aee0ac5e72927811b057184edb8ff70ce" title="can_compound" alt="" coords="431,959,542,986"/>
+<area shape="rect" id="node43" href="spellsuggest_8c.html#a47767ce9a43417c3c312ec0a225248aa" title="find_keepcap_word" alt="" coords="640,453,775,479"/>
+<area shape="rect" id="node44" href="spellsuggest_8c.html#a118e0368d6d0a515f78a2b7ed0a403a6" title="add_banned" alt="" coords="441,1263,533,1290"/>
+<area shape="rect" id="node45" href="spell_8c.html#adaea6db6bd786fb9ca50ad954f1851c6" title="spell_valid_case" alt="" coords="427,1314,546,1341"/>
+<area shape="rect" id="node46" href="message_8c.html#a9475d91e06c3a6d7d370ef54c0589f71" title="smsg" alt="" coords="459,1365,514,1391"/>
+<area shape="rect" id="node47" href="spellsuggest_8c.html#a53ffb78253a7489fe45ade5a372bf588" title="add_sound_suggest" alt="" coords="417,554,556,581"/>
+<area shape="rect" id="node48" href="spellsuggest_8c.html#ab58dc53b08fb3802b027c936c764a575" title="can_be_compound" alt="" coords="421,149,552,175"/>
+<area shape="rect" id="node49" href="spellsuggest_8c.html#ac41a3249fc510891b2781ba1c10465a3" title="similar_chars" alt="" coords="658,706,757,733"/>
+<area shape="rect" id="node50" href="ui_8c.html#a93504ee9d75f4621a7615fd2c71db403" title="ui_breakcheck" alt="" coords="433,250,540,277"/>
+<area shape="rect" id="node26" href="spell_8c.html#aa027edb1b6551998884b7e9e84d69372" title="allcap_copy" alt="" coords="855,453,945,479"/>
+<area shape="rect" id="node27" href="spell_8c.html#aa1a40bd942c4c476aac46aebd8e48287" title="onecap_copy" alt="" coords="1204,706,1303,733"/>
+<area shape="rect" id="node29" href="regexp_8c.html#aa980656cedf8d5415584dfb7e7df6425" title="vim_regexec_prog" alt="" coords="643,909,771,935"/>
+<area shape="rect" id="node31" href="hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="861,757,939,783"/>
+<area shape="rect" id="node33" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="853,503,947,530"/>
+<area shape="rect" id="node34" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="865,706,935,733"/>
+<area shape="rect" id="node35" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="850,605,950,631"/>
+<area shape="rect" id="node36" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="828,655,972,682"/>
+<area shape="rect" id="node41" href="mbyte_8c.html#a7d36274c4fe31f3e8c447d33cfdbdb7a" title="utf_char2bytes" alt="" coords="1022,1010,1130,1037"/>
+<area shape="rect" id="node42" href="spell_8c.html#a60e9462925fe0f2e3f688d96cfc91fa2" title="count_syllables" alt="" coords="1020,909,1132,935"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a26fdc92610ba573635aab38162062566"></a>
@@ -2681,6 +3946,19 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03102">3102</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a26fdc92610ba573635aab38162062566_cgraph.png" border="0" usemap="#spellsuggest_8c_a26fdc92610ba573635aab38162062566_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a26fdc92610ba573635aab38162062566_cgraph" id="spellsuggest_8c_a26fdc92610ba573635aab38162062566_cgraph">
+<area shape="rect" id="node2" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="358,5,430,32"/>
+<area shape="rect" id="node3" href="hashtab_8c.html#a82320ef8ee0783629a0cab3a74586b75" title="hash_clear" alt="" coords="212,31,297,57"/>
+<area shape="rect" id="node4" href="hashtab_8c.html#a1e75fcb634cc34f2a968e47d1b37381a" title="hash_init" alt="" coords="217,81,292,108"/>
+<area shape="rect" id="node5" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="345,81,443,108"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>
@@ -2708,6 +3986,17 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l03043">3043</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
 
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a932c25e725e6de01c848c859d74146d9_cgraph.png" border="0" usemap="#spellsuggest_8c_a932c25e725e6de01c848c859d74146d9_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a932c25e725e6de01c848c859d74146d9_cgraph" id="spellsuggest_8c_a932c25e725e6de01c848c859d74146d9_cgraph">
+<area shape="rect" id="node2" href="hashtab_8c.html#a1e75fcb634cc34f2a968e47d1b37381a" title="hash_init" alt="" coords="244,5,319,32"/>
+<area shape="rect" id="node3" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="367,5,464,32"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a4c95c2b2f8e18730bf9540cfa68d6825"></a>
@@ -2733,6 +4022,64 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="spellsuggest_8c_source.html#l01071">1071</a> of file <a class="el" href="spellsuggest_8c_source.html">spellsuggest.c</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="spellsuggest_8c_a4c95c2b2f8e18730bf9540cfa68d6825_cgraph.png" border="0" usemap="#spellsuggest_8c_a4c95c2b2f8e18730bf9540cfa68d6825_cgraph" alt=""/></div>
+<map name="spellsuggest_8c_a4c95c2b2f8e18730bf9540cfa68d6825_cgraph" id="spellsuggest_8c_a4c95c2b2f8e18730bf9540cfa68d6825_cgraph">
+<area shape="rect" id="node2" href="charset_8c.html#af985ed977d4d9940d6e927f8845ee5db" title="skiptowhite" alt="" coords="859,816,947,843"/>
+<area shape="rect" id="node3" href="charset_8c.html#a9b0bcaf36a3b4d0acb84601593dea494" title="skipwhite" alt="" coords="1237,892,1315,919"/>
+<area shape="rect" id="node4" href="spell_8c.html#a0c36e73cd1ee3f266eb552dea1fce86d" title="make_case_word" alt="" coords="841,867,965,893"/>
+<area shape="rect" id="node13" href="spellsuggest_8c.html#a5186b2cdb0d059bc12d57e30932fd098" title="add_suggestion" alt="" coords="192,477,305,504"/>
+<area shape="rect" id="node5" href="spell_8c.html#aa027edb1b6551998884b7e9e84d69372" title="allcap_copy" alt="" coords="1041,765,1132,792"/>
+<area shape="rect" id="node11" href="spell_8c.html#aa1a40bd942c4c476aac46aebd8e48287" title="onecap_copy" alt="" coords="1037,867,1136,893"/>
+<area shape="rect" id="node6" href="mbyte_8c.html#aea8ab0ab68edf3b74f7a14472bdab2d6" title="mb_cptr2char_adv" alt="" coords="1211,765,1341,792"/>
+<area shape="rect" id="node7" href="mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="1763,553,1845,580"/>
+<area shape="rect" id="node8" href="mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="1611,551,1701,577"/>
+<area shape="rect" id="node9" href="mbyte_8c.html#a8c7d2fa2b617b38524c1d246a3813b22" title="utf_iscomposing" alt="" coords="1597,816,1715,843"/>
+<area shape="rect" id="node10" href="mbyte_8c.html#a20d55e5cdd72a58a4778e486a42996de" title="intable" alt="" coords="1774,745,1834,772"/>
+<area shape="rect" id="node12" href="misc2_8c.html#ab25a3a48241497fdc7bec2c3dbe41467" title="vim_strncpy" alt="" coords="1229,816,1323,843"/>
+<area shape="rect" id="node14" href="spellsuggest_8c.html#aeec2d42d7a26531ccf5c85b5c3ae1091" title="rescore_one" alt="" coords="547,560,641,587"/>
+<area shape="rect" id="node33" href="misc2_8c.html#a0d962b27bea5772af8833d283ff78ae9" title="ga_grow" alt="" coords="390,477,461,504"/>
+<area shape="rect" id="node35" href="misc2_8c.html#a871ddb65e41d8bed1c38754d59737a5b" title="vim_strnsave" alt="" coords="375,284,475,311"/>
+<area shape="rect" id="node48" href="spellsuggest_8c.html#adf0c6da112c06d44e84bd66c4cc2a9b9" title="cleanup_suggestions" alt="" coords="353,385,497,412"/>
+<area shape="rect" id="node15" href="spell_8c.html#a0ff55aa5adc0c4aea90edf432dbf8ec4" title="spell_soundfold" alt="" coords="847,613,959,640"/>
+<area shape="rect" id="node30" href="spellsuggest_8c.html#a1bac34b3e85e91d19e6d1c62a24185fc" title="stp_sal_score" alt="" coords="691,689,793,716"/>
+<area shape="rect" id="node32" href="spellsuggest_8c.html#aa188edec209bd7bed4b4c67389192104" title="sug_compare" alt="" coords="692,487,792,513"/>
+<area shape="rect" id="node16" href="spell_8c.html#ab56a9e7fc34aedaadaa856b6d62d1deb" title="spell_soundfold_sofo" alt="" coords="1015,613,1159,640"/>
+<area shape="rect" id="node19" href="spell_8c.html#a633d0e229289f706fe932f02f431b651" title="spell_casefold" alt="" coords="1034,715,1139,741"/>
+<area shape="rect" id="node20" href="spell_8c.html#abe3c5bde90b3f127caa022dbcdae509a" title="spell_soundfold_wsal" alt="" coords="1013,563,1160,589"/>
+<area shape="rect" id="node28" href="spell_8c.html#af5620a3c515c15e53db41cdebfbef77e" title="spell_soundfold_sal" alt="" coords="1019,664,1155,691"/>
+<area shape="rect" id="node17" href="mbyte_8c.html#a4d7fb58aae46f9d8535ca1a260974be7" title="utf_class" alt="" coords="1433,563,1508,589"/>
+<area shape="rect" id="node18" href="mbyte_8c.html#a659fb3f275546d6737f9f71fc824f64e" title="utf_class_buf" alt="" coords="1606,639,1706,665"/>
+<area shape="rect" id="node21" href="spell_8c.html#a5abc64808259626e7c176c6ca16591fa" title="spell_iswordp_nmw" alt="" coords="1208,715,1344,741"/>
+<area shape="rect" id="node24" href="spell_8c.html#acf98416949884d5308d96b0b7778cfa2" title="spell_iswordp_w" alt="" coords="1217,512,1335,539"/>
+<area shape="rect" id="node25" href="misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="1429,461,1512,488"/>
+<area shape="rect" id="node22" href="spell_8c.html#a8c1dbf34ff1c9bd931fe860ec2387a82" title="spell_mb_isword_class" alt="" coords="1392,613,1549,640"/>
+<area shape="rect" id="node23" href="mbyte_8c.html#aef3124f933c11b8d29f9a422304df7a2" title="mb_get_class" alt="" coords="1419,664,1522,691"/>
+<area shape="rect" id="node27" href="mbyte_8c.html#ad1e2811f8dcc6d9f9ba50160ad9d8f3f" title="dbcs_class" alt="" coords="1427,512,1515,539"/>
+<area shape="rect" id="node26" href="mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="1611,481,1701,508"/>
+<area shape="rect" id="node29" href="spell_8c.html#a46efa9a63e791cd6472267d9ceab5276" title="spell_iswordp" alt="" coords="1225,664,1327,691"/>
+<area shape="rect" id="node31" href="spellsuggest_8c.html#a073964095f532f0413d39ff67213ce6b" title="soundalike_score" alt="" coords="842,715,965,741"/>
+<area shape="rect" id="node34" href="misc2_8c.html#ae98dff29b2b09696996ab4ead873a667" title="vim_memset" alt="" coords="545,477,643,504"/>
+<area shape="rect" id="node36" href="misc2_8c.html#ad0b64e14955781629a3908e328f82665" title="alloc" alt="" coords="717,107,767,133"/>
+<area shape="rect" id="node37" href="misc2_8c.html#ad3a9b4acc984c110795e0251a175ba4c" title="lalloc" alt="" coords="877,107,929,133"/>
+<area shape="rect" id="node38" href="message_8c.html#a7926d7fa9a35dc0f5bac051dec01240a" title="iemsg" alt="" coords="1058,309,1115,336"/>
+<area shape="rect" id="node42" href="os__amiga_8c.html#a6e92b08b7ae3c707b1db1ae998139368" title="mch_avail_mem" alt="" coords="1028,157,1145,184"/>
+<area shape="rect" id="node43" href="message_8c.html#a3e064d85fa764215513e69b79a66318b" title="clear_sb_text" alt="" coords="1226,5,1326,32"/>
+<area shape="rect" id="node44" href="memfile_8c.html#a4319e1f0749b4120f9e3528b225003d2" title="mf_release_all" alt="" coords="1033,107,1140,133"/>
+<area shape="rect" id="node47" href="misc2_8c.html#aa78bd2b6504d6815a6b474f73d0bfffc" title="do_outofmem_msg" alt="" coords="1020,56,1153,83"/>
+<area shape="rect" id="node39" href="message_8c.html#acb331402be1af5668813b9f0e1ba9b2c" title="emsg_not_now" alt="" coords="1221,360,1331,387"/>
+<area shape="rect" id="node40" href="message_8c.html#a1e980fe44bc1c9b3c06185b2b77ee4b9" title="emsg_core" alt="" coords="1233,309,1319,336"/>
+<area shape="rect" id="node41" href="misc2_8c.html#a4b4777924352aae7456002f6d9438ffd" title="vim_free" alt="" coords="1435,208,1507,235"/>
+<area shape="rect" id="node45" href="memline_8c.html#af02ef149bb7430fbe0cd031bbab8b3c2" title="ml_open_file" alt="" coords="1229,107,1323,133"/>
+<area shape="rect" id="node46" href="memfile_8c.html#ab225594ee6fc821ea71aa381f5786631" title="mf_write" alt="" coords="1240,157,1312,184"/>
+<area shape="rect" id="node49" href="misc2_8c.html#a0a3244deafa9c8a260e7e72f47732b6c" title="qsort" alt="" coords="569,196,619,223"/>
+<area shape="rect" id="node50" href="misc2_8c.html#aa1392ec3142a872eadc9ad888bec7757" title="sort_compare" alt="" coords="691,157,793,184"/>
+</map>
+</div>
+</p>
 
 </div>
 </div>

@@ -1,0 +1,9 @@
+<map id="BufMapIter" name="BufMapIter">
+<area shape="rect" id="node2" href="$if__py__both_8h.html#ad7f5dba8d7f98e90e060a1a4d82efa52" title="BufferNew" alt="" coords="331,32,415,59"/>
+<area shape="rect" id="node3" href="$if__py__both_8h.html#a815443b56dd53f04b49499bf91f76149" title="IterNew" alt="" coords="175,32,243,59"/>
+<area shape="rect" id="node4" href="$if__py__both_8h.html#a2828a28875c4b1b5681b24719a047f6a" title="BufMapIterDestruct" alt="" coords="141,83,277,109"/>
+<area shape="rect" id="node5" href="$if__py__both_8h.html#a5452b890f2e8577438fa27588a1684c3" title="BufMapIterNext" alt="" coords="151,133,266,160"/>
+<area shape="rect" id="node7" href="$if__py__both_8h.html#a7051e37d4ba62e171dbde2a8ee04c251" title="BufMapIterTraverse" alt="" coords="140,184,277,211"/>
+<area shape="rect" id="node8" href="$if__py__both_8h.html#acdfc232163ffa4e64d56930c48789b08" title="BufMapIterClear" alt="" coords="150,235,267,261"/>
+<area shape="rect" id="node6" href="$if__py__both_8h.html#a867d33488f05b5ed2126e3115013a1ef" title="CheckBuffer" alt="" coords="325,133,420,160"/>
+</map>

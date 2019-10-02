@@ -1,0 +1,10 @@
+<map id="buflist_name_nr" name="buflist_name_nr">
+<area shape="rect" id="node2" href="$buffer_8c.html#ae1c125b4d8b13929d8a54a2466570c62" title="buflist_findnr" alt="" coords="177,56,273,83"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#abbfff6b967ed7488a1cf9a776945eb40" title="buflist_findlnum" alt="" coords="168,107,281,133"/>
+<area shape="rect" id="node3" href="$hashtab_8c.html#ad88600b48e72a2a435f472e63680577b" title="hash_find" alt="" coords="345,56,424,83"/>
+<area shape="rect" id="node4" href="$hashtab_8c.html#ab2e29d6b1fd5efabb342d54bfef8fa3e" title="hash_lookup" alt="" coords="488,5,583,32"/>
+<area shape="rect" id="node5" href="$hashtab_8c.html#ab7126f54a285be15504669298285d6c0" title="hash_hash" alt="" coords="493,56,578,83"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a70e9ba3d1aa998fa7379870485f959cb" title="buflist_findfpos" alt="" coords="329,107,440,133"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#aecc814e9ade307ad895d403b578cfb2a" title="find_wininfo" alt="" coords="490,107,581,133"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#a3b0dd1feabed5e32f0945505f1ef058e" title="wininfo_other_tab_diff" alt="" coords="631,107,780,133"/>
+</map>

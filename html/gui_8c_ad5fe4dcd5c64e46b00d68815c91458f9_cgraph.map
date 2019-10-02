@@ -1,0 +1,10 @@
+<map id="gui_position_components" name="gui_position_components">
+<area shape="rect" id="node2" href="$misc2_8c.html#a8978cebac3b4ced66551e67c3a375842" title="vim_strchr" alt="" coords="274,31,357,57"/>
+<area shape="rect" id="node6" href="$gui__athena_8c.html#aa2a9e178677a9abb88d600ad60d4f5ff" title="gui_mch_set_text_area_pos" alt="" coords="223,81,408,108"/>
+<area shape="rect" id="node7" href="$gui_8c.html#a16a25c20605e4dd8dedc70b809aed37f" title="gui_position_menu" alt="" coords="250,132,381,159"/>
+<area shape="rect" id="node9" href="$gui__athena_8c.html#ac19c9c6a0e8c68a4deb4dc3aba54846a" title="gui_mch_set_scrollbar_pos" alt="" coords="225,183,405,209"/>
+<area shape="rect" id="node3" href="$mbyte_8c.html#acf1d98273836a7cf665f37ed719237ce" title="utfc_ptr2len" alt="" coords="492,5,583,32"/>
+<area shape="rect" id="node5" href="$mbyte_8c.html#aaad0e5164799bb3256d7c6827aa9e670" title="utf_ptr2char" alt="" coords="492,56,583,83"/>
+<area shape="rect" id="node4" href="$mbyte_8c.html#adad1b095d3961720e5b374c3cac048df" title="utf_ptr2len" alt="" coords="667,5,749,32"/>
+<area shape="rect" id="node8" href="$gui__athena_8c.html#a8e8a0aa7ad172e77b79bece87df3d09e" title="gui_mch_set_menu_pos" alt="" coords="456,132,619,159"/>
+</map>

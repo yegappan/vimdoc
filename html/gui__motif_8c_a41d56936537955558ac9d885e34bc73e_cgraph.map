@@ -1,0 +1,7 @@
+<map id="gui_motif_create_fontlist" name="gui_motif_create_fontlist">
+<area shape="rect" id="node2" href="$gui__motif_8c.html#a64c0fc3239c7c574568f1edc6799c36e" title="gui_motif_add_actext" alt="" coords="217,5,364,32"/>
+<area shape="rect" id="node3" href="$gui__motif_8c.html#ab0d36c6ec7e4decf3e2b808076ae1e58" title="submenu_change" alt="" coords="229,56,353,83"/>
+<area shape="rect" id="node6" href="$gui__motif_8c.html#aa105f052e10db8dbd4140246742bdc17" title="do_set_mnemonics" alt="" coords="223,107,358,133"/>
+<area shape="rect" id="node4" href="$gui__motif_8c.html#af17e71a9a5ad4024c2d611b1265cfc0f" title="gui_motif_menu_colors" alt="" coords="414,56,570,83"/>
+<area shape="rect" id="node5" href="$gui__motif_8c.html#a55165b143b84d1d464c1e7d770261940" title="gui_motif_menu_fontlist" alt="" coords="412,132,572,159"/>
+</map>
